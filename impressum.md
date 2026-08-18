@@ -5,7 +5,7 @@ Angaben gemäß **§ 5 E-Commerce-Gesetz (ECG)** und **§ 25 Mediengesetz (Medie
 ## Medieninhaber
 
 [Alois Tiefenbrunner]  
-[Straße und Hausnummer]  
+Lendgasse 1a  
 [6060 Hall in Tirol]  
 Österreich
 
