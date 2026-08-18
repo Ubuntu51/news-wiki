@@ -27,7 +27,7 @@ automatisch ins Deutsche übersetzt.
 | Der Standard – Wirtschaft | https://www.derstandard.at/rss/wirtschaft |
 | Die Presse – Wirtschaft | https://diepresse.com/rss/wirtschaft |
 | Die Presse – Politik | https://diepresse.com/rss/politik |
-| TT – Wirtschaft | https://www.tt.com/rss/wirtschaft.xml |
+| TT – Standort Tirol (Wirtschaft) | https://www.tt.com/rss/standorttirol.xml |
 
 ### 🤖 KI & LLM
 
