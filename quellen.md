@@ -65,6 +65,35 @@ automatisch ins Deutsche übersetzt.
 |---|---|
 | foodwatch | https://www.foodwatch.org/de/informieren/aktuelle-nachrichten (Scraper, kein RSS) |
 
+### 🔬 Wissenschaft
+
+| Quelle | Feed |
+|---|---|
+| wissenschaft.de | https://www.wissenschaft.de/feed/ |
+| ScienceDaily (übersetzt) | https://www.sciencedaily.com/rss/all.xml |
+| phys.org (übersetzt) | https://phys.org/rss-feed/ |
+| NZZ Wissenschaft | https://www.nzz.ch/wissenschaft.rss |
+
+### 🛡️ Sicherheit
+
+| Quelle | Feed |
+|---|---|
+| heise Security | https://www.heise.de/security/rss/news.rss |
+| Golem Security | https://www.golem.de/rss.php?feed=RSS2.0&cat=16 |
+
+### ⚽ Sport
+
+| Quelle | Feed |
+|---|---|
+| ORF Sport | https://rss.orf.at/sport.xml |
+| Der Standard Sport | https://www.derstandard.at/rss/sport |
+
+### 🚗 Mobilität
+
+| Quelle | Feed |
+|---|---|
+| electrive.net | https://www.electrive.net/feed/ |
+
 ---
 
 ## So funktioniert es
