@@ -59,6 +59,12 @@ automatisch ins Deutsche übersetzt.
 | Next Big Future | https://www.nextbigfuture.com/feed |
 | Medium – #future | https://medium.com/feed/tag/future |
 
+### 🍏 Leben
+
+| Quelle | Quelle/Feed |
+|---|---|
+| foodwatch | https://www.foodwatch.org/de/informieren/aktuelle-nachrichten (Scraper, kein RSS) |
+
 ---
 
 ## So funktioniert es
