@@ -2,9 +2,6 @@ title: Nachrichten-Wiki
 description: Tägliche Tageszusammenfassungen der News-Übersicht
 encoding: UTF-8
 
-plugins:
-  - jekyll-sitemap
-
 defaults:
   - scope:
       path: ""
