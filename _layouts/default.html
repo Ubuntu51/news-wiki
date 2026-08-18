@@ -10,7 +10,10 @@
 <div class="wrap">
   <header class="top">
     <a class="brand" href="{{ '/' | relative_url }}">📰 Nachrichten-Wiki</a>
-    <span class="sub">{{ site.description }}</span>
+    <span class="nav">
+      <a href="{{ '/' | relative_url }}">Übersicht</a>
+      <a href="{{ '/README.html' | relative_url }}">Quellen</a>
+    </span>
   </header>
   <main class="content">
 {{ content }}

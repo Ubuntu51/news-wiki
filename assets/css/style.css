@@ -48,6 +48,8 @@ header.top .brand {
 }
 header.top .brand:hover { color: var(--accent); text-decoration: none; }
 header.top .sub { color: var(--muted); font-size: 0.85rem; }
+header.top .nav { color: var(--muted); font-size: 0.9rem; }
+header.top .nav a { margin-left: 14px; }
 
 .content h1 {
   font-size: 1.7rem;
