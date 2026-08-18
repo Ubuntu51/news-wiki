@@ -1,2 +1,4 @@
 User-agent: *
-Disallow: /
+Allow: /
+
+Sitemap: https://ubuntu51.github.io/news-wiki/sitemap.xml
