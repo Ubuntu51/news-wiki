@@ -113,4 +113,19 @@ Der Ablauf wird zweimal täglich (07:00 und 18:00 Uhr) per systemd-Timer gestart
 ## Rechtlicher Hinweis
 
 Inhalte und Urheberrechte liegen bei den jeweiligen Medien. Dieses Wiki erstellt
-lediglich automatische Zusammenfassungen und verlinkt auf die Originalquellen.
+lediglich automatische, in eigenen Worten verfasste Zusammenfassungen und verlinkt
+auf die Originalquellen. Es wird kein Geld mit den Inhalten verdient.
+
+Nach österreichischem Urheberrechtsgesetz (UrhG) ist dieses Vorgehen abgedeckt:
+
+- **§ 44 Abs. 3 UrhG** – Einfache Presseberichte (Tagesnachrichten, vermischte
+  Nachrichten) genießen keinen urheberrechtlichen Schutz.
+- **§ 76f Abs. 5 UrhG** – Das Leistungsschutzrecht der Presseverleger gilt nicht für
+  private oder nicht-kommerzielle Nutzung, nicht für Hyperlinks und nicht für die
+  Nutzung einzelner Wörter oder sehr kurzer Auszüge (z. B. Schlagzeilen).
+- **§ 76f Abs. 3 UrhG** – Der Verlegerschutz erlischt zwei Jahre nach Veröffentlichung.
+
+Quelle: RIS – Urheberrechtsgesetz (BGBl. Nr. 111/1936 idgF),
+<https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001848>
+
+*Hinweis: Diese Angaben ersetzen keine Rechtsberatung.*
