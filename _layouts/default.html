@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{ page.title | default: site.title }}</title>
+<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <a class="brand" href="{{ '/' | relative_url }}">📰 Nachrichten-Wiki</a>
+    <span class="sub">{{ site.description }}</span>
+  </header>
+  <main class="content">
+{{ content }}
+  </main>
+  <footer>
+    Automatisch erzeugt aus den Tageszusammenfassungen · Quellenangaben siehe
+    <a href="https://github.com/Ubuntu51/news-wiki" rel="noopener">das Repo</a>
+  </footer>
+</div>
+</body>
+</html>
