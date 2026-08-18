@@ -4,14 +4,14 @@ Angaben gemäß **§ 5 E-Commerce-Gesetz (ECG)** und **§ 25 Mediengesetz (Medie
 
 ## Medieninhaber
 
-[Vorname Nachname]  
+[Alois Tiefenbrunner]  
 [Straße und Hausnummer]  
-[PLZ Ort]  
+[6060 Hall in Tirol]  
 Österreich
 
 ## Kontakt
 
-E-Mail: [e-mail@beispiel.at]
+E-Mail: dokuwiki@linuxat.de
 
 ## Grundlegende Richtung des Mediums (Offenlegung nach § 25 MedienG)
 

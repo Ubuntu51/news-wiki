@@ -5,11 +5,11 @@ Informationen gemäß Art. 13 und 14 DSGVO (Datenschutz-Grundverordnung) und
 
 ## 1. Verantwortlicher
 
-[Vorname Nachname]  
+[Alois Tiefenbrunner]  
 [Straße und Hausnummer]  
-[PLZ Ort]  
+[6060 Hall in Tirol]  
 Österreich  
-E-Mail: [e-mail@beispiel.at]
+E-Mail: dokuwiki@linuxat.de
 
 ## 2. Allgemeines
 
