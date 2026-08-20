@@ -31,6 +31,7 @@ ohne Code zu ändern.
 | Die Presse – Politik | https://diepresse.com/rss/politik |
 | TT – Standort Tirol (Wirtschaft) | https://www.tt.com/rss/standorttirol.xml |
 | netzpolitik.org | https://netzpolitik.org/feed/ |
+| profil | https://www.profil.at/rss.xml |
 
 ### 🤖 KI & LLM
 
