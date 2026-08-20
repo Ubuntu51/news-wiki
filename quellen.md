@@ -33,6 +33,9 @@ ohne Code zu ändern.
 | netzpolitik.org | https://netzpolitik.org/feed/ |
 | profil | https://www.profil.at/rss.xml |
 | Salzburger Nachrichten | https://www.sn.at/xml/rss |
+| OÖ Nachrichten | https://www.nachrichten.at/storage/rss/rss/nachrichten.xml |
+| APA-OTS | https://www.ots.at/rss/index |
+| Falter | https://www.falter.at/rss |
 
 ### 🤖 KI & LLM
 
