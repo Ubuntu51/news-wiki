@@ -36,6 +36,7 @@ ohne Code zu ändern.
 | OÖ Nachrichten | https://www.nachrichten.at/storage/rss/rss/nachrichten.xml |
 | APA-OTS | https://www.ots.at/rss/index |
 | Falter | https://www.falter.at/rss |
+| Wiener Zeitung | https://www.wienerzeitung.at/rss.xml |
 
 ### 🤖 KI & LLM
 
