@@ -1,10 +1,10 @@
 # 📰 Nachrichten-Wiki
 
-Automatisch erzeugt aus den Tageszusammenfassungen. Zuletzt aktualisiert: 20.08.2026, 07:37 Uhr.
+Automatisch erzeugt aus den Tageszusammenfassungen. Zuletzt aktualisiert: 20.08.2026, 12:36 Uhr.
 
 ## Neueste Zusammenfassung
 
-- [20.08.2026, 07:37 Uhr – Tageszusammenfassung](2026/08/2026-08-20_07-37.html)
+- [20.08.2026, 12:36 Uhr – Tageszusammenfassung](2026/08/2026-08-20_12-36.html)
 
 ## Archiv
 
@@ -12,6 +12,7 @@ Automatisch erzeugt aus den Tageszusammenfassungen. Zuletzt aktualisiert: 20.08.
 
 **August**
 
+- [20.08.2026, 12:36 Uhr](2026/08/2026-08-20_12-36.html)
 - [20.08.2026, 07:37 Uhr](2026/08/2026-08-20_07-37.html)
 - [19.08.2026, 18:36 Uhr](2026/08/2026-08-19_18-36.html)
 - [19.08.2026, 12:33 Uhr](2026/08/2026-08-19_12-33.html)
