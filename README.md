@@ -38,6 +38,20 @@ ohne Code zu ändern.
 | Falter | https://www.falter.at/rss |
 | Wiener Zeitung | https://www.wienerzeitung.at/rss.xml |
 
+### 📰 Zeitungs-Sektionen
+
+| Quelle | Feed |
+|---|---|
+| OÖ Nachrichten – Wirtschaft | https://www.nachrichten.at/storage/rss/rss/wirtschaft.xml |
+| OÖ Nachrichten – Politik | https://www.nachrichten.at/storage/rss/rss/politik.xml |
+| OÖ Nachrichten – Oberösterreich | https://www.nachrichten.at/storage/rss/rss/oberoesterreich.xml |
+| OÖ Nachrichten – Sport | https://www.nachrichten.at/storage/rss/rss/sport.xml |
+| APA-OTS – Politik | https://www.ots.at/rss/politik |
+| APA-OTS – Wirtschaft | https://www.ots.at/rss/wirtschaft |
+| APA-OTS – Finanzen | https://www.ots.at/rss/finanzen |
+| APA-OTS – Chronik | https://www.ots.at/rss/chronik |
+| APA-OTS – Kultur | https://www.ots.at/rss/kultur |
+
 ### 🤖 KI & LLM
 
 | Quelle | Feed |
@@ -105,6 +119,7 @@ ohne Code zu ändern.
 |---|---|
 | ORF Sport | https://rss.orf.at/sport.xml |
 | Der Standard Sport | https://www.derstandard.at/rss/sport |
+| OÖ Nachrichten Sport | https://www.nachrichten.at/storage/rss/rss/sport.xml |
 
 ### 🚗 Mobilität
 
