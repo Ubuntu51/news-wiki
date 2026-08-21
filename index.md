@@ -1,10 +1,10 @@
 # 📰 Nachrichten-Wiki
 
-Automatisch erzeugt aus den Tageszusammenfassungen. Zuletzt aktualisiert: 21.08.2026, 22:59 Uhr.
+Automatisch erzeugt aus den Tageszusammenfassungen. Zuletzt aktualisiert: 21.08.2026, 23:04 Uhr.
 
 ## Neueste Zusammenfassung
 
-- [21.08.2026, 22:41 Uhr – Tageszusammenfassung](2026/08/2026-08-21_22-41.html)
+- [21.08.2026, 18:40 Uhr – Tageszusammenfassung](2026/08/2026-08-21_18-40.html)
 
 ## Archiv
 
@@ -13,11 +13,17 @@ Automatisch erzeugt aus den Tageszusammenfassungen. Zuletzt aktualisiert: 21.08.
 **August**
 
 - 📅 [Monatszusammenfassung August 2026](2026/08/monat.html)
-- [21.08.2026, 22:41 Uhr](2026/08/2026-08-21_22-41.html)
-- [20.08.2026, 21:43 Uhr](2026/08/2026-08-20_21-43.html)
+- [21.08.2026, 18:40 Uhr](2026/08/2026-08-21_18-40.html)
+- [21.08.2026, 07:37 Uhr](2026/08/2026-08-21_07-37.html)
+- [20.08.2026, 18:40 Uhr](2026/08/2026-08-20_18-40.html)
+- [20.08.2026, 07:37 Uhr](2026/08/2026-08-20_07-37.html)
 - [19.08.2026, 18:36 Uhr](2026/08/2026-08-19_18-36.html)
-- [18.08.2026, 22:26 Uhr](2026/08/2026-08-18_22-26.html)
+- [19.08.2026, 07:34 Uhr](2026/08/2026-08-19_07-34.html)
+- [18.08.2026, 19:53 Uhr](2026/08/2026-08-18_19-53.html)
+- [18.08.2026, 07:33 Uhr](2026/08/2026-08-18_07-33.html)
 - [16.08.2026, 18:08 Uhr](2026/08/2026-08-16_18-08.html)
 - [14.08.2026, 21:17 Uhr](2026/08/2026-08-14_21-17.html)
+- [14.08.2026, 14:36 Uhr](2026/08/2026-08-14_14-36.html)
 - [13.08.2026, 22:22 Uhr](2026/08/2026-08-13_22-22.html)
-- [12.08.2026, 21:33 Uhr](2026/08/2026-08-12_21-33.html)
+- [13.08.2026, 08:04 Uhr](2026/08/2026-08-13_08-04.html)
+- [12.08.2026, 21:19 Uhr](2026/08/2026-08-12_21-19.html)
