@@ -35,7 +35,7 @@
   var input = document.getElementById('search-input');
   var results = document.getElementById('search-results');
   var docs = [];
-  fetch("{{ '/search.json' | relative_url }}")
+  fetch("{{ '/search.json' | relative_url }}?cb=" + new Date().getTime())
     .then(function (r) { return r.json(); })
     .then(function (data) { docs = data.docs || []; })
     .catch(function () { /* Suche deaktiviert, wenn search.json fehlt */ });
