@@ -19,6 +19,10 @@
     </span>
   </header>
   <main class="content">
+    <div class="search-box">
+      <input id="search-input" type="search" placeholder="Zusammenfassungen durchsuchen …" autocomplete="off">
+      <div id="search-results" hidden></div>
+    </div>
 {{ content }}
   </main>
   <footer>
@@ -26,5 +30,46 @@
     <a href="https://github.com/Ubuntu51/news-wiki" rel="noopener">das Repo</a>
   </footer>
 </div>
+<script>
+(function () {
+  var input = document.getElementById('search-input');
+  var results = document.getElementById('search-results');
+  var docs = [];
+  fetch("{{ '/search.json' | relative_url }}")
+    .then(function (r) { return r.json(); })
+    .then(function (data) { docs = data.docs || []; })
+    .catch(function () { /* Suche deaktiviert, wenn search.json fehlt */ });
+
+  function norm(s) {
+    return (s || '').toLowerCase().replace(/ä/g, 'ae').replace(/ö/g, 'oe')
+      .replace(/ü/g, 'ue').replace(/ß/g, 'ss');
+  }
+
+  input.addEventListener('input', function () {
+    var q = norm(input.value).trim();
+    results.hidden = !q;
+    if (!q) return;
+    var hits = docs.filter(function (d) {
+      var t = norm(d.title), s = norm(d.snippet);
+      var words = q.split(/\s+/).filter(Boolean);
+      return words.every(function (w) { return t.indexOf(w) !== -1 || s.indexOf(w) !== -1; });
+    }).slice(0, 12);
+
+    results.innerHTML = '';
+    if (!hits.length) {
+      results.innerHTML = '<div class="search-hit search-empty">Keine Treffer.</div>';
+      return;
+    }
+    hits.forEach(function (d) {
+      var a = document.createElement('a');
+      a.className = 'search-hit';
+      a.href = d.url;
+      a.innerHTML = '<strong>' + d.title + '</strong>'
+        + (d.snippet ? '<span class="search-snippet">' + d.snippet + '</span>' : '');
+      results.appendChild(a);
+    });
+  });
+})();
+</script>
 </body>
 </html>

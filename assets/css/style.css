@@ -106,6 +106,53 @@ header.top .nav a { margin-left: 14px; }
 
 .content hr { border: none; border-top: 1px solid var(--border); margin: 22px 0; }
 
+.search-box {
+  position: relative;
+  margin-bottom: 22px;
+}
+#search-input {
+  width: 100%;
+  padding: 10px 14px;
+  font-size: 0.95rem;
+  background: var(--panel);
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  outline: none;
+}
+#search-input:focus { border-color: var(--accent); box-shadow: 0 0 0 3px rgba(124, 92, 255, 0.15); }
+#search-results {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: calc(100% + 6px);
+  z-index: 20;
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
+  overflow: hidden;
+}
+.search-hit {
+  display: block;
+  padding: 10px 14px;
+  border-bottom: 1px solid var(--border);
+  color: var(--text);
+}
+.search-hit:last-child { border-bottom: none; }
+.search-hit:hover { background: var(--panel2); text-decoration: none; }
+.search-hit strong { display: block; }
+.search-snippet {
+  display: block;
+  color: var(--muted);
+  font-size: 0.82rem;
+  margin-top: 2px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.search-empty { color: var(--muted); font-style: italic; }
+
 footer {
   margin-top: 30px;
   padding-top: 14px;
