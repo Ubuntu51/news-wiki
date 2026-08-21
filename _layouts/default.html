@@ -50,9 +50,11 @@
     results.hidden = !q;
     if (!q) return;
     var hits = docs.filter(function (d) {
-      var t = norm(d.title), s = norm(d.snippet);
+      var t = norm(d.title), s = norm(d.snippet), x = norm(d.text);
       var words = q.split(/\s+/).filter(Boolean);
-      return words.every(function (w) { return t.indexOf(w) !== -1 || s.indexOf(w) !== -1; });
+      return words.every(function (w) {
+        return t.indexOf(w) !== -1 || s.indexOf(w) !== -1 || x.indexOf(w) !== -1;
+      });
     }).slice(0, 12);
 
     results.innerHTML = '';
