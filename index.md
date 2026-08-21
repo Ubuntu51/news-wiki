@@ -1,14 +1,10 @@
 # 📰 Nachrichten-Wiki
 
-Automatisch erzeugt aus den Tageszusammenfassungen. Zuletzt aktualisiert: 21.08.2026, 22:52 Uhr.
+Automatisch erzeugt aus den Tageszusammenfassungen. Zuletzt aktualisiert: 21.08.2026, 22:59 Uhr.
 
 ## Neueste Zusammenfassung
 
 - [21.08.2026, 22:41 Uhr – Tageszusammenfassung](2026/08/2026-08-21_22-41.html)
-
-## Jahreszusammenfassungen
-
-- 🗓️ [Jahreszusammenfassung 2026](2026/jahr.html)
 
 ## Archiv
 
