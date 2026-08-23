@@ -137,6 +137,9 @@ ohne Code zu ändern.
 |---|---|
 | blocktrainer.de | https://www.blocktrainer.de/feed.xml |
 | CoinDesk (übersetzt) | https://www.coindesk.com/arc/outboundfeeds/rss |
+| Cointelegraph (übersetzt) | https://cointelegraph.com/rss |
+| Bitcoin Magazine (übersetzt) | https://bitcoinmagazine.com/feed |
+| The Block (übersetzt) | https://www.theblock.co/rss.xml |
 
 ### 💻 Computer
 
