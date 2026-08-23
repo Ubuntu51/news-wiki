@@ -59,15 +59,25 @@
 
     results.innerHTML = '';
     if (!hits.length) {
-      results.innerHTML = '<div class="search-hit search-empty">Keine Treffer.</div>';
+      var empty = document.createElement('div');
+      empty.className = 'search-hit search-empty';
+      empty.textContent = 'Keine Treffer.';
+      results.appendChild(empty);
       return;
     }
     hits.forEach(function (d) {
       var a = document.createElement('a');
       a.className = 'search-hit';
       a.href = d.url;
-      a.innerHTML = '<strong>' + d.title + '</strong>'
-        + (d.snippet ? '<span class="search-snippet">' + d.snippet + '</span>' : '');
+      var strong = document.createElement('strong');
+      strong.textContent = d.title;
+      a.appendChild(strong);
+      if (d.snippet) {
+        var span = document.createElement('span');
+        span.className = 'search-snippet';
+        span.textContent = d.snippet;
+        a.appendChild(span);
+      }
       results.appendChild(a);
     });
   });
