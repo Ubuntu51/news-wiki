@@ -146,12 +146,6 @@ ohne Code zu ändern.
 | blocktrainer.de | https://www.blocktrainer.de/feed.xml |
 | CoinDesk (übersetzt) | https://www.coindesk.com/arc/outboundfeeds/rss |
 
-### 📝 Blog
-
-| Quelle | Feed |
-|---|---|
-| gnu0os0ta (WriteFreely) | https://writefreely.linuxat.de/feed/ |
-
 ### 💻 Computer
 
 | Quelle | Feed |
