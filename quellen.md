@@ -71,24 +71,15 @@ ohne Code zu ändern.
 
 | Quelle | Feed |
 |---|---|
-| Arch Linux | https://archlinux.org/feeds/news/ |
-| CachyOS | https://cachyos.org/rss.xml |
-| Phoronix | https://www.phoronix.com/rss.php |
-| It's FOSS | https://itsfoss.com/feed/ |
-| omg!Ubuntu | https://www.omgubuntu.co.uk/feed |
-| DistroWatch | https://distrowatch.com/news/dwd.xml |
-| LWN.net | https://lwn.net/headlines/rss |
+| Phoronix (übersetzt) | https://www.phoronix.com/rss.php |
+| It's FOSS (übersetzt) | https://itsfoss.com/feed/ |
+| DistroWatch (übersetzt) | https://distrowatch.com/news/dwd.xml |
+| LWN.net (übersetzt) | https://lwn.net/headlines/rss |
 | GNU/Linux.ch | https://gnulinux.ch/rss.xml |
-| LXer Linux News (übersetzt) | https://lxer.com/module/newswire/headlines.rss |
-| Linux – ComputerBase | https://www.computerbase.de/news/linux/index.atom |
-| Linux Journal (übersetzt) | https://www.linuxjournal.com/node/feed |
 | Linux-Magazin | https://www.linux-magazin.de/feed/ |
 | LinuxCommunity | https://www.linux-community.de/feed/ |
 | Linuxiac (übersetzt) | https://linuxiac.com/feed/ |
-| Tarnkappe.info | https://tarnkappe.info/feed |
-| YunoHost apps catalog (übersetzt) | https://apps.yunohost.org/news.rss |
 | adminForge | https://adminforge.de/feed/ |
-| fosstopia | https://www.michlfranken.de/feed/ |
 
 ### 🔮 Zukunft
 
@@ -124,6 +115,7 @@ ohne Code zu ändern.
 | heise Security | https://www.heise.de/security/rss/news.rss |
 | Golem Security | https://www.golem.de/rss.php?feed=RSS2.0&cat=16 |
 | Kuketz IT-Security | https://www.kuketz-blog.de/feed/ |
+| Tarnkappe.info | https://tarnkappe.info/feed |
 
 ### ⚽ Sport
 
