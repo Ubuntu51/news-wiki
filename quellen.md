@@ -123,6 +123,7 @@ ohne Code zu ändern.
 |---|---|
 | heise Security | https://www.heise.de/security/rss/news.rss |
 | Golem Security | https://www.golem.de/rss.php?feed=RSS2.0&cat=16 |
+| Kuketz IT-Security | https://www.kuketz-blog.de/feed/ |
 
 ### ⚽ Sport
 
@@ -157,12 +158,6 @@ ohne Code zu ändern.
 |---|---|
 | ComputerBase | https://www.computerbase.de/rss/news.xml |
 | Neowin (übersetzt) | https://www.neowin.net/news/rss/ |
-
-### 🔒 Datenschutz
-
-| Quelle | Feed |
-|---|---|
-| Kuketz IT-Security | https://www.kuketz-blog.de/feed/ |
 
 ---
 
