@@ -131,7 +131,7 @@ ohne Code zu ändern.
 
 ## So funktioniert es
 
-Die Pipeline läuft dreimal täglich (07:00, 12:00 und 18:00 Uhr Wiener Zeit)
+Die Pipeline läuft zweimal täglich (08:00 und 18:00 Uhr Wiener Zeit)
 automatisch in **GitHub Actions** (`.github/workflows/daily.yml`):
 
 1. **`smoke_test.py`** – prüft offline die Kernfunktionen (Feed-Parsing,
@@ -154,8 +154,8 @@ automatisch in **GitHub Actions** (`.github/workflows/daily.yml`):
 
 ### Weitere Details
 
-- **Medienpräsenz** wird nur im 07:00-Uhr-Lauf geprüft, um die Anzahl der
-  Google-News-Anfragen zu begrenzen; die 12/18-Uhr-Läufe nutzen `SKIP_PRESENCE`.
+- **Medienpräsenz** wird nur im 08:00-Uhr-Lauf geprüft, um die Anzahl der
+  Google-News-Anfragen zu begrenzen; der 18:00-Uhr-Lauf nutzt `SKIP_PRESENCE`.
 - **Übersetzung:** Gerade Kalendertage nutzen DeepL, ungerade Google – so bleibt
   das DeepL-Monatslimit erhalten. Der Cache (`translation_cache.json`) wird in
   GitHub Actions zwischen den Läufen wiederverwendet. Einrichtung und Modi:
