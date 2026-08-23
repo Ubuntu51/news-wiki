@@ -78,6 +78,17 @@ ohne Code zu ändern.
 | omg!Ubuntu | https://www.omgubuntu.co.uk/feed |
 | DistroWatch | https://distrowatch.com/news/dwd.xml |
 | LWN.net | https://lwn.net/headlines/rss |
+| GNU/Linux.ch | https://gnulinux.ch/rss.xml |
+| LXer Linux News (übersetzt) | https://lxer.com/module/newswire/headlines.rss |
+| Linux – ComputerBase | https://www.computerbase.de/news/linux/index.atom |
+| Linux Journal (übersetzt) | https://www.linuxjournal.com/node/feed |
+| Linux-Magazin | https://www.linux-magazin.de/feed/ |
+| LinuxCommunity | https://www.linux-community.de/feed/ |
+| Linuxiac (übersetzt) | https://linuxiac.com/feed/ |
+| Tarnkappe.info | https://tarnkappe.info/feed |
+| YunoHost apps catalog (übersetzt) | https://apps.yunohost.org/news.rss |
+| adminForge | https://adminforge.de/feed/ |
+| fosstopia | https://www.michlfranken.de/feed/ |
 
 ### 🔮 Zukunft
 
@@ -126,6 +137,32 @@ ohne Code zu ändern.
 | Quelle | Feed |
 |---|---|
 | electrive.net | https://www.electrive.net/feed/ |
+
+### ₿ Bitcoin
+
+| Quelle | Feed |
+|---|---|
+| blocktrainer.de | https://www.blocktrainer.de/feed.xml |
+| CoinDesk (übersetzt) | https://www.coindesk.com/arc/outboundfeeds/rss |
+
+### 📝 Blog
+
+| Quelle | Feed |
+|---|---|
+| gnu0os0ta (WriteFreely) | https://writefreely.linuxat.de/feed/ |
+
+### 💻 Computer
+
+| Quelle | Feed |
+|---|---|
+| ComputerBase | https://www.computerbase.de/rss/news.xml |
+| Neowin (übersetzt) | https://www.neowin.net/news/rss/ |
+
+### 🔒 Datenschutz
+
+| Quelle | Feed |
+|---|---|
+| Kuketz IT-Security | https://www.kuketz-blog.de/feed/ |
 
 ---
 
