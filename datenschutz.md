@@ -54,16 +54,6 @@ Diese Website verlinkt auf externe Angebote (insbesondere Nachrichtenmedien). F�
 Datenverarbeitung auf diesen Websites ist ausschließlich der jeweilige Anbieter
 verantwortlich. Beim Anklicken eines Links verlassen Sie das Nachrichten-Wiki.
 
-## 5a. Spenden-Button (Ko-fi)
-
-Am Seitenende befindet sich ein Spenden-Button, der auf die externe Plattform
-**Ko-fi** (Ko-fi Labs Ltd., Vereinigtes Königreich) verlinkt. Der Button selbst
-überträgt keine personenbezogenen Daten an Ko-fi. Erst wenn Sie den Button anklicken
-und die Seite von Ko-fi öffnen, gelten dort die Datenschutzbestimmungen von Ko-fi
-(<https://ko-fi.com/privacy>). Für die Datenverarbeitung auf dieser externen
-Plattform ist ausschließlich Ko-fi verantwortlich. Die Spende erfolgt freiwillig
-und ist mit keiner Gegenleistung verbunden.
-
 ## 6. Ihre Rechte (Art. 15 bis 22 DSGVO)
 
 Sie haben als betroffene Person das Recht auf:
@@ -93,4 +83,4 @@ dsb@dsb.gv.at · <https://www.dsb.gv.at>
 Diese Datenschutzerklärung kann bei Bedarf angepasst werden. Es gilt die jeweils
 veröffentlichte Fassung.
 
-Stand: 24.08.2026
+Stand: 18.08.2026

@@ -4,21 +4,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="{{ page.description | default: site.description }}">
-<meta name="robots" content="index, follow">
-<link rel="canonical" href="{{ page.url | absolute_url }}">
-<meta property="og:type" content="website">
-<meta property="og:site_name" content="{{ site.title }}">
-<meta property="og:title" content="{{ page.title | default: site.title }}">
-<meta property="og:description" content="{{ page.description | default: site.description }}">
-<meta property="og:url" content="{{ page.url | absolute_url }}">
-<meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="{{ page.title | default: site.title }}">
-<meta name="twitter:description" content="{{ page.description | default: site.description }}">
 <title>{{ page.title | default: site.title }}</title>
 <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-<style>
-  .kofi { text-align: center; margin-top: 1rem; }
-</style>
 </head>
 <body>
 <div class="wrap">
@@ -41,11 +28,6 @@
   <footer>
     Automatisch erzeugt aus den Tageszusammenfassungen · Quellenangaben siehe
     <a href="https://github.com/Ubuntu51/news-wiki" rel="noopener">das Repo</a>
-    <div class="kofi">
-      <a href="https://ko-fi.com/at69104041" target="_blank" rel="noopener">
-        <img height="36" style="border:0px;height:36px;" src="https://storage.ko-fi.com/cdn/kofi1.png?v=3" border="0" alt="Unterstütze das Nachrichten-Wiki bei Ko-fi">
-      </a>
-    </div>
   </footer>
 </div>
 <script>
