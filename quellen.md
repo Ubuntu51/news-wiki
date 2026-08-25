@@ -62,33 +62,26 @@ ohne Code zu ändern.
 | ComputerBase | https://www.computerbase.de/rss/news.xml |
 | Caschys Blog | https://stadt-bremerhaven.de/feed/ |
 | der brutkasten | https://www.brutkasten.com/feed/ |
-| TechCrunch (übersetzt) | https://techcrunch.com/category/artificial-intelligence/feed/ |
-| The Verge (übersetzt) | https://www.theverge.com/rss/ai-artificial-intelligence/index.xml |
 | VentureBeat (übersetzt) | https://venturebeat.com/category/ai/feed/ |
 
 ### 🐧 Linux
 
 | Quelle | Feed |
 |---|---|
-| Phoronix (übersetzt) | https://www.phoronix.com/rss.php |
-| It's FOSS (übersetzt) | https://itsfoss.com/feed/ |
-| DistroWatch (übersetzt) | https://distrowatch.com/news/dwd.xml |
-| LWN.net (übersetzt) | https://lwn.net/headlines/rss |
 | GNU/Linux.ch | https://gnulinux.ch/rss.xml |
 | Linux-Magazin | https://www.linux-magazin.de/feed/ |
 | LinuxCommunity | https://www.linux-community.de/feed/ |
-| Linuxiac (übersetzt) | https://linuxiac.com/feed/ |
 | adminForge | https://adminforge.de/feed/ |
 
 ### 🔮 Zukunft
 
 | Quelle | Feed |
 |---|---|
-| Futurism | https://futurism.com/feed |
-| Singularity Hub | https://singularityhub.com/feed/ |
-| Next Big Future | https://www.nextbigfuture.com/feed |
-| Medium – #future | https://medium.com/feed/tag/future |
-| MIT Technology Review | https://www.technologyreview.com/feed/ |
+| scinexx | https://www.scinexx.de/feed/ |
+| Ingenieur.de | https://www.ingenieur.de/feed/ |
+| SZ Wissen | https://rss.sueddeutsche.de/rss/Wissen |
+| FAZ Wissen | https://www.faz.net/rss/aktuell/wissen/ |
+| Der Standard – Wissenschaft | https://www.derstandard.at/rss/wissenschaft |
 
 ### 🛡️ Sicherheit
 
@@ -110,17 +103,14 @@ ohne Code zu ändern.
 | Quelle | Feed |
 |---|---|
 | blocktrainer.de | https://www.blocktrainer.de/feed.xml |
-| CoinDesk (übersetzt) | https://www.coindesk.com/arc/outboundfeeds/rss |
-| Cointelegraph (übersetzt) | https://cointelegraph.com/rss |
-| Bitcoin Magazine (übersetzt) | https://bitcoinmagazine.com/feed |
-| The Block (übersetzt) | https://www.theblock.co/rss.xml |
+| BTC-Echo | https://www.btc-echo.de/feed/ |
 
 ### 💻 Computer
 
 | Quelle | Feed |
 |---|---|
 | ComputerBase | https://www.computerbase.de/rss/news.xml |
-| Neowin (übersetzt) | https://www.neowin.net/news/rss/ |
+| PC-WELT | https://www.pcwelt.de/feed |
 
 ### 🌐 Alternativ Medien
 
@@ -136,6 +126,16 @@ ohne Code zu ändern.
 | Hintergrund | https://www.hintergrund.de/feed |
 | Deutsche Wirtschaftsnachrichten | https://deutsche-wirtschafts-nachrichten.de/feed |
 | Telepolis | https://www.telepolis.de/feed.xml |
+| Compact | https://www.compact-online.de/feed/ |
+| Epoch Times DE | https://www.epochtimes.de/feed |
+| Der Freitag | https://www.freitag.de/feed/ |
+| Journalistenwatch | https://www.journalistenwatch.com/feed/ |
+| Junge Freiheit | https://jungefreiheit.de/feed/ |
+| Tichys Einblick | https://www.tichyseinblick.de/feed/ |
+| Unzensuriert | https://unzensuriert.at/feed/ |
+| Wochenblick | https://www.wochenblick.at/feed/ |
+| Zeitgeschehen im Fokus | https://zeitgeschehen-im-fokus.ch/feed/ |
+| AntiSpiegel | https://anti-spiegel.ru/feed/ |
 
 ---
 
