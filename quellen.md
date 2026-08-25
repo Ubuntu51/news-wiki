@@ -2,8 +2,8 @@
 
 Dieses Wiki archiviert die täglichen **Tageszusammenfassungen** der News-Übersicht.
 Die Zusammenfassungen werden automatisch aus RSS-Feeds österreichischer Tageszeitungen
-sowie deutschen und internationalen Tech-, Wissenschafts-, Sicherheits- und
-Sport-Medien erzeugt und von einer KI auf Deutsch zusammengefasst.
+sowie deutschen und internationalen Tech-, Sicherheits- und
+alternativen Medien erzeugt und von einer KI auf Deutsch zusammengefasst.
 
 **Website:** https://ubuntu51.github.io/news-wiki/
 
@@ -45,7 +45,6 @@ ohne Code zu ändern.
 | OÖ Nachrichten – Wirtschaft | https://www.nachrichten.at/storage/rss/rss/wirtschaft.xml |
 | OÖ Nachrichten – Politik | https://www.nachrichten.at/storage/rss/rss/politik.xml |
 | OÖ Nachrichten – Oberösterreich | https://www.nachrichten.at/storage/rss/rss/oberoesterreich.xml |
-| OÖ Nachrichten – Sport | https://www.nachrichten.at/storage/rss/rss/sport.xml |
 | APA-OTS – Politik | https://www.ots.at/rss/politik |
 | APA-OTS – Wirtschaft | https://www.ots.at/rss/wirtschaft |
 | APA-OTS – Finanzen | https://www.ots.at/rss/finanzen |
@@ -91,23 +90,6 @@ ohne Code zu ändern.
 | Medium – #future | https://medium.com/feed/tag/future |
 | MIT Technology Review | https://www.technologyreview.com/feed/ |
 
-### 🍏 Leben
-
-| Quelle | Quelle/Feed |
-|---|---|
-| foodwatch | https://www.foodwatch.org/de/informieren/aktuelle-nachrichten (Scraper, kein RSS) |
-| Stiftung Warentest (Essen & Trinken) | https://www.test.de/rss/essen-trinken/ |
-
-### 🔬 Wissenschaft
-
-| Quelle | Feed |
-|---|---|
-| wissenschaft.de | https://www.wissenschaft.de/feed/ |
-| ScienceDaily (übersetzt) | https://www.sciencedaily.com/rss/all.xml |
-| phys.org (übersetzt) | https://phys.org/rss-feed/ |
-| NZZ Wissenschaft | https://www.nzz.ch/wissenschaft.rss |
-| Quanta Magazine | https://www.quantamagazine.org/feed/ |
-
 ### 🛡️ Sicherheit
 
 | Quelle | Feed |
@@ -116,14 +98,6 @@ ohne Code zu ändern.
 | Golem Security | https://www.golem.de/rss.php?feed=RSS2.0&cat=16 |
 | Kuketz IT-Security | https://www.kuketz-blog.de/feed/ |
 | Tarnkappe.info | https://tarnkappe.info/feed |
-
-### ⚽ Sport
-
-| Quelle | Feed |
-|---|---|
-| ORF Sport | https://rss.orf.at/sport.xml |
-| Der Standard Sport | https://www.derstandard.at/rss/sport |
-| OÖ Nachrichten Sport | https://www.nachrichten.at/storage/rss/rss/sport.xml |
 
 ### 🚗 Mobilität
 
@@ -147,6 +121,21 @@ ohne Code zu ändern.
 |---|---|
 | ComputerBase | https://www.computerbase.de/rss/news.xml |
 | Neowin (übersetzt) | https://www.neowin.net/news/rss/ |
+
+### 🌐 Alternativ Medien
+
+| Quelle | Feed |
+|---|---|
+| NachDenkSeiten | https://www.nachdenkseiten.de/?feed=rss2 |
+| Kontext TV | https://www.kontext-tv.de/rss.xml |
+| German Foreign Policy | https://www.german-foreign-policy.com/feed.xml |
+| junge Welt | https://www.jungewelt.de/feeds/newsticker.rss |
+| RT Deutsch | https://de.rt.com/rss/ |
+| Weltnetz.tv | https://weltnetz.tv/feed |
+| Free21 | https://free21.org/feed |
+| Hintergrund | https://www.hintergrund.de/feed |
+| Deutsche Wirtschaftsnachrichten | https://deutsche-wirtschafts-nachrichten.de/feed |
+| Telepolis | https://www.telepolis.de/feed.xml |
 
 ---
 
