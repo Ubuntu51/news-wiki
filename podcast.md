@@ -43,3 +43,12 @@ Podcast-Apps können den Feed direkt abonnieren:
 
 [MP3 herunterladen](https://ubuntu51.github.io/news-wiki/2026/08/2026-08-25_21-38.mp3) · [Zur Zusammenfassung](https://ubuntu51.github.io/news-wiki/2026/08/2026-08-25_21-38.html)
 
+## ⚖️ Rechtlicher Hinweis
+
+Alle Inhalte und Urheberrechte liegen bei den jeweiligen Medien. Der
+News-Podcast erstellt automatische, **in eigenen Worten verfasste**
+Zusammenfassungen aus öffentlich zugänglichen RSS-Feeds und verlinkt
+auf die Originalquellen. Es wird **kein Geld** mit den Inhalten
+verdient. Die Wiedergabe erfolgt ohne Anspruch auf Vollständigkeit
+und Richtigkeit.
+
