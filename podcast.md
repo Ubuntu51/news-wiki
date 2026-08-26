@@ -1,12 +1,12 @@
 ---
 layout: default
 title: "🎧 Podcast"
-description: "„News-Podcast“ ist dein täglicher Audio-Überblick über die wichtigsten Nachrichten aus Österreich und der Welt. Jeden Abend automatisch erstellt aus den RSS-Feeds österreichischer Tageszeitungen (u. a. ORF, Der Standard, Die Presse, Kurier, Kronen Zeitung) sowie deutscher und internationaler Tech-, Sicherheits- und Wirtschaftsmedien. Die Zusammenfassungen werden von einer KI (LLM) geschrieben und mit einer natürlichen Piper-Stimme eingesprochen – kompakt, kostenlos und werbefrei."
+description: "„News-Podcast“ ist dein täglicher Audio-Überblick über die wichtigsten Nachrichten aus Österreich und der Welt. Jeden Abend automatisch erstellt aus den RSS-Feeds österreichischer Tageszeitungen sowie deutscher und internationaler Tech-, Sicherheits- und Wirtschaftsmedien. Die Zusammenfassungen werden von einer KI (LLM) geschrieben und mit einer natürlichen Piper-Stimme eingesprochen – kompakt, kostenlos und werbefrei."
 ---
 
 # 🎧 Podcast
 
-„News-Podcast“ ist dein täglicher Audio-Überblick über die wichtigsten Nachrichten aus Österreich und der Welt. Jeden Abend automatisch erstellt aus den RSS-Feeds österreichischer Tageszeitungen (u. a. ORF, Der Standard, Die Presse, Kurier, Kronen Zeitung) sowie deutscher und internationaler Tech-, Sicherheits- und Wirtschaftsmedien. Die Zusammenfassungen werden von einer KI (LLM) geschrieben und mit einer natürlichen Piper-Stimme eingesprochen – kompakt, kostenlos und werbefrei.
+„News-Podcast“ ist dein täglicher Audio-Überblick über die wichtigsten Nachrichten aus Österreich und der Welt. Jeden Abend automatisch erstellt aus den RSS-Feeds österreichischer Tageszeitungen sowie deutscher und internationaler Tech-, Sicherheits- und Wirtschaftsmedien. Die Zusammenfassungen werden von einer KI (LLM) geschrieben und mit einer natürlichen Piper-Stimme eingesprochen – kompakt, kostenlos und werbefrei.
 
 > 🤖 **KI-Hinweis:** Alle Zusammenfassungen werden automatisch von einem
 > **Sprachmodell (KI/LLM)** aus RSS-Feeds österreichischer und
