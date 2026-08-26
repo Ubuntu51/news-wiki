@@ -135,7 +135,6 @@ ohne Code zu ändern.
 | Unzensuriert | https://unzensuriert.at/feed/ |
 | Wochenblick | https://www.wochenblick.at/feed/ |
 | Zeitgeschehen im Fokus | https://zeitgeschehen-im-fokus.ch/feed/ |
-| AntiSpiegel | https://anti-spiegel.ru/feed/ |
 
 ---
 
