@@ -2,14 +2,17 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 <channel>
 <title>News-Podcast</title>
-<description>Tägliche Nachrichtenzusammenfassung als Audio. Alle Inhalte werden automatisch von einer KI (LLM) aus RSS-Feeds erstellt und lokal mit einer Piper-Stimme eingesprochen.</description>
+<description>„News-Podcast“ ist dein täglicher Audio-Überblick über die wichtigsten Nachrichten aus Österreich und der Welt. Jeden Abend automatisch erstellt aus den RSS-Feeds österreichischer Tageszeitungen (u. a. ORF, Der Standard, Die Presse, Kurier, Kronen Zeitung) sowie deutscher und internationaler Tech-, Sicherheits- und Wirtschaftsmedien. Die Zusammenfassungen werden von einer KI (LLM) geschrieben und mit einer natürlichen Piper-Stimme eingesprochen – kompakt, kostenlos und werbefrei.</description>
 <link>https://ubuntu51.github.io/news-wiki</link>
-<lastBuildDate>Wed, 26 Aug 2026 22:15:18 +0000</lastBuildDate>
+<lastBuildDate>Wed, 26 Aug 2026 22:19:57 +0000</lastBuildDate>
 <language>de</language>
 <itunes:author>News-Generator (KI)</itunes:author>
 <itunes:explicit>false</itunes:explicit>
-<itunes:summary>Täglich automatisch erzeugte Nachrichtenzusammenfassung (KI/LLM) als Audio. Quellenangaben im zugehörigen Wiki.</itunes:summary>
+<itunes:subtitle>Dein täglicher KI-Nachrichtenüberblick als Audio</itunes:subtitle>
+<itunes:summary>„News-Podcast“ ist dein täglicher Audio-Überblick über die wichtigsten Nachrichten aus Österreich und der Welt. Jeden Abend automatisch erstellt aus den RSS-Feeds österreichischer Tageszeitungen (u. a. ORF, Der Standard, Die Presse, Kurier, Kronen Zeitung) sowie deutscher und internationaler Tech-, Sicherheits- und Wirtschaftsmedien. Die Zusammenfassungen werden von einer KI (LLM) geschrieben und mit einer natürlichen Piper-Stimme eingesprochen – kompakt, kostenlos und werbefrei.</itunes:summary>
+<itunes:keywords>Nachrichten, Österreich, News, Politik, Wirtschaft, Sicherheit, KI, Künstliche Intelligenz, Technologie, Bitcoin, Linux, Deutschland, Tagesüberblick, Podcast</itunes:keywords>
 <itunes:category text="News"/>
+<itunes:category text="Technology"/>
 <item>
 <title>26.08.2026 – 🌆 Abendüberblick</title>
 <link>https://ubuntu51.github.io/news-wiki/2026/08/2026-08-26_18-47.html</link>

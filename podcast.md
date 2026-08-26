@@ -1,12 +1,12 @@
 ---
 layout: default
 title: "🎧 Podcast"
+description: "„News-Podcast“ ist dein täglicher Audio-Überblick über die wichtigsten Nachrichten aus Österreich und der Welt. Jeden Abend automatisch erstellt aus den RSS-Feeds österreichischer Tageszeitungen (u. a. ORF, Der Standard, Die Presse, Kurier, Kronen Zeitung) sowie deutscher und internationaler Tech-, Sicherheits- und Wirtschaftsmedien. Die Zusammenfassungen werden von einer KI (LLM) geschrieben und mit einer natürlichen Piper-Stimme eingesprochen – kompakt, kostenlos und werbefrei."
 ---
 
 # 🎧 Podcast
 
-Die Tageszusammenfassungen gibt es zusätzlich als Audio – jeden Abend
-automatisch aus den Tageszusammenfassungen erzeugt.
+„News-Podcast“ ist dein täglicher Audio-Überblick über die wichtigsten Nachrichten aus Österreich und der Welt. Jeden Abend automatisch erstellt aus den RSS-Feeds österreichischer Tageszeitungen (u. a. ORF, Der Standard, Die Presse, Kurier, Kronen Zeitung) sowie deutscher und internationaler Tech-, Sicherheits- und Wirtschaftsmedien. Die Zusammenfassungen werden von einer KI (LLM) geschrieben und mit einer natürlichen Piper-Stimme eingesprochen – kompakt, kostenlos und werbefrei.
 
 > 🤖 **KI-Hinweis:** Alle Zusammenfassungen werden automatisch von einem
 > **Sprachmodell (KI/LLM)** aus RSS-Feeds österreichischer und
@@ -14,6 +14,10 @@ automatisch aus den Tageszusammenfassungen erzeugt.
 > Piper-Stimme „Thorsten“ eingesprochen. Es handelt sich nicht um
 > redaktionell erstellte Inhalte. Quellenangaben siehe
 > [Quellen](https://ubuntu51.github.io/news-wiki/quellen.html).
+
+## 🏷️ Themen
+
+ Nachrichten · Österreich · News · Politik · Wirtschaft · Sicherheit · KI · Künstliche Intelligenz · Technologie · Bitcoin · Linux · Deutschland · Tagesüberblick · Podcast
 
 ## 📻 Abonnieren
 
