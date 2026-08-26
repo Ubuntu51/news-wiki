@@ -5,9 +5,15 @@ title: "🎧 Podcast"
 
 # 🎧 Podcast
 
-Die Tageszusammenfassungen gibt es zusätzlich als Audio – abends
-automatisch mit einer lokalen Piper-Stimme („Thorsten“) erzeugt,
-ohne dass Inhalte nach außen gehen.
+Die Tageszusammenfassungen gibt es zusätzlich als Audio – jeden Abend
+automatisch aus den Tageszusammenfassungen erzeugt.
+
+> 🤖 **KI-Hinweis:** Alle Zusammenfassungen werden automatisch von einem
+> **Sprachmodell (KI/LLM)** aus RSS-Feeds österreichischer und
+> internationaler Medien erstellt und anschließend lokal mit der
+> Piper-Stimme „Thorsten“ eingesprochen. Es handelt sich nicht um
+> redaktionell erstellte Inhalte. Quellenangaben siehe
+> [Quellen](https://ubuntu51.github.io/news-wiki/quellen.html).
 
 ## 📻 Abonnieren
 
@@ -23,7 +29,7 @@ Podcast-Apps können den Feed direkt abonnieren:
 
 <audio controls preload="none" src="https://ubuntu51.github.io/news-wiki/2026/08/2026-08-26_18-47.mp3"></audio>
 
-[MP3 herunterladen](https://ubuntu51.github.io/news-wiki/2026/08/2026-08-26_18-47.mp3)
+[MP3 herunterladen](https://ubuntu51.github.io/news-wiki/2026/08/2026-08-26_18-47.mp3) · [Zur Zusammenfassung](https://ubuntu51.github.io/news-wiki/2026/08/2026-08-26_18-47.html)
 
 ### 25.08.2026 – 🌆 Abendüberblick
 
@@ -31,5 +37,5 @@ Podcast-Apps können den Feed direkt abonnieren:
 
 <audio controls preload="none" src="https://ubuntu51.github.io/news-wiki/2026/08/2026-08-25_21-38.mp3"></audio>
 
-[MP3 herunterladen](https://ubuntu51.github.io/news-wiki/2026/08/2026-08-25_21-38.mp3)
+[MP3 herunterladen](https://ubuntu51.github.io/news-wiki/2026/08/2026-08-25_21-38.mp3) · [Zur Zusammenfassung](https://ubuntu51.github.io/news-wiki/2026/08/2026-08-25_21-38.html)
 
