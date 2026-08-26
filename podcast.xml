@@ -4,13 +4,19 @@
 <title>News-Podcast</title>
 <description>„News-Podcast“ ist dein täglicher Audio-Überblick über die wichtigsten Nachrichten aus Österreich und der Welt. Jeden Abend automatisch erstellt aus den RSS-Feeds österreichischer Tageszeitungen sowie deutscher und internationaler Tech-, Sicherheits- und Wirtschaftsmedien. Die Zusammenfassungen werden von einer KI (LLM) geschrieben und mit einer natürlichen Piper-Stimme eingesprochen – kompakt, kostenlos und werbefrei.</description>
 <link>https://ubuntu51.github.io/news-wiki</link>
-<lastBuildDate>Wed, 26 Aug 2026 22:24:41 +0000</lastBuildDate>
+<lastBuildDate>Wed, 26 Aug 2026 22:37:50 +0000</lastBuildDate>
 <language>de</language>
 <itunes:author>News-Generator (KI)</itunes:author>
 <itunes:explicit>false</itunes:explicit>
 <itunes:subtitle>Dein täglicher KI-Nachrichtenüberblick als Audio</itunes:subtitle>
 <itunes:summary>„News-Podcast“ ist dein täglicher Audio-Überblick über die wichtigsten Nachrichten aus Österreich und der Welt. Jeden Abend automatisch erstellt aus den RSS-Feeds österreichischer Tageszeitungen sowie deutscher und internationaler Tech-, Sicherheits- und Wirtschaftsmedien. Die Zusammenfassungen werden von einer KI (LLM) geschrieben und mit einer natürlichen Piper-Stimme eingesprochen – kompakt, kostenlos und werbefrei.</itunes:summary>
 <itunes:keywords>Nachrichten, Österreich, News, Politik, Wirtschaft, Sicherheit, KI, Künstliche Intelligenz, Technologie, Bitcoin, Linux, Deutschland, Tagesüberblick, Podcast</itunes:keywords>
+<itunes:image href="https://ubuntu51.github.io/news-wiki/assets/podcast/logo.jpg"/>
+<image>
+<url>https://ubuntu51.github.io/news-wiki/assets/podcast/logo.jpg</url>
+<title>News-Podcast</title>
+<link>https://ubuntu51.github.io/news-wiki</link>
+</image>
 <itunes:category text="News"/>
 <itunes:category text="Technology"/>
 <item>

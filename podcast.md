@@ -2,7 +2,10 @@
 layout: default
 title: "🎧 Podcast"
 description: "„News-Podcast“ ist dein täglicher Audio-Überblick über die wichtigsten Nachrichten aus Österreich und der Welt. Jeden Abend automatisch erstellt aus den RSS-Feeds österreichischer Tageszeitungen sowie deutscher und internationaler Tech-, Sicherheits- und Wirtschaftsmedien. Die Zusammenfassungen werden von einer KI (LLM) geschrieben und mit einer natürlichen Piper-Stimme eingesprochen – kompakt, kostenlos und werbefrei."
+body_class: podcast
 ---
+
+<img class="podcast-logo" src="assets/podcast/logo.jpg" alt="News-Podcast Logo" width="120">
 
 # 🎧 Podcast
 
