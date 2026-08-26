@@ -164,10 +164,9 @@ footer {
 /* Podcast-Seite: Hintergrundbild + abgesetzter Inhalt */
 body.podcast {
   background: var(--bg) url("../podcast/background.jpg") no-repeat center top / cover;
-  background-attachment: fixed;
 }
 body.podcast .wrap {
-  background: rgba(13, 15, 19, 0.88);
+  background: rgba(13, 15, 19, 0.78);
   border: 1px solid var(--border);
   border-radius: 14px;
   margin-top: 24px;
