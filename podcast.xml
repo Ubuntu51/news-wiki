@@ -4,9 +4,17 @@
 <title>News-Podcast</title>
 <description>Tägliche Nachrichtenzusammenfassung als Audio (Piper-Stimme).</description>
 <link>https://ubuntu51.github.io/news-wiki</link>
-<lastBuildDate>Wed, 26 Aug 2026 21:51:37 +0000</lastBuildDate>
+<lastBuildDate>Wed, 26 Aug 2026 22:05:13 +0000</lastBuildDate>
 <language>de</language>
 <itunes:author>News-Generator</itunes:author>
+<item>
+<title>26.08.2026 – 🌆 Abendüberblick</title>
+<link>https://ubuntu51.github.io/news-wiki/2026/08/2026-08-26_18-47.mp3</link>
+<guid isPermaLink="true">https://ubuntu51.github.io/news-wiki/2026/08/2026-08-26_18-47.mp3</guid>
+<pubDate>Wed, 26 Aug 2026 18:47:00 +0000</pubDate>
+<description>26.08.2026 – 🌆 Abendüberblick</description>
+<enclosure url="https://ubuntu51.github.io/news-wiki/2026/08/2026-08-26_18-47.mp3" type="audio/mpeg" length="2893484"/>
+</item>
 <item>
 <title>25.08.2026 – 🌆 Abendüberblick</title>
 <link>https://ubuntu51.github.io/news-wiki/2026/08/2026-08-25_21-38.mp3</link>
