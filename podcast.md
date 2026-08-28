@@ -30,6 +30,14 @@ Podcast-Apps können den Feed direkt abonnieren:
 
 ## 🗓️ Folgen
 
+### 28.08.2026 – 🌅 Morgenüberblick
+
+*28.08.2026, 09:13 Uhr* · 3.5 MB
+
+<audio controls preload="none" src="https://ubuntu51.github.io/news-wiki/2026/08/2026-08-28_09-13.mp3"></audio>
+
+[MP3 herunterladen](https://ubuntu51.github.io/news-wiki/2026/08/2026-08-28_09-13.mp3) · [Zur Zusammenfassung](https://ubuntu51.github.io/news-wiki/2026/08/2026-08-28_09-13.html)
+
 ### 27.08.2026 – 🌆 Abendüberblick
 
 *27.08.2026, 22:21 Uhr* · 3.5 MB
