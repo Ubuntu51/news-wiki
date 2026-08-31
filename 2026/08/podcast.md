@@ -1,42 +1,18 @@
 ---
 layout: default
-title: "🎧 Podcast"
-description: "„News-Podcast“ ist dein täglicher Audio-Überblick über die wichtigsten Nachrichten aus Österreich und der Welt. Jeden Abend automatisch erstellt aus den RSS-Feeds österreichischer Tageszeitungen sowie deutscher und internationaler Tech-, Sicherheits- und Wirtschaftsmedien. Die Zusammenfassungen werden von einer KI (LLM) geschrieben und mit einer natürlichen Piper-Stimme eingesprochen – kompakt, kostenlos und werbefrei."
+title: "🎧 Podcast August 2026"
 body_class: podcast
 ---
 
 <div class="hero">
-  <img class="podcast-logo" src="assets/podcast/logo.jpg" alt="News-Podcast Logo" width="120">
+  <img class="podcast-logo" src="../../assets/podcast/logo.jpg" alt="News-Podcast Logo" width="120">
 
-  # 🎧 Podcast
+  # 🎧 Podcast August 2026
 
-  „News-Podcast“ ist dein täglicher Audio-Überblick über die wichtigsten Nachrichten aus Österreich und der Welt. Jeden Abend automatisch erstellt aus den RSS-Feeds österreichischer Tageszeitungen sowie deutscher und internationaler Tech-, Sicherheits- und Wirtschaftsmedien. Die Zusammenfassungen werden von einer KI (LLM) geschrieben und mit einer natürlichen Piper-Stimme eingesprochen – kompakt, kostenlos und werbefrei.
-
-  > 🤖 **KI-Hinweis:** Alle Zusammenfassungen werden automatisch von einem
-  > **Sprachmodell (KI/LLM)** aus RSS-Feeds österreichischer und
-  > internationaler Medien erstellt und anschließend lokal mit der
-  > Piper-Stimme „Thorsten“ eingesprochen. Es handelt sich nicht um
-  > redaktionell erstellte Inhalte. Quellenangaben siehe
-  > [Quellen](https://ubuntu51.github.io/news-wiki/quellen.html).
+  7 Folgen des Monats – direkt abspielbar.
 </div>
 
-## 🏷️ Themen
-
- Nachrichten · Österreich · News · Politik · Wirtschaft · Sicherheit · KI · Künstliche Intelligenz · Technologie · Bitcoin · Linux · Deutschland · Tagesüberblick · Podcast
-
-## 📻 Abonnieren
-
-Podcast-Apps können den Feed direkt abonnieren:
-
-<code>https://ubuntu51.github.io/news-wiki/podcast.xml</code>
-
-## 🗓️ Folgen (7)
-
-<div class="card-grid">
-<div class="card"><span class="tag tag-week">Podcast</span><a href="2026/08/podcast.html">August 2026 (7 Folgen)</a></div>
-</div>
-
-### August 2026
+## 🗓️ Folgen
 
 <div class="card podcast-episode">
 <h3>31.08.2026 – 🌆 Abendüberblick</h3>
@@ -93,6 +69,7 @@ Alle Inhalte und Urheberrechte liegen bei den jeweiligen Medien. Der
 News-Podcast erstellt automatische, **in eigenen Worten verfasste**
 Zusammenfassungen aus öffentlich zugänglichen RSS-Feeds und verlinkt
 auf die Originalquellen. Es wird **kein Geld** mit den Inhalten
-verdient. Die Wiedergabe erfolgt ohne Anspruch auf Vollständigkeit
-und Richtigkeit.
+verdient.
+
+↩ [Zur Podcast-Übersicht](../../podcast.html)
 
