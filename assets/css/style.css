@@ -1,11 +1,13 @@
 :root {
-  --bg: #111318;
-  --panel: #191d24;
-  --panel2: #20252e;
-  --text: #e8eaed;
-  --muted: #9aa3af;
-  --border: #2a303a;
-  --accent: #7c5cff;
+  --bg: #0f1410;
+  --panel: #161d18;
+  --panel2: #1d2720;
+  --text: #e6ece7;
+  --muted: #9fb0a3;
+  --border: #26332a;
+  --accent: #4ade80;
+  --accent-soft: rgba(74, 222, 128, 0.16);
+  --accent-dim: #2f8f55;
 }
 
 * { box-sizing: border-box; }
@@ -22,7 +24,7 @@ body {
 }
 
 .wrap {
-  max-width: 860px;
+  max-width: 900px;
   margin: 0 auto;
   padding: 24px;
 }
@@ -36,7 +38,7 @@ header.top {
   justify-content: space-between;
   flex-wrap: wrap;
   gap: 8px;
-  border-bottom: 1px solid var(--border);
+  border-bottom: 2px solid var(--accent-dim);
   padding-bottom: 14px;
   margin-bottom: 22px;
 }
@@ -50,20 +52,27 @@ header.top .brand:hover { color: var(--accent); text-decoration: none; }
 header.top .sub { color: var(--muted); font-size: 0.85rem; }
 header.top .nav { color: var(--muted); font-size: 0.9rem; }
 header.top .nav a { margin-left: 14px; }
+header.top .nav a:hover { color: var(--accent); }
 
 .content h1 {
   font-size: 1.7rem;
-  border-bottom: 1px solid var(--border);
+  border-bottom: 2px solid var(--accent-dim);
   padding-bottom: 10px;
   margin: 0 0 16px;
 }
-.content h2 { color: var(--accent); margin-top: 26px; font-size: 1.25rem; }
+.content h2 {
+  color: var(--accent);
+  margin-top: 30px;
+  font-size: 1.25rem;
+  padding-left: 10px;
+  border-left: 3px solid var(--accent);
+}
 .content h3 { color: var(--muted); margin-top: 20px; font-size: 1.05rem; }
 .content h4 { color: var(--text); margin-top: 16px; font-size: 0.95rem; }
 
 .content p { margin: 8px 0; }
-.content ul { padding-left: 22px; }
-.content li { margin: 5px 0; }
+.content ul { padding-left: 0; list-style: none; }
+.content li { margin: 6px 0; }
 
 .content blockquote {
   margin: 12px 0;
@@ -159,6 +168,69 @@ footer {
   border-top: 1px solid var(--border);
   color: var(--muted);
   font-size: 0.82rem;
+}
+
+/* ============================================================
+   Struktur: Startseite (body.home) & Monats-Archiv (body.archive)
+   ============================================================ */
+body.home .content ul, body.archive .content ul {
+  display: grid;
+  gap: 8px;
+  margin: 10px 0 18px;
+}
+body.home .content li, body.archive .content li {
+  margin: 0;
+}
+body.home .content li a, body.archive .content li a {
+  display: block;
+  padding: 10px 14px;
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--accent-dim);
+  border-radius: 8px;
+  color: var(--text);
+  transition: border-color 0.15s ease, background 0.15s ease;
+}
+body.home .content li a:hover, body.archive .content li a:hover {
+  background: var(--panel2);
+  border-color: var(--accent);
+  text-decoration: none;
+}
+
+/* "Neueste Zusammenfassung" besonders hervorheben */
+body.home .content li:first-of-type a {
+  background: var(--accent-soft);
+  border-left-color: var(--accent);
+  font-weight: 600;
+}
+
+/* Monats-/Jahres-/Wochen-Kacheln mit Emoji-Badge */
+body.home .content li a {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+/* Hervorgehobene Wochen-/Monats-/Jahreszusammenfassungen (📅 🗓️ 🗂️) */
+body.home .content h2 {
+  margin-top: 24px;
+}
+body.home .content h3 {
+  color: var(--accent);
+  margin-top: 22px;
+  font-size: 1.1rem;
+}
+body.home .content p {
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+/* "Zurück zur Übersicht" als dezenter Button */
+body.archive .content ul:last-of-type li a {
+  display: inline-block;
+  padding: 8px 14px;
+  border-left: 3px solid var(--accent);
+  font-weight: 600;
 }
 
 /* Podcast-Seite: Hintergrundbild + abgesetzter Inhalt */

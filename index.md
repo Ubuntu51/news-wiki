@@ -1,6 +1,12 @@
+---
+layout: default
+title: "Nachrichten-Wiki"
+body_class: home
+---
+
 # 📰 Nachrichten-Wiki
 
-Automatisch erzeugt aus den Tageszusammenfassungen. Zuletzt aktualisiert: 31.08.2026, 20:38 Uhr.
+Automatisch erzeugt aus den Tageszusammenfassungen. Zuletzt aktualisiert: 31.08.2026, 20:48 Uhr.
 
 ## Neueste Zusammenfassung
 
@@ -18,5 +24,5 @@ Automatisch erzeugt aus den Tageszusammenfassungen. Zuletzt aktualisiert: 31.08.
 **August**
 
 - 📅 [Monatszusammenfassung August 2026](2026/08/monat.html)
-- 🗂️ [Tageszusammenfassungen August (33)](2026/08/index.html)
+- 🗂️ [Tageszusammenfassungen August (36)](2026/08/index.html)
 
