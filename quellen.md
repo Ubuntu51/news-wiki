@@ -97,6 +97,10 @@ ohne Code zu ändern.
 | Quelle | Feed |
 |---|---|
 | electrive.net | https://www.electrive.net/feed/ |
+| ecomento.de | https://ecomento.de/feed/ |
+| GoingElectric | https://www.goingelectric.de/feed/ |
+| heise Autos | https://www.heise.de/autos/rss/news.rss |
+| elektroauto-news.net | https://www.elektroauto-news.net/feed/ |
 
 ### ₿ Bitcoin
 
@@ -104,6 +108,10 @@ ohne Code zu ändern.
 |---|---|
 | blocktrainer.de | https://www.blocktrainer.de/feed.xml |
 | BTC-Echo | https://www.btc-echo.de/feed/ |
+| Bitcoin Blog | https://bitcoinblog.de/feed/ |
+| Kryptoszene | https://kryptoszene.de/feed/ |
+| CoinDesk (übersetzt) | https://www.coindesk.com/arc/outboundfeeds/rss/?outputType=xml |
+| Cointelegraph (übersetzt) | https://cointelegraph.com/rss |
 
 ### 💻 Computer
 
@@ -111,6 +119,10 @@ ohne Code zu ändern.
 |---|---|
 | ComputerBase | https://www.computerbase.de/rss/news.xml |
 | PC-WELT | https://www.pcwelt.de/feed |
+| CHIP | https://www.chip.de/rss/feed_news.xml |
+| inside digital | https://www.inside-digital.de/feed/ |
+| MobileGeeks | https://www.mobilegeeks.de/feed/ |
+| WindowsUnited | https://www.windowsunited.de/feed/ |
 
 ### 🌐 Alternativ Medien
 
