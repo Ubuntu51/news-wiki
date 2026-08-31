@@ -8,6 +8,7 @@ Automatisch erzeugt aus den Tageszusammenfassungen. Zuletzt aktualisiert: 30.08.
 
 ## Wochenzusammenfassungen
 
+- 📅 [Kalenderwoche 35 2026](2026/woche-35.html)
 - 📅 [Kalenderwoche 34 2026](2026/woche-34.html)
 
 ## Archiv
