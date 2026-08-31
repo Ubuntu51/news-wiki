@@ -6,7 +6,7 @@ body_class: archive
 
 # 📅 Tageszusammenfassungen August 2026
 
-Zuletzt aktualisiert: 31.08.2026, 21:07 Uhr.
+Zuletzt aktualisiert: 31.08.2026, 21:16 Uhr.
 
 - [31.08.2026, 18:28 Uhr](2026-08-31_18-28.html)
 - [31.08.2026, 09:31 Uhr](2026-08-31_09-31.html)
@@ -43,6 +43,51 @@ Zuletzt aktualisiert: 31.08.2026, 21:07 Uhr.
 - [13.08.2026, 22:22 Uhr](2026-08-13_22-22.html)
 - [13.08.2026, 08:04 Uhr](2026-08-13_08-04.html)
 - [12.08.2026, 21:19 Uhr](2026-08-12_21-19.html)
+
+## 🎧 Podcast-Folgen
+
+<div class="card podcast-episode">
+<h3>31.08.2026 – 🌆 Abendüberblick</h3>
+<p class="meta">31.08.2026, 18:28 Uhr · 5.7 MB</p>
+<audio controls preload="none" src="2026-08-31_18-28.mp3"></audio>
+</div>
+
+<div class="card podcast-episode">
+<h3>30.08.2026 – 🌆 Abendüberblick</h3>
+<p class="meta">30.08.2026, 21:05 Uhr · 5.5 MB</p>
+<audio controls preload="none" src="2026-08-30_21-05.mp3"></audio>
+</div>
+
+<div class="card podcast-episode">
+<h3>29.08.2026 – 🌆 Abendüberblick</h3>
+<p class="meta">29.08.2026, 19:15 Uhr · 3.9 MB</p>
+<audio controls preload="none" src="2026-08-29_19-15.mp3"></audio>
+</div>
+
+<div class="card podcast-episode">
+<h3>28.08.2026 – 🌆 Abendüberblick</h3>
+<p class="meta">28.08.2026, 18:27 Uhr · 4.4 MB</p>
+<audio controls preload="none" src="2026-08-28_18-27.mp3"></audio>
+</div>
+
+<div class="card podcast-episode">
+<h3>27.08.2026 – 🌆 Abendüberblick</h3>
+<p class="meta">27.08.2026, 22:21 Uhr · 3.5 MB</p>
+<audio controls preload="none" src="2026-08-27_22-21.mp3"></audio>
+</div>
+
+<div class="card podcast-episode">
+<h3>26.08.2026 – 🌆 Abendüberblick</h3>
+<p class="meta">26.08.2026, 18:47 Uhr · 2.8 MB</p>
+<audio controls preload="none" src="2026-08-26_18-47.mp3"></audio>
+</div>
+
+<div class="card podcast-episode">
+<h3>25.08.2026 – 🌆 Abendüberblick</h3>
+<p class="meta">25.08.2026, 21:38 Uhr · 2.7 MB</p>
+<audio controls preload="none" src="2026-08-25_21-38.mp3"></audio>
+</div>
+
 
 ↩ [Zur Übersicht](../../index.html)
 
