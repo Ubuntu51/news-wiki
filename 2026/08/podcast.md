@@ -9,17 +9,10 @@ body_class: podcast
 
   # 🎧 Podcast August 2026
 
-  8 Folgen des Monats – direkt abspielbar.
+  7 Folgen des Monats – direkt abspielbar.
 </div>
 
 ## 🗓️ Folgen
-
-<div class="card podcast-episode">
-<h3>31.08.2026 – 🌆 Abendüberblick</h3>
-<p class="meta">31.08.2026, 22:15 Uhr · 5.8 MB</p>
-<audio controls preload="none" src="https://ubuntu51.github.io/news-wiki/2026/08/2026-08-31_22-15.mp3"></audio>
-<p class="links"><a href="https://ubuntu51.github.io/news-wiki/2026/08/2026-08-31_22-15.mp3">MP3 herunterladen</a> · <a href="https://ubuntu51.github.io/news-wiki/2026/08/2026-08-31_22-15.html">Zur Zusammenfassung</a></p>
-</div>
 
 <div class="card podcast-episode">
 <h3>31.08.2026 – 🌆 Abendüberblick</h3>
