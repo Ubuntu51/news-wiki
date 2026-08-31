@@ -36,7 +36,7 @@ Die Folgen sind nach Monat sortiert – klicke auf einen Monat, um die
 Folgen anzusehen und abzuspielen:
 
 <div class="card-grid">
-<div class="card"><span class="tag tag-week">Podcast</span><a href="2026/08/podcast.html">August 2026 (7 Folgen)</a></div>
+<div class="card"><span class="tag tag-week">Podcast</span><a href="2026/08/podcast.html">August 2026 (8 Folgen)</a></div>
 </div>
 
 ## ⚖️ Rechtlicher Hinweis
