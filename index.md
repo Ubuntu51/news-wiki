@@ -4,25 +4,35 @@ title: "Nachrichten-Wiki"
 body_class: home
 ---
 
-# 📰 Nachrichten-Wiki
+<div class="hero">
+  <h1>📰 Nachrichten-Wiki</h1>
+  <p>Automatisch erzeugt aus den Tageszusammenfassungen. Zuletzt aktualisiert: 31.08.2026, 20:52 Uhr.</p>
+</div>
 
-Automatisch erzeugt aus den Tageszusammenfassungen. Zuletzt aktualisiert: 31.08.2026, 20:48 Uhr.
+<div class="stats">
+  <div class="stat"><strong>36</strong><span>Tageszusammenfassungen</span></div>
+  <div class="stat"><strong>2</strong><span>Wochenzusammenfassungen</span></div>
+  <div class="stat"><strong>1</strong><span>Monate im Archiv</span></div>
+</div>
 
-## Neueste Zusammenfassung
-
-- [31.08.2026, 20:38 Uhr – Tageszusammenfassung](2026/08/2026-08-31_20-38.html)
+<div class="card featured">
+  <span class="tag">Neueste Zusammenfassung</span>
+  <a href="2026/08/2026-08-31_20-38.html">31.08.2026, 20:38 Uhr – Tageszusammenfassung</a>
+</div>
 
 ## Wochenzusammenfassungen
 
-- 📅 [Kalenderwoche 35 2026](2026/woche-35.html)
-- 📅 [Kalenderwoche 34 2026](2026/woche-34.html)
+<div class="card-grid">
+<div class="card"><span class="tag tag-week">Woche</span><a href="2026/woche-35.html">Kalenderwoche 35 2026</a></div>
+<div class="card"><span class="tag tag-week">Woche</span><a href="2026/woche-34.html">Kalenderwoche 34 2026</a></div>
+</div>
 
 ## Archiv
 
 ### 2026
 
-**August**
 
-- 📅 [Monatszusammenfassung August 2026](2026/08/monat.html)
-- 🗂️ [Tageszusammenfassungen August (36)](2026/08/index.html)
-
+<div class="card-grid">
+<div class="card"><span class="tag tag-month">Monat</span><a href="2026/08/monat.html">Monatszusammenfassung August 2026</a></div>
+<div class="card"><span class="tag tag-day">Tage</span><a href="2026/08/index.html">Tageszusammenfassungen August (36)</a></div>
+</div>

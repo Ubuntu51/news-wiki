@@ -71,7 +71,7 @@ header.top .nav a:hover { color: var(--accent); }
 .content h4 { color: var(--text); margin-top: 16px; font-size: 0.95rem; }
 
 .content p { margin: 8px 0; }
-.content ul { padding-left: 0; list-style: none; }
+.content ul { padding-left: 22px; }
 .content li { margin: 6px 0; }
 
 .content blockquote {
@@ -171,17 +171,133 @@ footer {
 }
 
 /* ============================================================
-   Struktur: Startseite (body.home) & Monats-Archiv (body.archive)
+   Dashboard: Startseite (body.home) & Monats-Archiv (body.archive)
    ============================================================ */
-body.home .content ul, body.archive .content ul {
+
+/* Hero-Bereich */
+.hero {
+  background: linear-gradient(135deg, var(--panel) 0%, var(--panel2) 100%);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 26px 28px;
+  margin-bottom: 20px;
+}
+.hero h1 {
+  margin: 0 0 8px;
+  border: none;
+  padding: 0;
+  font-size: 1.9rem;
+}
+.hero p { margin: 0; color: var(--muted); font-size: 0.95rem; }
+
+/* Statistik-Kacheln */
+.stats {
   display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 12px;
+  margin-bottom: 24px;
+}
+.stat {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 14px 16px;
+  text-align: center;
+}
+.stat strong {
+  display: block;
+  font-size: 1.7rem;
+  color: var(--accent);
+  line-height: 1.1;
+}
+.stat span {
+  display: block;
+  margin-top: 4px;
+  color: var(--muted);
+  font-size: 0.82rem;
+}
+
+/* Karten-Raster */
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 12px;
+  margin-bottom: 22px;
+}
+.card {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 14px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  transition: border-color 0.15s ease, transform 0.15s ease, background 0.15s ease;
+}
+.card:hover {
+  border-color: var(--accent);
+  background: var(--panel2);
+  transform: translateY(-2px);
+}
+.card a {
+  color: var(--text);
+  font-weight: 600;
+  font-size: 0.95rem;
+}
+.card a:hover { color: var(--accent); text-decoration: none; }
+
+/* Hervorgehobene "Neueste Zusammenfassung" */
+.card.featured {
+  background: var(--accent-soft);
+  border-color: var(--accent-dim);
+  margin-bottom: 24px;
+  grid-column: 1 / -1;
+}
+.card.featured a { font-size: 1.05rem; color: var(--accent); }
+
+/* Tags */
+.tag {
+  align-self: flex-start;
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.4px;
+  text-transform: uppercase;
+  padding: 3px 8px;
+  border-radius: 999px;
+  background: var(--panel2);
+  color: var(--muted);
+  border: 1px solid var(--border);
+}
+.tag-year { color: #fcd34d; border-color: rgba(252, 211, 77, 0.35); }
+.tag-week { color: #7dd3fc; border-color: rgba(125, 211, 252, 0.35); }
+.tag-month { color: #86efac; border-color: rgba(134, 239, 172, 0.35); }
+.tag-day { color: #f9a8d4; border-color: rgba(249, 168, 212, 0.35); }
+
+/* Abschnitts-Überschriften */
+body.home .content h2 {
+  margin-top: 30px;
+  margin-bottom: 14px;
+}
+body.home .content h3 {
+  color: var(--accent);
+  margin-top: 24px;
+  font-size: 1.1rem;
+  border-bottom: 1px dashed var(--border);
+  padding-bottom: 6px;
+}
+body.home .content p { color: var(--muted); font-size: 0.9rem; }
+
+/* Monats-Archivseite: Tagesliste als kompakte Karten */
+body.archive .content ul {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
   gap: 8px;
   margin: 10px 0 18px;
+  padding-left: 0;
+  list-style: none;
 }
-body.home .content li, body.archive .content li {
-  margin: 0;
-}
-body.home .content li a, body.archive .content li a {
+body.archive .content li { margin: 0; }
+body.archive .content li a {
   display: block;
   padding: 10px 14px;
   background: var(--panel);
@@ -191,41 +307,11 @@ body.home .content li a, body.archive .content li a {
   color: var(--text);
   transition: border-color 0.15s ease, background 0.15s ease;
 }
-body.home .content li a:hover, body.archive .content li a:hover {
+body.archive .content li a:hover {
   background: var(--panel2);
   border-color: var(--accent);
   text-decoration: none;
 }
-
-/* "Neueste Zusammenfassung" besonders hervorheben */
-body.home .content li:first-of-type a {
-  background: var(--accent-soft);
-  border-left-color: var(--accent);
-  font-weight: 600;
-}
-
-/* Monats-/Jahres-/Wochen-Kacheln mit Emoji-Badge */
-body.home .content li a {
-  display: flex;
-  align-items: center;
-  gap: 10px;
-}
-
-/* Hervorgehobene Wochen-/Monats-/Jahreszusammenfassungen (📅 🗓️ 🗂️) */
-body.home .content h2 {
-  margin-top: 24px;
-}
-body.home .content h3 {
-  color: var(--accent);
-  margin-top: 22px;
-  font-size: 1.1rem;
-}
-body.home .content p {
-  color: var(--muted);
-  font-size: 0.9rem;
-}
-
-/* "Zurück zur Übersicht" als dezenter Button */
 body.archive .content ul:last-of-type li a {
   display: inline-block;
   padding: 8px 14px;
