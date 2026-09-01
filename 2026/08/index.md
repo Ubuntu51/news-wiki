@@ -6,7 +6,7 @@ body_class: archive
 
 # 📅 Tageszusammenfassungen August 2026
 
-Zuletzt aktualisiert: 31.08.2026, 22:24 Uhr.
+Zuletzt aktualisiert: 01.09.2026, 10:07 Uhr.
 
 - [31.08.2026, 18:28 Uhr](2026-08-31_18-28.html)
 - [31.08.2026, 09:31 Uhr](2026-08-31_09-31.html)

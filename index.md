@@ -6,13 +6,13 @@ body_class: home
 
 <div class="hero">
   <h1>📰 Nachrichten-Wiki</h1>
-  <p>Automatisch erzeugt aus den Tageszusammenfassungen. Zuletzt aktualisiert: 31.08.2026, 22:24 Uhr.</p>
+  <p>Automatisch erzeugt aus den Tageszusammenfassungen. Zuletzt aktualisiert: 01.09.2026, 10:07 Uhr.</p>
 </div>
 
 <div class="stats">
-  <div class="stat"><strong>33</strong><span>Tageszusammenfassungen</span></div>
+  <div class="stat"><strong>34</strong><span>Tageszusammenfassungen</span></div>
   <div class="stat"><strong>2</strong><span>Wochenzusammenfassungen</span></div>
-  <div class="stat"><strong>1</strong><span>Monate im Archiv</span></div>
+  <div class="stat"><strong>2</strong><span>Monate im Archiv</span></div>
 </div>
 
 <div class="card featured">
@@ -35,4 +35,8 @@ body_class: home
 <div class="card-grid">
 <div class="card"><span class="tag tag-month">Monat</span><a href="2026/08/monat.html">Monatszusammenfassung August 2026</a></div>
 <div class="card"><span class="tag tag-day">Tage</span><a href="2026/08/index.html">Tageszusammenfassungen August (33)</a></div>
+</div>
+
+<div class="card-grid">
+<div class="card"><span class="tag tag-day">Tage</span><a href="2026/09/index.html">Tageszusammenfassungen September (1)</a></div>
 </div>
