@@ -6,7 +6,9 @@ body_class: archive
 
 # 📅 Tageszusammenfassungen August 2026
 
-Zuletzt aktualisiert: 01.09.2026, 18:22 Uhr.
+Zuletzt aktualisiert: 01.09.2026, 22:14 Uhr.
+
+🔮 [Zukunftsprognose für den Folgemonat](ausblick.html)
 
 - [31.08.2026, 18:28 Uhr](2026-08-31_18-28.html)
 - [31.08.2026, 09:31 Uhr](2026-08-31_09-31.html)
