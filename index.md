@@ -6,18 +6,18 @@ body_class: home
 
 <div class="hero">
   <h1>📰 Nachrichten-Wiki</h1>
-  <p>Automatisch erzeugt aus den Tageszusammenfassungen. Zuletzt aktualisiert: 01.09.2026, 22:53 Uhr.</p>
-</div>
-
-<div class="card featured">
-  <span class="tag">Neueste Zusammenfassung</span>
-  <a href="2026/08/2026-08-31_18-28.html">31.08.2026, 18:28 Uhr – Tageszusammenfassung</a>
+  <p>Automatisch erzeugt aus den Tageszusammenfassungen. Zuletzt aktualisiert: 01.09.2026, 22:58 Uhr.</p>
 </div>
 
 <div class="stats">
   <div class="stat"><strong>35</strong><span>Tageszusammenfassungen</span></div>
   <div class="stat"><strong>2</strong><span>Wochenzusammenfassungen</span></div>
-  <div class="stat"><strong>2</strong><span>Monate</span></div>
+  <div class="stat"><strong>1</strong><span>Monatszusammenfassungen</span></div>
+</div>
+
+<div class="card featured">
+  <span class="tag">Neueste Zusammenfassung</span>
+  <a href="2026/08/2026-08-31_18-28.html">31.08.2026, 18:28 Uhr – Tageszusammenfassung</a>
 </div>
 
 ## Tageszusammenfassungen
