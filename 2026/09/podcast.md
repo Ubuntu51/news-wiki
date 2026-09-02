@@ -6,10 +6,8 @@ body_class: podcast
 
 <div class="hero">
   <img class="podcast-logo" src="../../assets/podcast/logo.jpg" alt="News-Podcast Logo" width="120">
-
-  # 🎧 Podcast September 2026
-
-  2 Folgen des Monats – direkt abspielbar.
+  <h1>🎧 Podcast September 2026</h1>
+  <p>2 Folgen des Monats – direkt abspielbar.</p>
 </div>
 
 ## 🗓️ Folgen

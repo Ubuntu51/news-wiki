@@ -7,17 +7,16 @@ body_class: podcast
 
 <div class="hero">
   <img class="podcast-logo" src="assets/podcast/logo.jpg" alt="News-Podcast Logo" width="120">
-
-  # 🎧 Podcast
-
-  „News-Podcast“ ist dein täglicher Audio-Überblick über die wichtigsten Nachrichten aus Österreich und der Welt. Jeden Abend automatisch erstellt aus den RSS-Feeds österreichischer Tageszeitungen sowie deutscher und internationaler Tech-, Sicherheits- und Wirtschaftsmedien. Die Zusammenfassungen werden von einer KI (LLM) geschrieben und mit einer natürlichen Piper-Stimme eingesprochen – kompakt, kostenlos und werbefrei.
-
-  > 🤖 **KI-Hinweis:** Alle Zusammenfassungen werden automatisch von einem
-  > **Sprachmodell (KI/LLM)** aus RSS-Feeds österreichischer und
-  > internationaler Medien erstellt und anschließend lokal mit der
-  > Piper-Stimme „Thorsten“ eingesprochen. Es handelt sich nicht um
-  > redaktionell erstellte Inhalte. Quellenangaben siehe
-  > [Quellen](https://ubuntu51.github.io/news-wiki/quellen.html).
+  <h1>🎧 Podcast</h1>
+  <p>„News-Podcast“ ist dein täglicher Audio-Überblick über die wichtigsten Nachrichten aus Österreich und der Welt. Jeden Abend automatisch erstellt aus den RSS-Feeds österreichischer Tageszeitungen sowie deutscher und internationaler Tech-, Sicherheits- und Wirtschaftsmedien. Die Zusammenfassungen werden von einer KI (LLM) geschrieben und mit einer natürlichen Piper-Stimme eingesprochen – kompakt, kostenlos und werbefrei.</p>
+  <blockquote>
+    <p><strong>🤖 KI-Hinweis:</strong> Alle Zusammenfassungen werden automatisch von einem
+    <strong>Sprachmodell (KI/LLM)</strong> aus RSS-Feeds österreichischer und
+    internationaler Medien erstellt und anschließend lokal mit der
+    Piper-Stimme „Thorsten“ eingesprochen. Es handelt sich nicht um
+    redaktionell erstellte Inhalte. Quellenangaben siehe
+    <a href="https://ubuntu51.github.io/news-wiki/quellen.html">Quellen</a>.</p>
+  </blockquote>
 </div>
 
 ## 🏷️ Themen
