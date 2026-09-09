@@ -6,7 +6,7 @@ body_class: home
 
 <div class="hero">
   <h1>📰 Nachrichten-Wiki</h1>
-  <p>Automatisch erzeugt aus den Tageszusammenfassungen. Zuletzt aktualisiert: 09.09.2026, 19:42 Uhr.</p>
+  <p>Automatisch erzeugt aus den Tageszusammenfassungen. Zuletzt aktualisiert: 09.09.2026, 21:35 Uhr.</p>
 </div>
 
 <div class="stats">
@@ -17,7 +17,7 @@ body_class: home
 
 <div class="card featured">
   <span class="tag">Neueste Zusammenfassung</span>
-  <a href="2026/09/2026-09-09_19-41.html">09.09.2026, 19:41 Uhr – Tageszusammenfassung</a>
+  <a href="2026/09/2026-09-09_21-34.html">09.09.2026, 21:34 Uhr – Tageszusammenfassung</a>
 </div>
 
 ## Tageszusammenfassungen
