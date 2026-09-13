@@ -7,7 +7,7 @@ Dieses Wiki archiviert die täglichen **Tageszusammenfassungen** der News-Übers
 - **Generator-Projekt:** [Ubuntu51/news-generator](https://github.com/Ubuntu51/news-generator)
 
 Die Zusammenfassungen werden automatisch aus RSS-Feeds österreichischer
-Tageszeitungen sowie deutschen und internationalen Tech-, Wissenschafts-,
-Sicherheits- und Sport-Medien erzeugt und von einer KI auf Deutsch
+Tageszeitungen sowie deutschen und internationalen Tech-, Sicherheits-,
+Wirtschafts- und Alternativ-Medien erzeugt und von einer KI auf Deutsch
 zusammengefasst. Die vollständige Quellenliste wird zentral in
 `quellen.md` gepflegt.
