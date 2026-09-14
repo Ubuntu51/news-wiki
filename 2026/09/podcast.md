@@ -1,5 +1,6 @@
 ---
 layout: default
+render_with_liquid: false
 title: "🎧 Podcast September 2026"
 body_class: podcast
 ---

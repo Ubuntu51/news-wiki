@@ -1,12 +1,13 @@
 ---
 layout: default
+render_with_liquid: false
 title: "Tageszusammenfassungen August 2026"
 body_class: archive
 ---
 
 # 📅 Tageszusammenfassungen August 2026
 
-Zuletzt aktualisiert: 13.09.2026, 19:41 Uhr.
+Zuletzt aktualisiert: 14.09.2026, 10:12 Uhr.
 
 - [31.08.2026, 18:28 Uhr](2026-08-31_18-28.html)
 - [31.08.2026, 09:31 Uhr](2026-08-31_09-31.html)

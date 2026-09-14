@@ -1,5 +1,6 @@
 ---
 layout: default
+render_with_liquid: false
 title: "🎧 Podcast"
 description: "„News-Podcast“ ist dein täglicher Audio-Überblick über die wichtigsten Nachrichten aus Österreich und der Welt. Jeden Abend automatisch erstellt aus den RSS-Feeds österreichischer Tageszeitungen sowie deutscher und internationaler Tech-, Sicherheits- und Wirtschaftsmedien. Die Zusammenfassungen werden von einer KI (LLM) geschrieben und mit einer natürlichen Piper-Stimme eingesprochen – kompakt, kostenlos und werbefrei."
 body_class: podcast
@@ -35,7 +36,7 @@ Die Folgen sind nach Monat sortiert – klicke auf einen Monat, um die
 Folgen anzusehen und abzuspielen:
 
 <div class="card-grid">
-<div class="card"><span class="tag tag-week">Podcast</span><a href="2026/09/podcast.html">September 2026 (14 Folgen)</a></div>
+<div class="card"><span class="tag tag-week">Podcast</span><a href="2026/09/podcast.html">September 2026 (13 Folgen)</a></div>
 <div class="card"><span class="tag tag-week">Podcast</span><a href="2026/08/podcast.html">August 2026 (7 Folgen)</a></div>
 </div>
 
