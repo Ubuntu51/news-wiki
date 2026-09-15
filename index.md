@@ -7,11 +7,11 @@ body_class: home
 
 <div class="hero">
   <h1>📰 Nachrichten-Wiki</h1>
-  <p>Automatisch erzeugt aus den Tageszusammenfassungen. Zuletzt aktualisiert: 15.09.2026, 10:20 Uhr.</p>
+  <p>Automatisch erzeugt aus den Tageszusammenfassungen. Zuletzt aktualisiert: 15.09.2026, 20:02 Uhr.</p>
 </div>
 
 <div class="stats">
-  <div class="stat"><strong>62</strong><span>Tageszusammenfassungen</span></div>
+  <div class="stat"><strong>63</strong><span>Tageszusammenfassungen</span></div>
   <div class="stat"><strong>4</strong><span>Wochenzusammenfassungen</span></div>
   <div class="stat"><strong>1</strong><span>Monatszusammenfassungen</span></div>
   <div class="stat"><strong>1</strong><span>Zukunftsprognosen</span></div>
@@ -19,13 +19,13 @@ body_class: home
 
 <div class="card featured">
   <span class="tag">Neueste Zusammenfassung</span>
-  <a href="2026/09/2026-09-15_10-20.html">15.09.2026, 10:20 Uhr – Tageszusammenfassung</a>
+  <a href="2026/09/2026-09-15_20-01.html">15.09.2026, 20:01 Uhr – Tageszusammenfassung</a>
 </div>
 
 ## Tageszusammenfassungen
 
 <div class="card-grid">
-<div class="card"><span class="tag tag-day">Tage</span><a href="2026/09/index.html">Tageszusammenfassungen September 2026 (29)</a></div>
+<div class="card"><span class="tag tag-day">Tage</span><a href="2026/09/index.html">Tageszusammenfassungen September 2026 (30)</a></div>
 <div class="card"><span class="tag tag-day">Tage</span><a href="2026/08/index.html">Tageszusammenfassungen August 2026 (33)</a></div>
 </div>
 
