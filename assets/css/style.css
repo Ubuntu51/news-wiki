@@ -272,6 +272,8 @@ footer {
 .tag-week { color: #7dd3fc; border-color: rgba(125, 211, 252, 0.35); }
 .tag-month { color: #86efac; border-color: rgba(134, 239, 172, 0.35); }
 .tag-day { color: #f9a8d4; border-color: rgba(249, 168, 212, 0.35); }
+.tag-outlook { color: #c4b5fd; border-color: rgba(196, 181, 253, 0.35); }
+.tag-check { color: #fda4af; border-color: rgba(253, 164, 175, 0.35); }
 
 /* Abschnitts-Überschriften */
 body.home .content h2 {
