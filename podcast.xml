@@ -4,7 +4,7 @@
 <title>News-Podcast</title>
 <description>„News-Podcast“ ist dein täglicher Audio-Überblick über die wichtigsten Nachrichten aus Österreich und der Welt. Jeden Abend automatisch erstellt aus den RSS-Feeds österreichischer Tageszeitungen sowie deutscher und internationaler Tech-, Sicherheits- und Wirtschaftsmedien. Die Zusammenfassungen werden von einer KI (LLM) geschrieben und mit einer natürlichen Piper-Stimme eingesprochen – kompakt, kostenlos und werbefrei.</description>
 <link>https://ubuntu51.github.io/news-wiki</link>
-<lastBuildDate>Wed, 16 Sep 2026 20:58:20 +0000</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 20:09:15 +0000</lastBuildDate>
 <language>de</language>
 <itunes:author>News-Generator (KI)</itunes:author>
 <itunes:explicit>false</itunes:explicit>
@@ -21,12 +21,12 @@
 <itunes:category text="Technology"/>
 <item>
 <title>16.09.2026 – 🌆 Abendüberblick</title>
-<link>https://ubuntu51.github.io/news-wiki/2026/09/2026-09-16_20-57.html</link>
-<guid isPermaLink="true">https://ubuntu51.github.io/news-wiki/2026/09/2026-09-16_20-57.mp3</guid>
-<pubDate>Wed, 16 Sep 2026 20:57:00 +0000</pubDate>
+<link>https://ubuntu51.github.io/news-wiki/2026/09/2026-09-16_20-07.html</link>
+<guid isPermaLink="true">https://ubuntu51.github.io/news-wiki/2026/09/2026-09-16_20-07.mp3</guid>
+<pubDate>Wed, 16 Sep 2026 20:07:00 +0000</pubDate>
 <description>KI-erzeugte Tageszusammenfassung als Audio (16.09.2026 – 🌆 Abendüberblick).</description>
 <itunes:summary>Automatisch von einer KI (LLM) aus RSS-Feeds erstellte Tageszusammenfassung, eingesprochen mit Piper.</itunes:summary>
-<enclosure url="https://ubuntu51.github.io/news-wiki/2026/09/2026-09-16_20-57.mp3" type="audio/mpeg" length="7958016"/>
+<enclosure url="https://ubuntu51.github.io/news-wiki/2026/09/2026-09-16_20-07.mp3" type="audio/mpeg" length="7988352"/>
 </item>
 <item>
 <title>15.09.2026 – 🌆 Abendüberblick</title>
