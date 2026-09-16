@@ -7,10 +7,10 @@ body_class: archive
 
 # 📅 Tageszusammenfassungen September 2026
 
-Zuletzt aktualisiert: 16.09.2026, 20:09 Uhr.
+Zuletzt aktualisiert: 16.09.2026, 20:58 Uhr.
 
+- [16.09.2026, 20:57 Uhr](2026-09-16_20-57.html)
 - [16.09.2026, 20:07 Uhr](2026-09-16_20-07.html)
-- [16.09.2026, 11:08 Uhr](2026-09-16_11-08.html)
 - [15.09.2026, 20:01 Uhr](2026-09-15_20-01.html)
 - [15.09.2026, 10:20 Uhr](2026-09-15_10-20.html)
 - [14.09.2026, 20:02 Uhr](2026-09-14_20-02.html)
