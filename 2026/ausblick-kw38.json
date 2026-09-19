@@ -1,0 +1,57 @@
+{
+ "label": "Kalenderwoche 39 / 2026",
+ "generated_at": "19.09.2026, 10:31 Uhr",
+ "model": "deepseek-v3.2",
+ "predictions": [
+  {
+   "nr": 1,
+   "title": "Verschärfte EU-Regulierungsprüfungen für KI-Unternehmen",
+   "category": "KI / Regulierung",
+   "horizon": "mittelfristig (2-4 Wochen)",
+   "level": "hoch",
+   "probability": 80,
+   "reason": "Die EU prüft bereits OpenAI nach einem nicht gemeldeten Sicherheitsvorfall. Dieser konkrete Schritt signalisiert eine verschärfte Aufsichtspraxis, die sich im Zuge der anhaltenden Debatte um KI-Risiken und Regulierung wahrscheinlich auf weitere Unternehmen ausweiten wird.",
+   "signal": "Weitere Bekanntgaben der EU-Kommission zu laufenden Prüfverfahren oder Sanktionen gegen KI-Unternehmen, die gegen Meldepflichten verstoßen haben."
+  },
+  {
+   "nr": 2,
+   "title": "Fortgesetzter wirtschaftlicher Druck auf europäische Unternehmen",
+   "category": "Wirtschaft",
+   "horizon": "kurzfristig (bis 1 Woche)",
+   "level": "hoch",
+   "probability": 90,
+   "reason": "Die stark gestiegenen Insolvenzzahlen in Österreich und die gesenkte Prognose von Volkswagen deuten auf anhaltende strukturelle Belastungen wie hohe Kosten und schwache Nachfrage in Schlüsselmärkten hin. Dieser Trend wird sich voraussichtlich in weiteren negativen Unternehmensmeldungen oder Konjunkturdaten niederschlagen.",
+   "signal": "Weitere Quartals- oder Prognosemeldungen von großen europäischen Konzernen, die auf Absatzschwäche oder Margendruck hinweisen, sowie neue Insolvenzstatistiken aus anderen EU-Ländern."
+  },
+  {
+   "nr": 3,
+   "title": "Zunehmende Forderungen nach einer KI-Forschungspause",
+   "category": "KI / Politik",
+   "horizon": "mittelfristig (2-4 Wochen)",
+   "level": "mittel",
+   "probability": 60,
+   "reason": "Die Zusammenfassung erwähnt, dass sich die Debatte um eine mögliche Pause in der KI-Forschung zuspitzt. Vor dem Hintergrund konkreter Regulierungsprüfungen (wie bei OpenAI) ist es wahrscheinlich, dass diese Forderungen von politischen oder wissenschaftlichen Gruppen konkretisiert und lauter werden.",
+   "signal": "Öffentliche Stellungnahmen oder Initiativen von Wissenschaftlern, Think-Tanks oder politischen Parteien, die eine temporäre Aussetzung bestimmter KI-Forschungsbereiche fordern."
+  },
+  {
+   "nr": 4,
+   "title": "Eskalation der militärischen Auseinandersetzungen um kritische Infrastruktur",
+   "category": "Sicherheit / Ukraine-Krieg",
+   "horizon": "kurzfristig (bis 1 Woche)",
+   "level": "hoch",
+   "probability": 75,
+   "reason": "Die Bestätigung der IAEA, dass eine Drohne den Kühlturm des Atomkraftwerks Kursk traf, markiert eine gefährliche Eskalationsstufe. Angriffe auf solche hochsensiblen Ziele erhöhen das Risiko weiterer Vorfälle dieser Art oder von Vergeltungsschlägen.",
+   "signal": "Neue Meldungen über Drohnenangriffe oder Sabotageakte gegen Energie- oder Nuklearanlagen im Kontext des Ukraine-Kriegs, begleitet von scharfen diplomatischen Verurteilungen."
+  },
+  {
+   "nr": 5,
+   "title": "Konkretisierung der politischen Richtung in Schweden",
+   "category": "Politik",
+   "horizon": "kurzfristig (bis 1 Woche)",
+   "level": "hoch",
+   "probability": 85,
+   "reason": "Nach dem Rücktritt der Regierung werden sich die politischen Folgen des schwedischen Regierungswechsels laut Ausblick in den kommenden Tagen konkretisieren. Dies betrifft voraussichtlich die Bildung einer neuen Regierung oder die Benennung eines Übergangskabinetts mit ersten programmatischen Aussagen.",
+   "signal": "Bekanntgabe von Koalitionsverhandlungen, der Ernennung eines neuen Ministerpräsidenten oder die Veröffentlichung eines Regierungsprogramms durch die handelnden politischen Akteure in Schweden."
+  }
+ ]
+}
