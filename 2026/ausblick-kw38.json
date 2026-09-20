@@ -1,57 +1,57 @@
 {
  "label": "Kalenderwoche 39 / 2026",
- "generated_at": "20.09.2026, 09:52 Uhr",
+ "generated_at": "20.09.2026, 19:23 Uhr",
  "model": "deepseek-v3.2",
  "predictions": [
   {
    "nr": 1,
-   "title": "Zunehmende regulatorische Schritte gegen KI-Unternehmen",
+   "title": "Fortschreitende EU-Prüfung und mögliche Sanktionen gegen OpenAI",
    "category": "KI / Regulierung",
    "horizon": "mittelfristig (2-4 Wochen)",
    "level": "hoch",
    "probability": 80,
-   "reason": "Die Debatte um KI-Regulierung verlagerte sich von allgemeinen Forderungen hin zu konkreten Schritten, konkretisiert durch die laufende Prüfung der EU gegen OpenAI wegen eines nicht gemeldeten Sicherheitsvorfalls.",
-   "signal": "Veröffentlichung erster Ergebnisse oder Stellungnahmen der EU-Kommission zur OpenAI-Prüfung, Ankündigungen weiterer Untersuchungen oder schärferer Meldeauflagen für KI-Sicherheitsvorfälle."
+   "reason": "Die EU-Kommission hat bereits ein Prüfverfahren gegen OpenAI wegen eines nicht gemeldeten Sicherheitsvorfalls im Kontext des neuen AI Acts eingeleitet. Dies deutet auf eine konsequente Anwendung der neuen Regulierung hin.",
+   "signal": "In der kommenden Woche könnte sich die Prüfung konkretisieren, erste Zwischenergebnisse der EU-Kommission bekannt werden oder es könnten Ankündigungen zu möglichen Sanktionsmaßnahmen folgen."
   },
   {
    "nr": 2,
-   "title": "Fortsetzung der geldpolitischen Straffung durch wichtige Zentralbanken",
-   "category": "Wirtschaft / Finanzpolitik",
+   "title": "Verstärkte Debatte um KI-Entwicklungspause und Regulierungsdruck",
+   "category": "KI / Sicherheit",
    "horizon": "kurzfristig (bis 1 Woche)",
    "level": "hoch",
-   "probability": null,
-   "reason": "Die US-Notenbank signalisierte eine wahrscheinliche Leitzinsanhebung und die Bank of Japan hob den Leitzins bereits an. Der Trend zur geldpolitischen Straffung setzt sich laut Zusammenfassung global fort.",
-   "signal": "Bekanntgabe des erwarteten Zinsentscheids der US-Notenbank (Fed) sowie entsprechende Kommunikation anderer Zentralbanken (z.B. EZB, Bank of England) zur weiteren Zinspolitik."
+   "probability": 75,
+   "reason": "Führende KI-Unternehmen haben eine Pause bei der Entwicklung neuer Modelle gefordert, und der fast ausgelöste Militäreinsatz durch einen fehlerhaften KI-Bericht unterstreicht die akuten Risiken. Dies wird die politische und öffentliche Diskussion weiter anheizen.",
+   "signal": "Es sind weitere Stellungnahmen von Unternehmen, Wissenschaftlern oder Politikern zur Forderung nach einem Moratorium oder zu konkreten Sicherheitsmaßnahmen zu erwarten. Möglicherweise werden auch neue legislative Vorschläge auf EU- oder nationaler Ebene diskutiert."
   },
   {
    "nr": 3,
-   "title": "Politische Debatte in Deutschland wird von Wahlanalysen und Koalitionsspekulationen bestimmt",
-   "category": "Politik (Innenpolitik)",
-   "horizon": "kurzfristig (bis 1 Woche)",
+   "title": "Fortdauernder wirtschaftlicher Druck in Europa durch Zinsen und Insolvenzen",
+   "category": "Wirtschaft",
+   "horizon": "mittelfristig (2-4 Wochen)",
    "level": "hoch",
-   "probability": 95,
-   "reason": "Die Landtagswahlen in Berlin und einem weiteren Bundesland („M“) wurden als besonders gespannt erwartet, nachdem der AfD-Erfolg in Sachsen-Anhalt bereits für Aufmerksamkeit sorgte. Der Ausblick nennt die Wahlen als dominierendes Thema.",
-   "signal": "Ausführliche Medienanalyse der Wahlergebnisse, erste Reaktionen der Parteien und Diskussionen über mögliche Regierungsbildungen in den betroffenen Bundesländern."
+   "probability": 90,
+   "reason": "Die US-Fed steht vor einer wahrscheinlichen Leitzinsanhebung und die japanische Zentralbank hat bereits erhöht, was einen globalen Trend zu höheren Zinsen signalisiert. Gleichzeitig meldet Österreich einen dramatischen Anstieg der Firmenkonkurse und eine wieder anziehende Inflation.",
+   "signal": "In der kommenden Woche könnten weitere wirtschaftliche Daten (z.B. Insolvenzstatistiken aus anderen EU-Ländern, Konjunkturprognosen) oder Stellungnahmen von Zentralbanken (vor allem der EZB) veröffentlicht werden, die diesen Trend bestätigen und die Sorgen vor einer wirtschaftlichen Abschwächung verstärken."
   },
   {
    "nr": 4,
-   "title": "Weitere negative Anpassungen von Unternehmensprognosen im Automobilsektor",
-   "category": "Wirtschaft / Konjunktur",
-   "horizon": "mittelfristig (2-4 Wochen)",
-   "level": "mittel",
-   "probability": 60,
-   "reason": "Volkswagen senkte seine Jahresprognose aufgrund von Marktschwäche in China und hohen Kosten. Dies deutet auf anhaltenden Druck für die Branche hin.",
-   "signal": "Weitere Gewinnwarnungen oder gesenkte Prognosen von anderen Automobilherstellern oder Zulieferern, insbesondere mit Fokus auf den Absatzmarkt China."
+   "title": "Politische Fokussierung auf Wahlergebnisse und Regierungsbildung",
+   "category": "Politik (Innenpolitik DE & SE)",
+   "horizon": "kurzfristig (bis 1 Woche)",
+   "level": "hoch",
+   "probability": 95,
+   "reason": "Die Wahlprognosen für Berlin und Mecklenburg-Vorpommern mit guten Ergebnissen für Linkspartei und AfD sowie die eingeleitete Regierungsbildung in Schweden nach dem Rücktritt der Regierung werden die innenpolitische Agenda dominieren.",
+   "signal": "Es werden erste konkrete Sondierungsgespräche oder Koalitionsverhandlungen in Schweden und Reaktionen der etablierten Parteien auf die deutschen Prognosen erwartet. Medienberichte werden sich stark auf die politischen Machtverschiebungen und deren Folgen konzentrieren."
   },
   {
    "nr": 5,
-   "title": "Eskalation oder Intensivierung von Kampfhandlungen in bestehenden Konfliktzonen",
-   "category": "Sicherheitspolitik / Internationale Konflikte",
-   "horizon": "mittelfristig (2-4 Wochen)",
-   "level": "mittel",
-   "probability": 65,
-   "reason": "Die Zusammenfassung beschreibt weiterhin präsente Konflikte in der Ukraine, Mali und im Jemen, wobei in Mali und der Ukraine zuletzt hohe Verluste (u.a. ein russischer Generalmajor) gemeldet wurden.",
-   "signal": "Meldungen über neue größere Offensiven, verstärkte Artillerie- oder Luftangriffe oder eine erhöhte Anzahl gemeldeter Gefallener aus den genannten Regionen."
+   "title": "Geopolitische Spannungen bleiben akut mit Fokus auf Ukraine-Krieg",
+   "category": "Sicherheit / Internationale Politik",
+   "horizon": "kurzfristig (bis 1 Woche)",
+   "level": "hoch",
+   "probability": 85,
+   "reason": "Die Tötung eines hochdekorierten russischen Generalmajors im Ukraine-Krieg unterstreicht die Intensität der Kämpfe. Zudem werden die Konflikte im Nahen Osten und an der EU-Außengrenze zu Belarus als präsent beschrieben.",
+   "signal": "Es sind weitere Meldungen zu militärischen Entwicklungen in der Ukraine, diplomatischen Reaktionen oder möglichen Eskalationen an den genannten Konfliktherden zu erwarten. Die sicherheitspolitische Lage bleibt im Fokus der internationalen Berichterstattung."
   }
  ]
 }
