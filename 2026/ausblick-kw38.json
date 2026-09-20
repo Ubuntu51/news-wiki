@@ -1,57 +1,57 @@
 {
  "label": "Kalenderwoche 39 / 2026",
- "generated_at": "19.09.2026, 19:08 Uhr",
+ "generated_at": "20.09.2026, 09:52 Uhr",
  "model": "deepseek-v3.2",
  "predictions": [
   {
    "nr": 1,
-   "title": "Vertiefung der KI-Regulierungsdebatte in der EU",
-   "category": "KI / Sicherheit",
-   "horizon": "kurzfristig (bis 1 Woche)",
+   "title": "Zunehmende regulatorische Schritte gegen KI-Unternehmen",
+   "category": "KI / Regulierung",
+   "horizon": "mittelfristig (2-4 Wochen)",
    "level": "hoch",
    "probability": 80,
-   "reason": "Die EU prüft bereits OpenAI wegen eines Sicherheitsvorfalls, und die Diskussion um KI-Risiken war ein bestimmendes Thema der Vorwoche. Der konkrete Fall und die allgemeine Debatte werden zu weiteren regulatorischen Schritten oder öffentlichen Stellungnahmen führen.",
-   "signal": "Es könnten neue Aussagen von EU-Behörden zur Prüfung von OpenAI, Forderungen nach schärferen Kontrollen von KI-Systemen oder Reaktionen der betroffenen Unternehmen veröffentlicht werden."
+   "reason": "Die Debatte um KI-Regulierung verlagerte sich von allgemeinen Forderungen hin zu konkreten Schritten, konkretisiert durch die laufende Prüfung der EU gegen OpenAI wegen eines nicht gemeldeten Sicherheitsvorfalls.",
+   "signal": "Veröffentlichung erster Ergebnisse oder Stellungnahmen der EU-Kommission zur OpenAI-Prüfung, Ankündigungen weiterer Untersuchungen oder schärferer Meldeauflagen für KI-Sicherheitsvorfälle."
   },
   {
    "nr": 2,
-   "title": "Fortgesetzte wirtschaftliche Nervosität vor US-Zinsentscheidung",
-   "category": "Wirtschaft",
+   "title": "Fortsetzung der geldpolitischen Straffung durch wichtige Zentralbanken",
+   "category": "Wirtschaft / Finanzpolitik",
    "horizon": "kurzfristig (bis 1 Woche)",
    "level": "hoch",
    "probability": null,
-   "reason": "Der Ausblick nennt die anstehende Zinsentscheidung der US-Notenbank explizit als weiterhin dominierendes Thema. Die historische Zinswende in Japan und die konjunkturellen Sorgen unterstreichen die globale Sensibilität für geldpolitische Signale.",
-   "signal": "Es wird eine intensive mediale und analytische Berichterstattung im Vorfeld der Fed-Sitzung sowie Reaktionen der Finanzmärkte auf wirtschaftliche Daten als Indikatoren für die Entscheidung geben."
+   "reason": "Die US-Notenbank signalisierte eine wahrscheinliche Leitzinsanhebung und die Bank of Japan hob den Leitzins bereits an. Der Trend zur geldpolitischen Straffung setzt sich laut Zusammenfassung global fort.",
+   "signal": "Bekanntgabe des erwarteten Zinsentscheids der US-Notenbank (Fed) sowie entsprechende Kommunikation anderer Zentralbanken (z.B. EZB, Bank of England) zur weiteren Zinspolitik."
   },
   {
    "nr": 3,
-   "title": "Politische Unsicherheit in Schweden nach Regierungsrücktritt",
-   "category": "Politik",
-   "horizon": "mittelfristig (2-4 Wochen)",
+   "title": "Politische Debatte in Deutschland wird von Wahlanalysen und Koalitionsspekulationen bestimmt",
+   "category": "Politik (Innenpolitik)",
+   "horizon": "kurzfristig (bis 1 Woche)",
    "level": "hoch",
-   "probability": 85,
-   "reason": "Die schwedische Regierung ist nach der verlorenen Wahl zurückgetreten. Der Ausblick betont, dass die politischen Folgen dieser Wahl die kommenden Tage bestimmen werden, was auf einen unklaren und möglicherweise langwierigen Regierungsbildungsprozess hindeutet.",
-   "signal": "Es werden Meldungen über Sondierungsgespräche zwischen Parteien, Diskussionen über mögliche Koalitionen oder vorläufige Amtsgeschäfte der Übergangsregierung zu erwarten sein."
+   "probability": 95,
+   "reason": "Die Landtagswahlen in Berlin und einem weiteren Bundesland („M“) wurden als besonders gespannt erwartet, nachdem der AfD-Erfolg in Sachsen-Anhalt bereits für Aufmerksamkeit sorgte. Der Ausblick nennt die Wahlen als dominierendes Thema.",
+   "signal": "Ausführliche Medienanalyse der Wahlergebnisse, erste Reaktionen der Parteien und Diskussionen über mögliche Regierungsbildungen in den betroffenen Bundesländern."
   },
   {
    "nr": 4,
-   "title": "Weitere Analyse sicherheitspolitischer KI-Risiken",
-   "category": "Sicherheit / KI",
+   "title": "Weitere negative Anpassungen von Unternehmensprognosen im Automobilsektor",
+   "category": "Wirtschaft / Konjunktur",
    "horizon": "mittelfristig (2-4 Wochen)",
    "level": "mittel",
-   "probability": 65,
-   "reason": "Der Vorfall mit dem fehlerhaften KI-generierten Geheimdienstbericht, der fast einen Militäreinsatz ausgelöst hätte, hat KI zu einem konkreten sicherheitspolitischen Risiko gemacht. Dies wird wahrscheinlich interne Untersuchungen und Debatten über den Einsatz von KI in Nachrichtendiensten und Militär nach sich ziehen.",
-   "signal": "Es könnten (teil-)öffentliche Stellungnahmen von US-Sicherheitsbehörden, parlamentarische Anfragen oder Berichte über neue Richtlinien für den Einsatz von KI in sensiblen Bereichen folgen."
+   "probability": 60,
+   "reason": "Volkswagen senkte seine Jahresprognose aufgrund von Marktschwäche in China und hohen Kosten. Dies deutet auf anhaltenden Druck für die Branche hin.",
+   "signal": "Weitere Gewinnwarnungen oder gesenkte Prognosen von anderen Automobilherstellern oder Zulieferern, insbesondere mit Fokus auf den Absatzmarkt China."
   },
   {
    "nr": 5,
-   "title": "Fortdauernde Insolvenzproblematik in Teilen Europas",
-   "category": "Wirtschaft",
+   "title": "Eskalation oder Intensivierung von Kampfhandlungen in bestehenden Konfliktzonen",
+   "category": "Sicherheitspolitik / Internationale Konflikte",
    "horizon": "mittelfristig (2-4 Wochen)",
-   "level": "hoch",
-   "probability": 75,
-   "reason": "Der starke Anstieg der Firmenkonkurse in Österreich um 42,9 % in den ersten drei Quartalen 2026 zeigt eine akute wirtschaftliche Belastung in der Region. Dieser Trend wird sich wahrscheinlich in weiteren Daten und Diskussionen widerspiegeln.",
-   "signal": "Es werden möglicherweise ähnliche Warnungen oder Statistiken aus anderen europäischen Ländern, Reaktionen von Wirtschaftsverbänden oder politische Forderungen nach Hilfsmaßnahmen veröffentlicht."
+   "level": "mittel",
+   "probability": 65,
+   "reason": "Die Zusammenfassung beschreibt weiterhin präsente Konflikte in der Ukraine, Mali und im Jemen, wobei in Mali und der Ukraine zuletzt hohe Verluste (u.a. ein russischer Generalmajor) gemeldet wurden.",
+   "signal": "Meldungen über neue größere Offensiven, verstärkte Artillerie- oder Luftangriffe oder eine erhöhte Anzahl gemeldeter Gefallener aus den genannten Regionen."
   }
  ]
 }
