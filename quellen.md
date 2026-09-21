@@ -175,8 +175,10 @@ automatisch in **GitHub Actions** (`.github/workflows/daily.yml`):
 
 ### Weitere Details
 
-- **Medienpräsenz** wird nur im 08:00-Uhr-Lauf geprüft, um die Anzahl der
-  Google-News-Anfragen zu begrenzen; der 18:00-Uhr-Lauf nutzt `SKIP_PRESENCE`.
+- **Medienpräsenz** wird in beiden Läufen (08:00 und 18:00 Uhr) geprüft, damit
+  die Quellen-Zähler auch in der Abendausgabe erscheinen. Nur der Canary-Lauf
+  und der automatische Zweitversuch setzen `SKIP_PRESENCE`, um die Anzahl der
+  Google-News-Anfragen zu begrenzen.
 - **Übersetzung:** Gerade Kalendertage nutzen DeepL, ungerade Google – so bleibt
   das DeepL-Monatslimit erhalten. Der Cache (`translation_cache.json`) wird in
   GitHub Actions zwischen den Läufen wiederverwendet. Einrichtung und Modi:
