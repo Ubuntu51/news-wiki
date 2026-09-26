@@ -1,57 +1,57 @@
 {
  "label": "Kalenderwoche 40 / 2026",
- "generated_at": "26.09.2026, 10:23 Uhr",
+ "generated_at": "26.09.2026, 19:42 Uhr",
  "model": "deepseek-v3.2",
  "predictions": [
   {
    "nr": 1,
-   "title": "Weitere Turbulenzen auf den Kryptomärkten",
-   "category": "Wirtschaft / Finanzmärkte",
-   "horizon": "kurzfristig (bis 1 Woche)",
+   "title": "Fortgesetzte diplomatische Spannungen zwischen den USA und dem Iran",
+   "category": "Politik / Internationale Beziehungen",
+   "horizon": "mittelfristig (2-4 Wochen)",
    "level": "hoch",
    "probability": 80,
-   "reason": "Die Zinserhöhung der US-Notenbank trieb den Bitcoin-Kurs auf ein neues Jahreshoch und bestimmte die wirtschaftliche Berichterstattung. Der Ausblick der Zusammenfassung sagt eine Fortsetzung der Diskussionen um die Folgen dieser Entscheidung voraus.",
-   "signal": "Starke Kursschwankungen bei Bitcoin und anderen Kryptowährungen sowie verstärkte Medienberichte und Analystenkommentare zu den Auswirkungen der Fed-Politik."
+   "reason": "Die UN-Rede von US-Präsident Donald Trump, in der er dem Iran drohte, aber auch wirtschaftliche Kooperation in Aussicht stellte, deutet auf eine unverändert angespannte und ambivalente Lage hin. Solche öffentlichen Statements führen typischerweise zu diplomatischen Reaktionen und einer Fortsetzung des Konflikts auf rhetorischer und möglicherweise politischer Ebene.",
+   "signal": "In der kommenden Woche wäre auf offizielle Stellungnahmen oder Gegenmaßnahmen des Iran sowie auf weitere Kommentare aus der US-Administration zu beobachten."
   },
   {
    "nr": 2,
-   "title": "Eskalation der Rhetorik im Konflikt USA-Iran",
-   "category": "Politik / Internationale Beziehungen",
-   "horizon": "kurzfristig (bis 1 Woche)",
-   "level": "mittel",
-   "probability": null,
-   "reason": "US-Präsident Trump drohte dem Iran vor den Vereinten Nationen, und die internationale Politik wurde als von Konfrontation geprägt beschrieben. Diese angespannte Lage bildet eine Grundlage für weitere scharfe Äußerungen.",
-   "signal": "Neue, öffentliche Drohungen oder Anschuldigungen zwischen US- und iranischen Regierungsvertretern, möglicherweise begleitet von militärischen Manövern oder Sanktionsankündigungen."
-  },
-  {
-   "nr": 3,
-   "title": "Verschärfung der Cybersicherheitslage",
-   "category": "Sicherheit / Digitales",
+   "title": "Weitere Marktvolatilität bei Kryptowährungen und Anleihen",
+   "category": "Wirtschaft / Finanzmärkte",
    "horizon": "kurzfristig (bis 1 Woche)",
    "level": "hoch",
    "probability": 85,
-   "reason": "Schwere Cyberangriffe auf die LMU München und KI-gestützte Datendiebstähle wurden als dominierende Themen der Woche genannt. Das Thema wurde als \"Dauerkrise\" charakterisiert, die sich fortsetzen wird.",
-   "signal": "Meldungen über neue, signifikante Cyberangriffe auf Unternehmen oder öffentliche Einrichtungen im deutschsprachigen Raum oder über die Aufklärung der Folgen des LMU-Angriffs."
+   "reason": "Die erste Zinserhöhung der US-Notenbank seit Juli 2023 hat den Bitcoin-Kurs bereits auf ein neues Jahreshoch getrieben. Solche geldpolitischen Weichenstellungen lösen typischerweise eine Phase der Marktanpassung und erhöhter Volatilität aus, während Investoren die Folgen einschätzen.",
+   "signal": "Es wären starke Kursbewegungen bei Bitcoin und anderen Kryptowährungen sowie Reaktionen auf den globalen Anleihemärkten in den kommenden Handelstagen zu beobachten."
+  },
+  {
+   "nr": 3,
+   "title": "Eskalation des Machtkampfs in der österreichischen SPÖ",
+   "category": "Politik / Innenpolitik (Österreich)",
+   "horizon": "mittelfristig (2-4 Wochen)",
+   "level": "hoch",
+   "probability": null,
+   "reason": "Die angekündigte Kandidatur von Gerhard Zeiler für den Parteivorsitz, während Amtsinhaber Andreas Babler nicht zurücktreten will, deutet laut Wochenzusammenfassung auf eine Zuspitzung der innerparteilichen Spannungen hin. Solche Konstellationen führen üblicherweise zu öffentlichen Auseinandersetzungen und Kampfabstimmungen.",
+   "signal": "In der kommenden Woche wären erste öffentliche Statements der Kontrahenten, Reaktionen aus Parteigremien und möglicherweise der Beginn eines offenen Wahlkampfs innerhalb der Partei zu beobachten."
   },
   {
    "nr": 4,
-   "title": "Fortdauer und Intensivierung innerparteilicher Debatten",
-   "category": "Politik / Innenpolitik",
-   "horizon": "mittelfristig (2-4 Wochen)",
-   "level": "hoch",
-   "probability": 90,
-   "reason": "Personalien (Kandidatur Zeiler für SPÖ-Vorsitz) und Kursbehauptungen (Merz nach Landtagswahlen) sorgten für Diskussionen. Der Ausblick prognostiziert ein weiteres Anschärfen dieser Debatten in österreichischen und deutschen Parteien.",
-   "signal": "Medienberichte über öffentliche Stellungnahmen und Gegenpositionen innerhalb von SPÖ und CDU/CSU sowie über mögliche weitere personelle Entscheidungen oder Programmdebatten."
+   "title": "Fortgesetzte diplomatische Reaktionen auf das deutsch-russische Treffen",
+   "category": "Politik / Internationale Beziehungen",
+   "horizon": "kurzfristig (bis 1 Woche)",
+   "level": "mittel",
+   "probability": 65,
+   "reason": "Das überraschende Treffen zwischen dem deutschen Außenminister Johann Wadephul und seinem russischen Amtskollegen Sergej Lawrow in New York wird laut Ausblick der Zusammenfassung internationale Reaktionen nach sich ziehen. Solche bilateralen Kontakte in einem angespannten Umfeld führen regelmäßig zu Kommentaren und Positionierungen von Drittstaaten und Bündnissen.",
+   "signal": "Es wären Stellungnahmen aus anderen EU-Staaten, von der NATO oder aus den USA zu dem Treffen und seinen möglichen Inhalten zu erwarten."
   },
   {
    "nr": 5,
-   "title": "Konkrete Schritte zur Umsetzung nationaler Anti-Teuerungsmaßnahmen",
-   "category": "Wirtschaft / Energiepolitik",
+   "title": "Verstärkte Fokussierung auf Cybersicherheit im Bildungssektor",
+   "category": "Sicherheit / Digitales",
    "horizon": "mittelfristig (2-4 Wochen)",
    "level": "mittel",
-   "probability": 65,
-   "reason": "Die österreichische Regierung plant eine neue Spritpreisbremse und die Aufhebung des Verbots der unterirdischen CO2-Speicherung. Solche parallelen nationalen Maßnahmen gegen Teuerungen wurden als Trend identifiziert.",
-   "signal": "Vorlage von konkreten Gesetzesentwürfen oder Verordnungen zur Spritpreisbremse in Österreich sowie Debatten im Parlament oder der Öffentlichkeit über die CO2-Speicherung."
+   "probability": 60,
+   "reason": "Der schwere Cyberangriff auf die IT der Ludwig-Maximilians-Universität München, der Zehntausende Personen betroffen haben könnte, unterstreicht die Verwundbarkeit kritischer Bildungsinfrastrukturen. Solche Vorfälle lösen oft eine breitere Debatte und erhöhte Aufmerksamkeit für das Thema in ähnlichen Institutionen aus.",
+   "signal": "In der kommenden Zeit wären verstärkte Warnungen oder Handlungsempfehlungen von IT-Sicherheitsbehörden an Hochschulen und andere Bildungseinrichtungen sowie möglicherweise Berichte über weitere Vorfälle oder Sicherheitsüberprüfungen zu beobachten."
   }
  ]
 }
