@@ -1,0 +1,60 @@
+{
+ "label": "Kalenderwoche 39 / 2026",
+ "checked_at": "26.09.2026, 10:23 Uhr",
+ "model": "deepseek-v3.2",
+ "score": 1.5,
+ "counted": 5,
+ "rate": 30,
+ "items": [
+  {
+   "nr": 1,
+   "title": "Fortschreitende EU-Prüfung und mögliche Sanktionen gegen OpenAI",
+   "category": "KI / Regulierung",
+   "horizon": "mittelfristig (2-4 Wochen)",
+   "level": "hoch",
+   "probability": 80,
+   "status": "nicht_eingetroffen",
+   "evidence": "In der Wochenzusammenfassung wird keine EU-Prüfung oder Sanktionen gegen OpenAI erwähnt. Das Thema KI erscheint nur im Kontext von Cyberangriffen."
+  },
+  {
+   "nr": 2,
+   "title": "Verstärkte Debatte um KI-Entwicklungspause und Regulierungsdruck",
+   "category": "KI / Sicherheit",
+   "horizon": "kurzfristig (bis 1 Woche)",
+   "level": "hoch",
+   "probability": 75,
+   "status": "teilweise",
+   "evidence": "Eine Debatte um eine KI-Entwicklungspause wird nicht berichtet, aber KI-gestützte Cyberangriffe und deren Risiken waren ein dominantes Thema der Woche."
+  },
+  {
+   "nr": 3,
+   "title": "Fortdauernder wirtschaftlicher Druck in Europa durch Zinsen und Insolvenzen",
+   "category": "Wirtschaft",
+   "horizon": "mittelfristig (2-4 Wochen)",
+   "level": "hoch",
+   "probability": 90,
+   "status": "eingetroffen",
+   "evidence": "Die US-Notenbank erhöhte den Leitzins, was den wirtschaftlichen Druck bestätigt. Direkte Berichte über europäische Insolvenzen fehlen, aber nationale Maßnahmen gegen Teuerungen (Österreich) zeigen den Druck."
+  },
+  {
+   "nr": 4,
+   "title": "Politische Fokussierung auf Wahlergebnisse und Regierungsbildung",
+   "category": "Politik (Innenpolitik DE & SE)",
+   "horizon": "kurzfristig (bis 1 Woche)",
+   "level": "hoch",
+   "probability": 95,
+   "status": "nicht_eingetroffen",
+   "evidence": "Die Zusammenfassung erwähnt keine Wahlergebnisse oder Regierungsbildung in Berlin, Mecklenburg-Vorpommern oder Schweden. Sie berichtet lediglich von Kursbehauptungen nach Wahlen."
+  },
+  {
+   "nr": 5,
+   "title": "Geopolitische Spannungen bleiben akut mit Fokus auf Ukraine-Krieg",
+   "category": "Sicherheit / Internationale Politik",
+   "horizon": "kurzfristig (bis 1 Woche)",
+   "level": "hoch",
+   "probability": 85,
+   "status": "nicht_eingetroffen",
+   "evidence": "Es gibt keine Meldungen zum Ukraine-Krieg, zur Tötung eines Generals oder zu Konflikten an der EU-Außengrenze. Der Fokus lag auf den USA-Iran-Beziehungen und dem USA-China-Gipfel."
+  }
+ ]
+}

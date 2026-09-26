@@ -1,0 +1,57 @@
+{
+ "label": "Kalenderwoche 40 / 2026",
+ "generated_at": "26.09.2026, 10:23 Uhr",
+ "model": "deepseek-v3.2",
+ "predictions": [
+  {
+   "nr": 1,
+   "title": "Weitere Turbulenzen auf den Kryptomärkten",
+   "category": "Wirtschaft / Finanzmärkte",
+   "horizon": "kurzfristig (bis 1 Woche)",
+   "level": "hoch",
+   "probability": 80,
+   "reason": "Die Zinserhöhung der US-Notenbank trieb den Bitcoin-Kurs auf ein neues Jahreshoch und bestimmte die wirtschaftliche Berichterstattung. Der Ausblick der Zusammenfassung sagt eine Fortsetzung der Diskussionen um die Folgen dieser Entscheidung voraus.",
+   "signal": "Starke Kursschwankungen bei Bitcoin und anderen Kryptowährungen sowie verstärkte Medienberichte und Analystenkommentare zu den Auswirkungen der Fed-Politik."
+  },
+  {
+   "nr": 2,
+   "title": "Eskalation der Rhetorik im Konflikt USA-Iran",
+   "category": "Politik / Internationale Beziehungen",
+   "horizon": "kurzfristig (bis 1 Woche)",
+   "level": "mittel",
+   "probability": null,
+   "reason": "US-Präsident Trump drohte dem Iran vor den Vereinten Nationen, und die internationale Politik wurde als von Konfrontation geprägt beschrieben. Diese angespannte Lage bildet eine Grundlage für weitere scharfe Äußerungen.",
+   "signal": "Neue, öffentliche Drohungen oder Anschuldigungen zwischen US- und iranischen Regierungsvertretern, möglicherweise begleitet von militärischen Manövern oder Sanktionsankündigungen."
+  },
+  {
+   "nr": 3,
+   "title": "Verschärfung der Cybersicherheitslage",
+   "category": "Sicherheit / Digitales",
+   "horizon": "kurzfristig (bis 1 Woche)",
+   "level": "hoch",
+   "probability": 85,
+   "reason": "Schwere Cyberangriffe auf die LMU München und KI-gestützte Datendiebstähle wurden als dominierende Themen der Woche genannt. Das Thema wurde als \"Dauerkrise\" charakterisiert, die sich fortsetzen wird.",
+   "signal": "Meldungen über neue, signifikante Cyberangriffe auf Unternehmen oder öffentliche Einrichtungen im deutschsprachigen Raum oder über die Aufklärung der Folgen des LMU-Angriffs."
+  },
+  {
+   "nr": 4,
+   "title": "Fortdauer und Intensivierung innerparteilicher Debatten",
+   "category": "Politik / Innenpolitik",
+   "horizon": "mittelfristig (2-4 Wochen)",
+   "level": "hoch",
+   "probability": 90,
+   "reason": "Personalien (Kandidatur Zeiler für SPÖ-Vorsitz) und Kursbehauptungen (Merz nach Landtagswahlen) sorgten für Diskussionen. Der Ausblick prognostiziert ein weiteres Anschärfen dieser Debatten in österreichischen und deutschen Parteien.",
+   "signal": "Medienberichte über öffentliche Stellungnahmen und Gegenpositionen innerhalb von SPÖ und CDU/CSU sowie über mögliche weitere personelle Entscheidungen oder Programmdebatten."
+  },
+  {
+   "nr": 5,
+   "title": "Konkrete Schritte zur Umsetzung nationaler Anti-Teuerungsmaßnahmen",
+   "category": "Wirtschaft / Energiepolitik",
+   "horizon": "mittelfristig (2-4 Wochen)",
+   "level": "mittel",
+   "probability": 65,
+   "reason": "Die österreichische Regierung plant eine neue Spritpreisbremse und die Aufhebung des Verbots der unterirdischen CO2-Speicherung. Solche parallelen nationalen Maßnahmen gegen Teuerungen wurden als Trend identifiziert.",
+   "signal": "Vorlage von konkreten Gesetzesentwürfen oder Verordnungen zur Spritpreisbremse in Österreich sowie Debatten im Parlament oder der Öffentlichkeit über die CO2-Speicherung."
+  }
+ ]
+}

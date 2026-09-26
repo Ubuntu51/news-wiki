@@ -12,6 +12,11 @@ body_class: prognose
 
 > ⚠️ **KI-Prognose:** Automatisch von einer KI erstellt. Keine Garantie – nur mögliche Entwicklungen, keine Tatsachenbehauptungen.
 
+## 📊 Prognose-Bilanz
+
+- **Trefferquote gesamt:** 1,5 von 5 (30 %) (aus 1 geprüften Zeiträumen)
+- ✅ eingetroffen: 1 · 🟡 teilweise: 1 · ❌ nicht eingetroffen: 3 · ⏳ offen: 0
+
 ## Nach Monat
 
 <div class="card-grid">
@@ -21,6 +26,8 @@ body_class: prognose
 ## Nach Woche
 
 <div class="card-grid">
+<div class="card"><span class="tag tag-week">Woche</span><a href="2026/ausblick-kw39.html">Wochenausblick KW 39 2026 (5 Prognosen)</a></div>
 <div class="card"><span class="tag tag-week">Woche</span><a href="2026/ausblick-kw38.html">Wochenausblick KW 38 2026 (5 Prognosen)</a></div>
+<div class="card"><span class="tag tag-check">Check</span><a href="2026/prognose-check-kw38.html">Prognose-Check Kalenderwoche 39 / 2026 – 30 %</a></div>
 </div>
 
