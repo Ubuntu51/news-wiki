@@ -1,57 +1,57 @@
 {
  "label": "Kalenderwoche 40 / 2026",
- "generated_at": "27.09.2026, 11:57 Uhr",
+ "generated_at": "27.09.2026, 20:10 Uhr",
  "model": "deepseek-v3.2",
  "predictions": [
   {
    "nr": 1,
-   "title": "Eskalation der Drohungen im Iran-Konflikt",
-   "category": "Sicherheit/Internationale Politik",
+   "title": "Weitere Marktreaktionen auf US-Zinspolitik",
+   "category": "Wirtschaft",
    "horizon": "kurzfristig (bis 1 Woche)",
    "level": "hoch",
    "probability": 80,
-   "reason": "Die Wochenzusammenfassung beschreibt eine sich weiter verschärfende Sicherheitslage, nachdem der Iran mit einer Blockadedrohung für die Straße von Hormus auf US-Sanktionen reagierte. Diese Drohung stellt eine unmittelbare Eskalationsstufe dar.",
-   "signal": "In der kommenden Woche wäre eine weitere verschärfte Rhetorik des Iran oder der USA, konkrete militärische Bewegungen in der Region oder diplomatische Notfallgespräche zu beobachten, um eine Blockade abzuwenden."
+   "reason": "Die erste Zinserhöhung der US-Notenbank seit Juli 2023 löste in KW 39 eine Rallye bei Kryptowährungen aus und trieb den Bitcoin auf ein neues Jahreshoch. Diese unmittelbare Reaktion deutet auf eine hohe Sensibilität der Finanzmärkte hin.",
+   "signal": "In KW 40 wäre zu beobachten, ob die Volatilität bei Kryptowährungen anhält oder sich auf andere Anlageklassen ausweitet, und ob es weitere Kommentare von Notenbanken oder Marktanalysten zu den Folgen der Zinsentscheidung gibt."
   },
   {
    "nr": 2,
-   "title": "Fortsetzung und Ausweitung der Cyberangriffe",
-   "category": "Sicherheit/Cyberkriminalität",
+   "title": "Eskalation der diplomatischen Spannungen mit dem Iran",
+   "category": "Politik / Sicherheit",
    "horizon": "mittelfristig (2-4 Wochen)",
-   "level": "hoch",
-   "probability": null,
-   "reason": "Die Zusammenfassung nennt zwei schwere, aber unterschiedliche Cyberangriffe (auf eine Universität und auf Online-Shops) und konstatiert eine Ausweitung der Bedrohungslage. Dies deutet auf eine anhaltende Aktivität von Angreifern hin.",
-   "signal": "In der kommenden Woche könnten weitere Meldungen über erfolgreiche Cyberangriffe auf andere Ziele (z. B. weitere Bildungseinrichtungen, mittelständische Unternehmen oder kritische Infrastrukturen) oder über die Folgen der bereits bekannten Angriffe (wie Datenmissbrauch) auftreten."
+   "level": "mittel",
+   "probability": 60,
+   "reason": "US-Präsident Donald Trump drohte dem Iran vor den Vereinten Nationen. Diese öffentliche Drohung, kombiniert mit der Erwähnung einer angespannten Lage im Nahen Osten, deutet auf ein erhöhtes Konfliktpotenzial hin.",
+   "signal": "In den kommenden Wochen wären schärfere rhetorische Auseinandersetzungen, neue Sanktionsankündigungen oder militärische Manöver im Nahen Osten als Zeichen einer Eskalation zu werten."
   },
   {
    "nr": 3,
-   "title": "Verstärkte innerparteiliche Auseinandersetzungen in der SPÖ",
-   "category": "Politik (Österreich)",
-   "horizon": "kurzfristig (bis 1 Woche)",
-   "level": "hoch",
-   "probability": 90,
-   "reason": "Mit der Kandidatur von Gerhard Zeiler gegen den amtierenden Vorsitzenden Andreas Babler sind die innerparteilichen Spannungen benannt. Der Ausblick der Zusammenfassung sagt eine Zuspitzung im Zuge des angekündigten Führungswechsels voraus.",
-   "signal": "In der kommenden Woche wären öffentliche Stellungnahmen, Medienauftritte oder parteiinterne Manöver der Kontrahenten Babler und Zeiler sowie möglicherweise weiterer Parteimitglieder zu erwarten, die den Machtkampf verdeutlichen."
-  },
-  {
-   "nr": 4,
-   "title": "Weitere Marktreaktionen auf die US-Leitzinserhöhung",
-   "category": "Wirtschaft/Finanzmärkte",
-   "horizon": "kurzfristig (bis 1 Woche)",
-   "level": "mittel",
-   "probability": 60,
-   "reason": "Die erste US-Leitzinserhöhung seit 2023 hat den Bitcoin-Kurs bereits auf ein neues Jahreshoch getrieben und globale Märkte bewegt. Solche Zinsentscheidungen lösen oft längerfristige Anpassungsreaktionen an den Finanzmärkten aus.",
-   "signal": "In der kommenden Woche könnten verstärkte Volatilität bei anderen Kryptowährungen, Anleihen oder internationalen Aktienindizes sowie Analysen zu weiteren Zinserwartungen folgen."
-  },
-  {
-   "nr": 5,
-   "title": "Konkrete Planungen zur österreichischen Spritpreisbremse und CCS-Technologie",
-   "category": "Wirtschaft/Klimapolitik",
+   "title": "Zunehmende Forderungen nach nationalen Cybersicherheits-Maßnahmen",
+   "category": "Sicherheit",
    "horizon": "mittelfristig (2-4 Wochen)",
    "level": "hoch",
    "probability": 75,
-   "reason": "Die österreichische Regierung hat konkrete Maßnahmen (neue Spritpreisbremse, Aufhebung des Verbots der CO2-Speicherung) angekündigt. Solche Ankündigungen werden typischerweise von der Ausarbeitung konkreter Gesetzesentwürfe oder Verordnungen begleitet.",
-   "signal": "In der kommenden Woche könnten Meldungen über die konkrete Ausgestaltung der Spritpreisbremse (Höhe, Dauer) oder erste Debatten bzw. Stellungnahmen zur geplanten CCS-Gesetzgebung (Carbon Capture and Storage) folgen."
+   "reason": "Der schwere Cyberangriff auf die LMU München und der großangelegte KI-gestützte Diebstahl von Kreditkartendaten wurden in KW 39 als dringliche Herausforderung identifiziert. Solche Vorfälle führen typischerweise zu politischen Reaktionen.",
+   "signal": "In KW 40 und den Folgewochen könnten Forderungen von Politikern oder Sicherheitsexperten nach gesetzlichen Initiativen, mehr Ressourcen für Behörden oder Warnungen an kritische Infrastrukturen laut werden."
+  },
+  {
+   "nr": 4,
+   "title": "Ausweitung von Verbraucherentlastungs-Maßnahmen in Europa",
+   "category": "Wirtschaft / Politik",
+   "horizon": "mittelfristig (2-4 Wochen)",
+   "level": "mittel",
+   "probability": 50,
+   "reason": "In der Wochenzusammenfassung wird ein Trend zu konkreten Entlastungsmaßnahmen in der europäischen Politik festgestellt, beispielhaft genannt werden die österreichische Spritpreisbremse und ein neues Zivildienstmodell.",
+   "signal": "In der kommenden Woche könnten weitere europäische Regierungen oder Parteien ähnliche Pläne für Energiepreisbremsen oder andere direkte finanzielle Entlastungen für Bürger ankündigen oder diskutieren."
+  },
+  {
+   "nr": 5,
+   "title": "Verschärfung des innerparteilichen Machtkampfs in der SPÖ",
+   "category": "Politik",
+   "horizon": "kurzfristig (bis 1 Woche)",
+   "level": "hoch",
+   "probability": 85,
+   "reason": "Die Kandidatur von Gerhard Zeiler für den Parteivorsitz der SPÖ und die prognostizierten anhaltenden innerparteilichen Spannungen um die Führungsfrage werden laut Ausblick der KW-39-Zusammenfassung den politischen Diskurs weiter prägen.",
+   "signal": "In KW 40 wären weitere öffentliche Stellungnahmen von Kandidaten, mögliche Gegenkandidaturen oder parteiinterne Kritik an der Führung als Zeichen der Verschärfung des Konflikts zu erwarten."
   }
  ]
 }
