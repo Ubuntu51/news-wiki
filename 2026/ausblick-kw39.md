@@ -6,40 +6,40 @@ title: "Wochenausblick Kalenderwoche 40 / 2026"
 
 # Wochenausblick – Kalenderwoche 40 / 2026
 
-> **Stand:** 26.09.2026, 19:42 Uhr · **Modell:** deepseek-v3.2
+> **Stand:** 27.09.2026, 11:57 Uhr · **Modell:** deepseek-v3.2
 > ⚠️ **KI-Prognose:** Automatisch von einer KI auf Basis der Wochenzusammenfassung erstellt. Keine Garantie – nur mögliche Entwicklungen, keine Tatsachenbehauptungen.
 
-### 1. Fortgesetzte diplomatische Spannungen zwischen den USA und dem Iran
-- **Kategorie:** Politik / Internationale Beziehungen
-- **Horizont:** mittelfristig (2-4 Wochen)
-- **Eintrittswahrscheinlichkeit:** hoch (ca. 80%) ▓▓▓▓▓▓▓▓░░
-- **Begründung:** Die UN-Rede von US-Präsident Donald Trump, in der er dem Iran drohte, aber auch wirtschaftliche Kooperation in Aussicht stellte, deutet auf eine unverändert angespannte und ambivalente Lage hin. Solche öffentlichen Statements führen typischerweise zu diplomatischen Reaktionen und einer Fortsetzung des Konflikts auf rhetorischer und möglicherweise politischer Ebene.
-- **Woran erkennen:** In der kommenden Woche wäre auf offizielle Stellungnahmen oder Gegenmaßnahmen des Iran sowie auf weitere Kommentare aus der US-Administration zu beobachten.
-
-### 2. Weitere Marktvolatilität bei Kryptowährungen und Anleihen
-- **Kategorie:** Wirtschaft / Finanzmärkte
+### 1. Eskalation der Drohungen im Iran-Konflikt
+- **Kategorie:** Sicherheit/Internationale Politik
 - **Horizont:** kurzfristig (bis 1 Woche)
-- **Eintrittswahrscheinlichkeit:** hoch (ca. 85%) ▓▓▓▓▓▓▓▓░░
-- **Begründung:** Die erste Zinserhöhung der US-Notenbank seit Juli 2023 hat den Bitcoin-Kurs bereits auf ein neues Jahreshoch getrieben. Solche geldpolitischen Weichenstellungen lösen typischerweise eine Phase der Marktanpassung und erhöhter Volatilität aus, während Investoren die Folgen einschätzen.
-- **Woran erkennen:** Es wären starke Kursbewegungen bei Bitcoin und anderen Kryptowährungen sowie Reaktionen auf den globalen Anleihemärkten in den kommenden Handelstagen zu beobachten.
+- **Eintrittswahrscheinlichkeit:** hoch (ca. 80 %) ▓▓▓▓▓▓▓▓░░
+- **Begründung:** Die Wochenzusammenfassung beschreibt eine sich weiter verschärfende Sicherheitslage, nachdem der Iran mit einer Blockadedrohung für die Straße von Hormus auf US-Sanktionen reagierte. Diese Drohung stellt eine unmittelbare Eskalationsstufe dar.
+- **Woran erkennen:** In der kommenden Woche wäre eine weitere verschärfte Rhetorik des Iran oder der USA, konkrete militärische Bewegungen in der Region oder diplomatische Notfallgespräche zu beobachten, um eine Blockade abzuwenden.
 
-### 3. Eskalation des Machtkampfs in der österreichischen SPÖ
-- **Kategorie:** Politik / Innenpolitik (Österreich)
+### 2. Fortsetzung und Ausweitung der Cyberangriffe
+- **Kategorie:** Sicherheit/Cyberkriminalität
 - **Horizont:** mittelfristig (2-4 Wochen)
-- **Eintrittswahrscheinlichkeit:** hoch (ca. III)
-- **Begründung:** Die angekündigte Kandidatur von Gerhard Zeiler für den Parteivorsitz, während Amtsinhaber Andreas Babler nicht zurücktreten will, deutet laut Wochenzusammenfassung auf eine Zuspitzung der innerparteilichen Spannungen hin. Solche Konstellationen führen üblicherweise zu öffentlichen Auseinandersetzungen und Kampfabstimmungen.
-- **Woran erkennen:** In der kommenden Woche wären erste öffentliche Statements der Kontrahenten, Reaktionen aus Parteigremien und möglicherweise der Beginn eines offenen Wahlkampfs innerhalb der Partei zu beobachten.
+- **Eintrittswahrscheinlichkeit:** hoch (ca. III %)
+- **Begründung:** Die Zusammenfassung nennt zwei schwere, aber unterschiedliche Cyberangriffe (auf eine Universität und auf Online-Shops) und konstatiert eine Ausweitung der Bedrohungslage. Dies deutet auf eine anhaltende Aktivität von Angreifern hin.
+- **Woran erkennen:** In der kommenden Woche könnten weitere Meldungen über erfolgreiche Cyberangriffe auf andere Ziele (z. B. weitere Bildungseinrichtungen, mittelständische Unternehmen oder kritische Infrastrukturen) oder über die Folgen der bereits bekannten Angriffe (wie Datenmissbrauch) auftreten.
 
-### 4. Fortgesetzte diplomatische Reaktionen auf das deutsch-russische Treffen
-- **Kategorie:** Politik / Internationale Beziehungen
+### 3. Verstärkte innerparteiliche Auseinandersetzungen in der SPÖ
+- **Kategorie:** Politik (Österreich)
 - **Horizont:** kurzfristig (bis 1 Woche)
-- **Eintrittswahrscheinlichkeit:** mittel (ca. 65%) ▓▓▓▓▓▓░░░░
-- **Begründung:** Das überraschende Treffen zwischen dem deutschen Außenminister Johann Wadephul und seinem russischen Amtskollegen Sergej Lawrow in New York wird laut Ausblick der Zusammenfassung internationale Reaktionen nach sich ziehen. Solche bilateralen Kontakte in einem angespannten Umfeld führen regelmäßig zu Kommentaren und Positionierungen von Drittstaaten und Bündnissen.
-- **Woran erkennen:** Es wären Stellungnahmen aus anderen EU-Staaten, von der NATO oder aus den USA zu dem Treffen und seinen möglichen Inhalten zu erwarten.
+- **Eintrittswahrscheinlichkeit:** hoch (ca. 90 %) ▓▓▓▓▓▓▓▓▓░
+- **Begründung:** Mit der Kandidatur von Gerhard Zeiler gegen den amtierenden Vorsitzenden Andreas Babler sind die innerparteilichen Spannungen benannt. Der Ausblick der Zusammenfassung sagt eine Zuspitzung im Zuge des angekündigten Führungswechsels voraus.
+- **Woran erkennen:** In der kommenden Woche wären öffentliche Stellungnahmen, Medienauftritte oder parteiinterne Manöver der Kontrahenten Babler und Zeiler sowie möglicherweise weiterer Parteimitglieder zu erwarten, die den Machtkampf verdeutlichen.
 
-### 5. Verstärkte Fokussierung auf Cybersicherheit im Bildungssektor
-- **Kategorie:** Sicherheit / Digitales
+### 4. Weitere Marktreaktionen auf die US-Leitzinserhöhung
+- **Kategorie:** Wirtschaft/Finanzmärkte
+- **Horizont:** kurzfristig (bis 1 Woche)
+- **Eintrittswahrscheinlichkeit:** mittel (ca. 60 %) ▓▓▓▓▓▓░░░░
+- **Begründung:** Die erste US-Leitzinserhöhung seit 2023 hat den Bitcoin-Kurs bereits auf ein neues Jahreshoch getrieben und globale Märkte bewegt. Solche Zinsentscheidungen lösen oft längerfristige Anpassungsreaktionen an den Finanzmärkten aus.
+- **Woran erkennen:** In der kommenden Woche könnten verstärkte Volatilität bei anderen Kryptowährungen, Anleihen oder internationalen Aktienindizes sowie Analysen zu weiteren Zinserwartungen folgen.
+
+### 5. Konkrete Planungen zur österreichischen Spritpreisbremse und CCS-Technologie
+- **Kategorie:** Wirtschaft/Klimapolitik
 - **Horizont:** mittelfristig (2-4 Wochen)
-- **Eintrittswahrscheinlichkeit:** mittel (ca. 60%) ▓▓▓▓▓▓░░░░
-- **Begründung:** Der schwere Cyberangriff auf die IT der Ludwig-Maximilians-Universität München, der Zehntausende Personen betroffen haben könnte, unterstreicht die Verwundbarkeit kritischer Bildungsinfrastrukturen. Solche Vorfälle lösen oft eine breitere Debatte und erhöhte Aufmerksamkeit für das Thema in ähnlichen Institutionen aus.
-- **Woran erkennen:** In der kommenden Zeit wären verstärkte Warnungen oder Handlungsempfehlungen von IT-Sicherheitsbehörden an Hochschulen und andere Bildungseinrichtungen sowie möglicherweise Berichte über weitere Vorfälle oder Sicherheitsüberprüfungen zu beobachten.
+- **Eintrittswahrscheinlichkeit:** hoch (ca. 75 %) ▓▓▓▓▓▓▓▓░░
+- **Begründung:** Die österreichische Regierung hat konkrete Maßnahmen (neue Spritpreisbremse, Aufhebung des Verbots der CO2-Speicherung) angekündigt. Solche Ankündigungen werden typischerweise von der Ausarbeitung konkreter Gesetzesentwürfe oder Verordnungen begleitet.
+- **Woran erkennen:** In der kommenden Woche könnten Meldungen über die konkrete Ausgestaltung der Spritpreisbremse (Höhe, Dauer) oder erste Debatten bzw. Stellungnahmen zur geplanten CCS-Gesetzgebung (Carbon Capture and Storage) folgen.

@@ -1,57 +1,57 @@
 {
  "label": "Kalenderwoche 40 / 2026",
- "generated_at": "26.09.2026, 19:42 Uhr",
+ "generated_at": "27.09.2026, 11:57 Uhr",
  "model": "deepseek-v3.2",
  "predictions": [
   {
    "nr": 1,
-   "title": "Fortgesetzte diplomatische Spannungen zwischen den USA und dem Iran",
-   "category": "Politik / Internationale Beziehungen",
-   "horizon": "mittelfristig (2-4 Wochen)",
+   "title": "Eskalation der Drohungen im Iran-Konflikt",
+   "category": "Sicherheit/Internationale Politik",
+   "horizon": "kurzfristig (bis 1 Woche)",
    "level": "hoch",
    "probability": 80,
-   "reason": "Die UN-Rede von US-Präsident Donald Trump, in der er dem Iran drohte, aber auch wirtschaftliche Kooperation in Aussicht stellte, deutet auf eine unverändert angespannte und ambivalente Lage hin. Solche öffentlichen Statements führen typischerweise zu diplomatischen Reaktionen und einer Fortsetzung des Konflikts auf rhetorischer und möglicherweise politischer Ebene.",
-   "signal": "In der kommenden Woche wäre auf offizielle Stellungnahmen oder Gegenmaßnahmen des Iran sowie auf weitere Kommentare aus der US-Administration zu beobachten."
+   "reason": "Die Wochenzusammenfassung beschreibt eine sich weiter verschärfende Sicherheitslage, nachdem der Iran mit einer Blockadedrohung für die Straße von Hormus auf US-Sanktionen reagierte. Diese Drohung stellt eine unmittelbare Eskalationsstufe dar.",
+   "signal": "In der kommenden Woche wäre eine weitere verschärfte Rhetorik des Iran oder der USA, konkrete militärische Bewegungen in der Region oder diplomatische Notfallgespräche zu beobachten, um eine Blockade abzuwenden."
   },
   {
    "nr": 2,
-   "title": "Weitere Marktvolatilität bei Kryptowährungen und Anleihen",
-   "category": "Wirtschaft / Finanzmärkte",
-   "horizon": "kurzfristig (bis 1 Woche)",
-   "level": "hoch",
-   "probability": 85,
-   "reason": "Die erste Zinserhöhung der US-Notenbank seit Juli 2023 hat den Bitcoin-Kurs bereits auf ein neues Jahreshoch getrieben. Solche geldpolitischen Weichenstellungen lösen typischerweise eine Phase der Marktanpassung und erhöhter Volatilität aus, während Investoren die Folgen einschätzen.",
-   "signal": "Es wären starke Kursbewegungen bei Bitcoin und anderen Kryptowährungen sowie Reaktionen auf den globalen Anleihemärkten in den kommenden Handelstagen zu beobachten."
-  },
-  {
-   "nr": 3,
-   "title": "Eskalation des Machtkampfs in der österreichischen SPÖ",
-   "category": "Politik / Innenpolitik (Österreich)",
+   "title": "Fortsetzung und Ausweitung der Cyberangriffe",
+   "category": "Sicherheit/Cyberkriminalität",
    "horizon": "mittelfristig (2-4 Wochen)",
    "level": "hoch",
    "probability": null,
-   "reason": "Die angekündigte Kandidatur von Gerhard Zeiler für den Parteivorsitz, während Amtsinhaber Andreas Babler nicht zurücktreten will, deutet laut Wochenzusammenfassung auf eine Zuspitzung der innerparteilichen Spannungen hin. Solche Konstellationen führen üblicherweise zu öffentlichen Auseinandersetzungen und Kampfabstimmungen.",
-   "signal": "In der kommenden Woche wären erste öffentliche Statements der Kontrahenten, Reaktionen aus Parteigremien und möglicherweise der Beginn eines offenen Wahlkampfs innerhalb der Partei zu beobachten."
+   "reason": "Die Zusammenfassung nennt zwei schwere, aber unterschiedliche Cyberangriffe (auf eine Universität und auf Online-Shops) und konstatiert eine Ausweitung der Bedrohungslage. Dies deutet auf eine anhaltende Aktivität von Angreifern hin.",
+   "signal": "In der kommenden Woche könnten weitere Meldungen über erfolgreiche Cyberangriffe auf andere Ziele (z. B. weitere Bildungseinrichtungen, mittelständische Unternehmen oder kritische Infrastrukturen) oder über die Folgen der bereits bekannten Angriffe (wie Datenmissbrauch) auftreten."
+  },
+  {
+   "nr": 3,
+   "title": "Verstärkte innerparteiliche Auseinandersetzungen in der SPÖ",
+   "category": "Politik (Österreich)",
+   "horizon": "kurzfristig (bis 1 Woche)",
+   "level": "hoch",
+   "probability": 90,
+   "reason": "Mit der Kandidatur von Gerhard Zeiler gegen den amtierenden Vorsitzenden Andreas Babler sind die innerparteilichen Spannungen benannt. Der Ausblick der Zusammenfassung sagt eine Zuspitzung im Zuge des angekündigten Führungswechsels voraus.",
+   "signal": "In der kommenden Woche wären öffentliche Stellungnahmen, Medienauftritte oder parteiinterne Manöver der Kontrahenten Babler und Zeiler sowie möglicherweise weiterer Parteimitglieder zu erwarten, die den Machtkampf verdeutlichen."
   },
   {
    "nr": 4,
-   "title": "Fortgesetzte diplomatische Reaktionen auf das deutsch-russische Treffen",
-   "category": "Politik / Internationale Beziehungen",
+   "title": "Weitere Marktreaktionen auf die US-Leitzinserhöhung",
+   "category": "Wirtschaft/Finanzmärkte",
    "horizon": "kurzfristig (bis 1 Woche)",
    "level": "mittel",
-   "probability": 65,
-   "reason": "Das überraschende Treffen zwischen dem deutschen Außenminister Johann Wadephul und seinem russischen Amtskollegen Sergej Lawrow in New York wird laut Ausblick der Zusammenfassung internationale Reaktionen nach sich ziehen. Solche bilateralen Kontakte in einem angespannten Umfeld führen regelmäßig zu Kommentaren und Positionierungen von Drittstaaten und Bündnissen.",
-   "signal": "Es wären Stellungnahmen aus anderen EU-Staaten, von der NATO oder aus den USA zu dem Treffen und seinen möglichen Inhalten zu erwarten."
+   "probability": 60,
+   "reason": "Die erste US-Leitzinserhöhung seit 2023 hat den Bitcoin-Kurs bereits auf ein neues Jahreshoch getrieben und globale Märkte bewegt. Solche Zinsentscheidungen lösen oft längerfristige Anpassungsreaktionen an den Finanzmärkten aus.",
+   "signal": "In der kommenden Woche könnten verstärkte Volatilität bei anderen Kryptowährungen, Anleihen oder internationalen Aktienindizes sowie Analysen zu weiteren Zinserwartungen folgen."
   },
   {
    "nr": 5,
-   "title": "Verstärkte Fokussierung auf Cybersicherheit im Bildungssektor",
-   "category": "Sicherheit / Digitales",
+   "title": "Konkrete Planungen zur österreichischen Spritpreisbremse und CCS-Technologie",
+   "category": "Wirtschaft/Klimapolitik",
    "horizon": "mittelfristig (2-4 Wochen)",
-   "level": "mittel",
-   "probability": 60,
-   "reason": "Der schwere Cyberangriff auf die IT der Ludwig-Maximilians-Universität München, der Zehntausende Personen betroffen haben könnte, unterstreicht die Verwundbarkeit kritischer Bildungsinfrastrukturen. Solche Vorfälle lösen oft eine breitere Debatte und erhöhte Aufmerksamkeit für das Thema in ähnlichen Institutionen aus.",
-   "signal": "In der kommenden Zeit wären verstärkte Warnungen oder Handlungsempfehlungen von IT-Sicherheitsbehörden an Hochschulen und andere Bildungseinrichtungen sowie möglicherweise Berichte über weitere Vorfälle oder Sicherheitsüberprüfungen zu beobachten."
+   "level": "hoch",
+   "probability": 75,
+   "reason": "Die österreichische Regierung hat konkrete Maßnahmen (neue Spritpreisbremse, Aufhebung des Verbots der CO2-Speicherung) angekündigt. Solche Ankündigungen werden typischerweise von der Ausarbeitung konkreter Gesetzesentwürfe oder Verordnungen begleitet.",
+   "signal": "In der kommenden Woche könnten Meldungen über die konkrete Ausgestaltung der Spritpreisbremse (Höhe, Dauer) oder erste Debatten bzw. Stellungnahmen zur geplanten CCS-Gesetzgebung (Carbon Capture and Storage) folgen."
   }
  ]
 }
