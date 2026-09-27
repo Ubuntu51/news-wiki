@@ -11,11 +11,11 @@ body_class: home
 </div>
 
 <div class="stats">
-  <div class="stat"><strong>87</strong><span>Tagesausgaben</span></div>
-  <div class="stat"><strong>6</strong><span>Wochenausgaben</span></div>
-  <div class="stat"><strong>1</strong><span>Monatsausgaben</span></div>
-  <div class="stat"><strong>3</strong><span>Prognosen</span></div>
-  <div class="stat"><strong>30 %</strong><span>Trefferquote</span></div>
+  <div class="stat"><strong>87</strong><span>Tageszusammenfassungen</span></div>
+  <div class="stat"><strong>6</strong><span>Wochenzusammenfassungen</span></div>
+  <div class="stat"><strong>1</strong><span>Monatszusammenfassungen</span></div>
+  <div class="stat"><strong>3</strong><span>Zukunftsprognosen</span></div>
+  <div class="stat"><strong>30 %</strong><span>Prognose-Trefferquote</span></div>
 </div>
 
 <div class="card featured">
