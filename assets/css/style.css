@@ -193,28 +193,33 @@ footer {
 /* Statistik-Kacheln */
 .stats {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-  gap: 12px;
+  grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+  gap: 10px;
   margin-bottom: 24px;
 }
 .stat {
   background: var(--panel);
   border: 1px solid var(--border);
   border-radius: 12px;
-  padding: 14px 16px;
+  padding: 12px 12px;
   text-align: center;
+  min-width: 0;
 }
 .stat strong {
   display: block;
-  font-size: 1.7rem;
+  font-size: 1.6rem;
   color: var(--accent);
   line-height: 1.1;
+  overflow-wrap: break-word;
 }
 .stat span {
   display: block;
   margin-top: 4px;
   color: var(--muted);
   font-size: 0.82rem;
+  line-height: 1.25;
+  hyphens: auto;
+  overflow-wrap: break-word;
 }
 
 /* Karten-Raster */
