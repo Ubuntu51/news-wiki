@@ -58,11 +58,9 @@ ohne Code zu ändern.
 | t3n | https://t3n.de/rss.xml |
 | Golem.de | https://rss.golem.de/rss.php?feed=RSS1.0 |
 | heise online | https://www.heise.de/rss/heise-top-atom.xml |
-| winfuture.de | https://winfuture.de/rss.xml |
 | ComputerBase | https://www.computerbase.de/rss/news.xml |
 | Caschys Blog | https://stadt-bremerhaven.de/feed/ |
 | der brutkasten | https://www.brutkasten.com/feed/ |
-| VentureBeat (übersetzt) | https://venturebeat.com/category/ai/feed/ |
 
 ### 🐧 Linux
 
@@ -98,7 +96,6 @@ ohne Code zu ändern.
 |---|---|
 | electrive.net | https://www.electrive.net/feed/ |
 | ecomento.de | https://ecomento.de/feed/ |
-| GoingElectric | https://www.goingelectric.de/feed/ |
 | heise Autos | https://www.heise.de/autos/rss/news.rss |
 | elektroauto-news.net | https://www.elektroauto-news.net/feed/ |
 
@@ -131,7 +128,6 @@ ohne Code zu ändern.
 | NachDenkSeiten | https://www.nachdenkseiten.de/?feed=rss2 |
 | Kontext TV | https://www.kontext-tv.de/rss.xml |
 | German Foreign Policy | https://www.german-foreign-policy.com/feed.xml |
-| junge Welt | https://www.jungewelt.de/feeds/newsticker.rss |
 | RT Deutsch | https://de.rt.com/rss/ |
 | Weltnetz.tv | https://weltnetz.tv/feed |
 | Free21 | https://free21.org/feed |
