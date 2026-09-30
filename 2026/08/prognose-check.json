@@ -1,0 +1,80 @@
+{
+ "label": "September 2026",
+ "checked_at": "30.09.2026, 10:38 Uhr",
+ "model": "deepseek-v3.2",
+ "score": 2.0,
+ "counted": 5,
+ "rate": 40,
+ "items": [
+  {
+   "nr": 1,
+   "title": "Eskalation der Gewalt im Nahen Osten mit möglicher Ausweitung auf den Libanon.",
+   "category": "",
+   "horizon": "",
+   "level": "hoch",
+   "probability": 75,
+   "status": "nicht_eingetroffen",
+   "evidence": "Die Zusammenfassung erwähnt keine Eskalation im Nahen Osten oder eine Ausweitung auf den Libanon; stattdessen werden Spannungen mit Russland und innenpolitische Themen als bestimmend genannt."
+  },
+  {
+   "nr": 2,
+   "title": "Weiterer Anstieg der Energiepreise in Europa.",
+   "category": "",
+   "horizon": "",
+   "level": "hoch",
+   "probability": 80,
+   "status": "offen",
+   "evidence": "Die Zusammenfassung enthält keine konkreten Informationen zu Energiepreisen in Europa für September 2026."
+  },
+  {
+   "nr": 3,
+   "title": "Verschärfung des transatlantischen Handelsstreits zwischen den USA und Kanada.",
+   "category": "",
+   "horizon": "",
+   "level": "mittel",
+   "probability": 60,
+   "status": "nicht_eingetroffen",
+   "evidence": "Die Zusammenfassung erwähnt keinen transatlantischen Handelsstreit zwischen den USA und Kanada; wirtschaftliche Themen betreffen andere Bereiche wie China und Zinsen."
+  },
+  {
+   "nr": 4,
+   "title": "Zunahme und Intensivierung von Cyberangriffen, insbesondere unter Nutzung von KI.",
+   "category": "",
+   "horizon": "",
+   "level": "hoch",
+   "probability": 80,
+   "status": "eingetroffen",
+   "evidence": "Schwere Cyberangriffe auf den Berliner Senat und die LMU München mit Datenverlust und -veröffentlichung wurden gemeldet, was eine Zunahme und Intensivierung zeigt."
+  },
+  {
+   "nr": 5,
+   "title": "Verstärkte politische und regulatorische Diskussionen zur KI-Regulierung auf nationaler und internationaler Ebene.",
+   "category": "",
+   "horizon": "",
+   "level": "hoch",
+   "probability": 85,
+   "status": "eingetroffen",
+   "evidence": "Die Diskussion um KI-Risiken und -Regulierung zog sich durch den Monat, mit konkreten Vorfällen (OpenAI GPT-6.1, EU-Prüfung) und Forderungen nach Entwicklungspausen."
+  },
+  {
+   "nr": 6,
+   "title": "Fortsetzung schwerer Angriffe auf zivile Infrastruktur und Zivilisten im Ukraine-Krieg.",
+   "category": "",
+   "horizon": "",
+   "level": "hoch",
+   "probability": 90,
+   "status": "offen",
+   "evidence": "Die Zusammenfassung enthält keine Informationen zu Angriffen im Ukraine-Krieg für September 2026."
+  },
+  {
+   "nr": 7,
+   "title": "Ausweitung von Strafverfolgungs- und Vergleichsverfahren gegen Tech-Konzerne, insbesondere im Bereich Nutzerschutz.",
+   "category": "",
+   "horizon": "",
+   "level": "mittel",
+   "probability": 55,
+   "status": "nicht_eingetroffen",
+   "evidence": "Die Zusammenfassung erwähnt keine neuen Strafverfolgungs- oder Vergleichsverfahren gegen Tech-Konzerne im Bereich Nutzerschutz; Tech-Themen betreffen KI-Sicherheit und Cyberangriffe."
+  }
+ ]
+}

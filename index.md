@@ -7,26 +7,26 @@ body_class: home
 
 <div class="hero">
   <h1>📰 Nachrichten-Wiki</h1>
-  <p>Automatisch erzeugt aus den Tageszusammenfassungen. Zuletzt aktualisiert: 29.09.2026, 21:19 Uhr.</p>
+  <p>Automatisch erzeugt aus den Tageszusammenfassungen. Zuletzt aktualisiert: 30.09.2026, 10:39 Uhr.</p>
 </div>
 
 <div class="stats">
-  <div class="stat"><strong>91</strong><span>Tagesausgaben</span></div>
+  <div class="stat"><strong>92</strong><span>Tagesausgaben</span></div>
   <div class="stat"><strong>6</strong><span>Wochenausgaben</span></div>
-  <div class="stat"><strong>1</strong><span>Monatsausgaben</span></div>
-  <div class="stat"><strong>3</strong><span>Prognosen</span></div>
-  <div class="stat"><strong>30 %</strong><span>Trefferquote</span></div>
+  <div class="stat"><strong>2</strong><span>Monatsausgaben</span></div>
+  <div class="stat"><strong>4</strong><span>Prognosen</span></div>
+  <div class="stat"><strong>35 %</strong><span>Trefferquote</span></div>
 </div>
 
 <div class="card featured">
   <span class="tag">Neueste Zusammenfassung</span>
-  <a href="2026/09/2026-09-29_21-17.html">29.09.2026, 21:17 Uhr – Tageszusammenfassung</a>
+  <a href="2026/09/2026-09-30_10-38.html">30.09.2026, 10:38 Uhr – Tageszusammenfassung</a>
 </div>
 
 ## Tageszusammenfassungen
 
 <div class="card-grid">
-<div class="card"><span class="tag tag-day">Tage</span><a href="2026/09/index.html">Tageszusammenfassungen September 2026 (58)</a></div>
+<div class="card"><span class="tag tag-day">Tage</span><a href="2026/09/index.html">Tageszusammenfassungen September 2026 (59)</a></div>
 <div class="card"><span class="tag tag-day">Tage</span><a href="2026/08/index.html">Tageszusammenfassungen August 2026 (33)</a></div>
 </div>
 
@@ -44,6 +44,7 @@ body_class: home
 ## Monatszusammenfassungen
 
 <div class="card-grid">
+<div class="card"><span class="tag tag-month">Monat</span><a href="2026/09/monat.html">Monatszusammenfassung September 2026</a></div>
 <div class="card"><span class="tag tag-month">Monat</span><a href="2026/08/monat.html">Monatszusammenfassung August 2026</a></div>
 </div>
 
@@ -51,6 +52,7 @@ body_class: home
 
 <div class="card-grid">
 <div class="card"><span class="tag tag-outlook">Übersicht</span><a href="prognose.html">Alle Zukunftsprognosen</a></div>
+<div class="card"><span class="tag tag-outlook">Prognose</span><a href="2026/09/ausblick.html">Zukunftsprognose September 2026</a></div>
 <div class="card"><span class="tag tag-outlook">Prognose</span><a href="2026/08/ausblick.html">Zukunftsprognose August 2026</a></div>
 <div class="card"><span class="tag tag-week">Woche</span><a href="2026/ausblick-kw39.html">Wochenausblick KW 39 2026</a></div>
 <div class="card"><span class="tag tag-week">Woche</span><a href="2026/ausblick-kw38.html">Wochenausblick KW 38 2026</a></div>

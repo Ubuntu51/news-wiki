@@ -14,13 +14,15 @@ body_class: prognose
 
 ## 📊 Prognose-Bilanz
 
-- **Trefferquote gesamt:** 1,5 von 5 (30 %) (aus 1 geprüften Zeiträumen)
-- ✅ eingetroffen: 1 · 🟡 teilweise: 1 · ❌ nicht eingetroffen: 3 · ⏳ offen: 0
+- **Trefferquote gesamt:** 3,5 von 10 (35 %) (aus 2 geprüften Zeiträumen)
+- ✅ eingetroffen: 3 · 🟡 teilweise: 1 · ❌ nicht eingetroffen: 6 · ⏳ offen: 2
 
 ## Nach Monat
 
 <div class="card-grid">
+<div class="card"><span class="tag tag-outlook">Prognose</span><a href="2026/09/ausblick.html">Zukunftsprognose September 2026 (6 Prognosen)</a></div>
 <div class="card"><span class="tag tag-outlook">Prognose</span><a href="2026/08/ausblick.html">Zukunftsprognose August 2026 (7 Prognosen)</a></div>
+<div class="card"><span class="tag tag-check">Check</span><a href="2026/08/prognose-check.html">Prognose-Check September 2026 – 40 %</a></div>
 </div>
 
 ## Nach Woche

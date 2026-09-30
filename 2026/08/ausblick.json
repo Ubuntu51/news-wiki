@@ -1,0 +1,77 @@
+{
+ "label": "September 2026",
+ "generated_at": "30.09.2026, 10:38 Uhr",
+ "model": "deepseek-v3.2",
+ "predictions": [
+  {
+   "nr": 1,
+   "title": "Eskalation der Gewalt im Nahen Osten mit möglicher Ausweitung auf den Libanon.",
+   "category": "",
+   "horizon": "",
+   "level": "hoch",
+   "probability": 75,
+   "reason": "Die Zusammenfassung berichtet von israelischen Angriffen in Gaza, Drohungen gegen den Libanon und einer iranischen Kopfgeldausschreibung. Diese Zuspitzung deutet auf ein hohes Risiko weiterer und möglicherweise ausgeweiteter Konfrontationen hin.",
+   "signal": "Eine Zunahme von Angriffen oder Drohungen zwischen Israel und der Hisbollah im Libanon sowie weitere Meldungen über iranische Aktivitäten oder Provokationen wären im September zu beobachten."
+  },
+  {
+   "nr": 2,
+   "title": "Weiterer Anstieg der Energiepreise in Europa.",
+   "category": "",
+   "horizon": "",
+   "level": "hoch",
+   "probability": 80,
+   "reason": "Der Bericht nennt explizit weiter steigende europäische Gaspreise im August. Da keine Entspannung der zugrundeliegenden Faktoren (wie geopolitische Spannungen) gemeldet wird, ist eine Fortsetzung dieses Trends wahrscheinlich.",
+   "signal": "Offizielle Meldungen über steigende Großhandelspreise für Gas oder Strom sowie entsprechende Warnungen von Versorgern oder Regulierungsbehörden im September wären Indikatoren."
+  },
+  {
+   "nr": 3,
+   "title": "Verschärfung des transatlantischen Handelsstreits zwischen den USA und Kanada.",
+   "category": "",
+   "horizon": "",
+   "level": "mittel",
+   "probability": 60,
+   "reason": "Nach gescheiterten Gesprächen und wechselseitigen Zolldrohungen im August (inklusive einer Trump-Drohung für 2027) ist eine weitere Eskalation naheliegend, da beide Seiten bereits konkrete Maßnahmen angekündigt haben.",
+   "signal": "Die tatsächliche Einführung der angekündigten kanadischen Vergeltungszölle oder neue Zolldrohungen bzw. -ankündigungen seitens der USA wären im September zu erwarten."
+  },
+  {
+   "nr": 4,
+   "title": "Zunahme und Intensivierung von Cyberangriffen, insbesondere unter Nutzung von KI.",
+   "category": "",
+   "horizon": "",
+   "level": "hoch",
+   "probability": 80,
+   "reason": "Mehr als 100 KI-Unternehmen warnten im August vor KI-gestützten Cyberangriffen, und konkrete Vorfälle (wie der Hack von Hugging Face) wurden thematisiert. Dieser Trend wird als „Dauerbrenner“ mit wachsendem Fokus beschrieben.",
+   "signal": "Meldungen über neue, komplexe Ransomware-Angriffe (wie der auf Berlin) oder Berichte von Sicherheitsfirmen, die den Einsatz von KI bei Cyberattacken nachweisen, wären im September Indizien."
+  },
+  {
+   "nr": 5,
+   "title": "Verstärkte politische und regulatorische Diskussionen zur KI-Regulierung auf nationaler und internationaler Ebene.",
+   "category": "",
+   "horizon": "",
+   "level": "hoch",
+   "probability": 85,
+   "reason": "Die Zusammenfassung stellt die Risiken und regulatorischen Herausforderungen von KI als einen zentralen Trend dar, der an Dringlichkeit gewinnt. Die konkreten Warnungen der Industrie könnten regulatorische Reaktionen beschleunigen.",
+   "signal": "Ankündigungen von Gesetzesinitiativen, öffentlichen Anhörungen oder Gipfeltreffen zum Thema KI-Sicherheit und -Regulierung durch Regierungen oder internationale Gremien im September."
+  },
+  {
+   "nr": 6,
+   "title": "Fortsetzung schwerer Angriffe auf zivile Infrastruktur und Zivilisten im Ukraine-Krieg.",
+   "category": "",
+   "horizon": "",
+   "level": "hoch",
+   "probability": 90,
+   "reason": "Der Bericht dokumentiert einen verheerenden russischen Luftangriff mit vielen zivilen Opfern Ende August. Da der Krieg als „bestimmendes geopolitischen Thema“ und eskalierend beschrieben wird, sind weitere derartige Vorfälle wahrscheinlich.",
+   "signal": "Ukrainische oder internationale Berichte über weitere Raketen- oder Drohnenangriffe auf zivile Ziele wie Dörfer, Städte oder kritische Infrastruktur (ohne unmittelbare militärische Ziele) im September."
+  },
+  {
+   "nr": 7,
+   "title": "Ausweitung von Strafverfolgungs- und Vergleichsverfahren gegen Tech-Konzerne, insbesondere im Bereich Nutzerschutz.",
+   "category": "",
+   "horizon": "",
+   "level": "mittel",
+   "probability": 55,
+   "reason": "Der milliardenschwere Vergleich von Meta im August wegen mutmaßlicher Social-Media-Sucht bei Minderjährigen könnte als Präzedenzfall für ähnliche Klagen oder Untersuchungen gegen andere Plattformen dienen.",
+   "signal": "Ankündigungen neuer regulatorischer Untersuchungen, Klagen oder Vergleichsgespräche gegen weitere große Social-Media- oder Tech-Unternehmen in den USA oder Europa im September."
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "label": "Oktober 2026",
+ "generated_at": "30.09.2026, 10:38 Uhr",
+ "model": "deepseek-v3.2",
+ "predictions": [
+  {
+   "nr": 1,
+   "title": "Verschärfung der diplomatischen und sicherheitspolitischen Maßnahmen gegenüber Russland",
+   "category": "Politik / Sicherheit",
+   "horizon": "mittelfristig (2-3 Monate)",
+   "level": "hoch",
+   "probability": 80,
+   "reason": "Deutschland hat Russland für einen versuchten Sprengstoffanschlag auf dem Leipziger Flughafen verantwortlich gemacht und Maßnahmen angekündigt. Die sicherheitspolitischen Spannungen mit Russland werden als bestimmend beschrieben.",
+   "signal": "Eine Ankündigung oder Umsetzung weiterer Sanktionen, diplomatischer Schritte oder militärischer Sicherheitsvorkehrungen durch die Bundesregierung im Oktober."
+  },
+  {
+   "nr": 2,
+   "title": "Intensive Regierungsbildungen und innenpolitische Debatten in mehreren Bundesländern",
+   "category": "Politik",
+   "horizon": "mittelfristig (2-3 Monate)",
+   "level": "hoch",
+   "probability": 90,
+   "reason": "Die AfD hat bei Landtagswahlen in Sachsen-Anhalt, Berlin und Mecklenburg-Vorpommern haushohe Siege erzielt und innenpolitische Debatten ausgelöst. Der Ausblick nennt die Fortsetzung der Debatte über den Umgang mit diesen Erfolgen und die Regierungsbildung.",
+   "signal": "Beginn offizieller Sondierungs- oder Koalitionsgespräche in den betroffenen Bundesländern sowie verstärkte politische Diskurse über die Rolle der AfD."
+  },
+  {
+   "nr": 3,
+   "title": "Zunehmende regulatorische Prüfungen und öffentliche Diskussionen zu KI-Sicherheit",
+   "category": "KI / Regulierung",
+   "horizon": "mittelfristig (2-3 Monate)",
+   "level": "hoch",
+   "probability": 85,
+   "reason": "Die Debatte um KI-Risiken und -Regulierung zog sich durch den gesamten Monat, konkretisiert durch den Stopp von GPT-6.1 Astra durch OpenAI und eine EU-Prüfung des Unternehmens.",
+   "signal": "Verstärkte öffentliche Stellungnahmen von Aufsichtsbehörden, mögliche Ankündigungen neuer regulatorischer Leitlinien oder vertiefte parlamentarische Debatten auf EU- oder nationaler Ebene."
+  },
+  {
+   "nr": 4,
+   "title": "Weitere schwerwiegende Cyberangriffe auf öffentliche Einrichtungen und kritische Infrastrukturen",
+   "category": "Sicherheit / Cyber",
+   "horizon": "kurzfristig (bis 1 Monat)",
+   "level": "hoch",
+   "probability": 75,
+   "reason": "Schwere Angriffe auf den Berliner Senat und die LMU München mit Datendiebstahl prägten den Monat. Cyberangriffe werden als anhaltendes Sicherheitsproblem beschrieben, das durch die NIS2-Umsetzung zusätzliche Aufmerksamkeit erhält.",
+   "signal": "Neue Meldungen über erfolgreiche Angriffe auf Behörden, Universitäten oder Unternehmen der kritischen Infrastruktur, verbunden mit Datendiebstahl oder Betriebsstörungen."
+  },
+  {
+   "nr": 5,
+   "title": "Fortgesetzte wirtschaftliche Unsicherheit und Anpassungen in der Automobilindustrie",
+   "category": "Wirtschaft",
+   "horizon": "mittelfristig (2-3 Monate)",
+   "level": "mittel",
+   "probability": 65,
+   "reason": "Volkswagen senkte seine Jahresprognose aufgrund von Marktschwäche in China und musste einen großen Rückruf durchführen. Wirtschaftlich sorgten Insolvenzwellen und Zinsentscheidungen für Unsicherheit.",
+   "signal": "Weitere negative Prognoseanpassungen oder operative Probleme bei großen deutschen Industrieunternehmen, insbesondere im Automobilsektor, sowie fortgesetzte Berichte über Insolvenzen."
+  },
+  {
+   "nr": 6,
+   "title": "Anhaltende Volatilität an Kryptomärkten als Reaktion auf globale Zinspolitik",
+   "category": "Wirtschaft / Finanzen",
+   "horizon": "kurzfristig (bis 1 Monat)",
+   "level": "mittel",
+   "probability": 60,
+   "reason": "Nach der Leitzinserhöhung der US-Notenbank stieg der Bitcoin-Kurs deutlich auf einen neuen Jahresrekord. Zinsentscheidungen werden als marktbestimmend genannt.",
+   "signal": "Starke Kursschwankungen bei Bitcoin und anderen Kryptowährungen als unmittelbare Reaktion auf geldpolitische Signale der Fed oder der EZB."
+  }
+ ]
+}
