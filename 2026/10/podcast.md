@@ -8,10 +8,17 @@ body_class: podcast
 <div class="hero">
   <img class="podcast-logo" src="../../assets/podcast/logo.jpg" alt="News-Podcast Logo" width="120">
   <h1>🎧 Podcast Oktober 2026</h1>
-  <p>1 Folgen des Monats – direkt abspielbar.</p>
+  <p>2 Folgen des Monats – direkt abspielbar.</p>
 </div>
 
 ## 🗓️ Folgen
+
+<div class="card podcast-episode">
+<h3>02.10.2026 – 🌆 Abendüberblick</h3>
+<p class="meta">02.10.2026, 21:06 Uhr · 6.9 MB</p>
+<audio controls preload="none" src="https://ubuntu51.github.io/news-wiki/2026/10/2026-10-02_21-06.mp3"></audio>
+<p class="links"><a href="https://ubuntu51.github.io/news-wiki/2026/10/2026-10-02_21-06.mp3">MP3 herunterladen</a> · <a href="https://ubuntu51.github.io/news-wiki/2026/10/2026-10-02_21-06.html">Zur Zusammenfassung</a></p>
+</div>
 
 <div class="card podcast-episode">
 <h3>01.10.2026 – 🌆 Abendüberblick</h3>
