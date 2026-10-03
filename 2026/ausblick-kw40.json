@@ -1,57 +1,57 @@
 {
  "label": "Kalenderwoche 41 / 2026",
- "generated_at": "03.10.2026, 11:48 Uhr",
+ "generated_at": "03.10.2026, 19:58 Uhr",
  "model": "deepseek-v3.2",
  "predictions": [
   {
    "nr": 1,
-   "title": "Eskalation der nuklearen Rhetorik",
-   "category": "Sicherheit",
+   "title": "Eskalation der diplomatischen Spannungen zwischen Russland und der NATO",
+   "category": "Politik / Sicherheit",
    "horizon": "kurzfristig (bis 1 Woche)",
    "level": "hoch",
    "probability": 80,
-   "reason": "Die explizite Atomwaffendrohung Russlands gegenüber der NATO in der vergangenen Woche markiert eine massive Eskalation der Rhetorik und erhöht das Risiko weiterer verbaler oder demonstrativer Schritte.",
-   "signal": "In der kommenden Woche wäre eine weitere scharfe Stellungnahme Russlands, eine demonstrative Verlegung von Waffensystemen oder eine Reaktion der NATO mit verschärften Warnungen oder militärischen Übungen zu beobachten."
+   "reason": "Die Wochenzusammenfassung beschreibt eine \"massive Eskalation der russischen Atomdrohungen gegen die NATO\" und eine direkte Drohung im Zusammenhang mit Kaliningrad. Zudem hat Moskau Ausländer explizit vor Angriffen auf Kiew gewarnt, was laut Ausblick zu einer weiteren Erhöhung der diplomatischen Spannung führen dürfte.",
+   "signal": "In der kommenden Woche wären schärfere diplomatische Verlautbarungen, Notfalltreffen des NATO-Rats oder eine weitere Verschärfung der atomaren Rhetorik seitens Russlands zu beobachten."
   },
   {
    "nr": 2,
-   "title": "Verstärkte wirtschaftliche Gegenmaßnahmen gegen Energiepreise",
-   "category": "Wirtschaft",
-   "horizon": "mittelfristig (2-4 Wochen)",
+   "title": "Fortgesetzte Angriffe auf ukrainische Infrastruktur",
+   "category": "Sicherheit",
+   "horizon": "kurzfristig (bis 1 Woche)",
    "level": "hoch",
-   "probability": 85,
-   "reason": "Als Reaktion auf die angespannte Lage beschlossen sowohl die G7 (Freigabe strategischer Ölreserven) als auch Österreich (Spritpreisbremse) konkrete Maßnahmen. Dieser Trend zu staatlichen Eingriffen zur Preisdämpfung wird sich voraussichtlich fortsetzen.",
-   "signal": "In den kommenden Wochen wären ähnliche Ankündigungen weiterer Länder, Diskussionen auf EU-Ebene oder eine Ausweitung der österreichischen Maßnahme zu beobachten."
+   "probability": 90,
+   "reason": "Die Zusammenfassung stellt fest, dass Russland \"gezielte Angriffe auf die ukrainische Infrastruktur fortführte\" und nennt konkret einen Drohnenangriff auf eine wichtige Brücke in Kiew. Dieser Trend ist etabliert und wird als fortlaufend beschrieben.",
+   "signal": "Neue Meldungen über erfolgreiche oder abgewehrte Angriffe mit Drohnen oder Raketen auf Verkehrsknotenpunkte, Energieversorgung oder andere kritische Infrastruktur in der Ukraine wären ein Indikator."
   },
   {
    "nr": 3,
-   "title": "Zunehmende regulatorische Scrutiny und interne Konflikte bei KI-Unternehmen",
-   "category": "KI",
-   "horizon": "mittelfristig (2-4 Wochen)",
-   "level": "mittel",
-   "probability": 70,
-   "reason": "Der Stopp von GPT-6.1 Astra und die Entlassungen bei OpenAI nach internen Enthüllungen zeigen, dass Sicherheitsbedenken und regulatorischer Druck zu operativen Konsequenzen führen. Dieser Trend wird sich auf andere Akteure ausweiten.",
-   "signal": "In der kommenden Woche könnten weitere Enthüllungen zu den Vorgängen bei OpenAI, Reaktionen von Aufsichtsbehörden oder ähnliche Vorsichtsmaßnahmen anderer KI-Firmen (z.B. Verschiebungen von Releases) erfolgen."
-  },
-  {
-   "nr": 4,
-   "title": "Ausweitung der Protestdynamik in Europa",
-   "category": "Politik",
-   "horizon": "kurzfristig (bis 1 Woche)",
-   "level": "mittel",
-   "probability": 65,
-   "reason": "Die eskalierten Schülerproteste mit über 5.000 Festnahmen in Frankreich und die schwierigen Regierungsverhandlungen in Schweden (erwähnt im Ausblick) deuten auf eine volatile innenpolitische Stimmung hin, die auf andere Länder überspringen könnte.",
-   "signal": "In KW 41 wären Solidaritätsproteste in Nachbarländern, eine Ausweitung der Protestthemen in Frankreich oder eine Verschärfung der politischen Blockade in Schweden mögliche Indikatoren."
-  },
-  {
-   "nr": 5,
-   "title": "Weitere Insolvenzen im stationären Einzelhandel",
-   "category": "Wirtschaft",
+   "title": "Fortführung und mögliche Ausweitung der G-7-Energieinterventionen",
+   "category": "Wirtschaft / Energie",
    "horizon": "mittelfristig (2-4 Wochen)",
    "level": "mittel",
    "probability": 60,
-   "reason": "Die erneute Insolvenz der deutschen Kaufhauskette Galeria ist ein Symptom für anhaltende strukturelle Probleme im Handel. Der in der Zusammenfassung genannte Trend zur \"Stabilität von Unternehmen\" als zentrales Thema bleibt bestehen.",
-   "signal": "In den kommenden Wochen könnten weitere negative Meldungen oder Gewinnwarnungen von anderen Einzelhandelsunternehmen oder die Ankündigung von Filialschließungen folgen."
+   "reason": "Als Reaktion auf die geopolitischen Spannungen und die Angriffe auf Infrastruktur haben die G-7-Staaten bereits die Freigabe von bis zu 100 Millionen Barrel aus strategischen Reserven beschlossen. Diese koordinierte Marktintervention wurde als direkte Reaktion eingeleitet.",
+   "signal": "In den kommenden Wochen könnten weitere G-7-Erklärungen zur Energiesicherheit, die Ankündigung zusätzlicher Maßnahmen oder die Diskussion einer Ausweitung der Reservenfreigabe folgen."
+  },
+  {
+   "nr": 4,
+   "title": "Verstärkte öffentliche Debatte über KI-Sicherheit und Regulierung",
+   "category": "KI / Sicherheit",
+   "horizon": "mittelfristig (2-4 Wochen)",
+   "level": "hoch",
+   "probability": 75,
+   "reason": "OpenAI stoppte die Veröffentlichung von GPT-6.1 Astra nach internen Sicherheitstests, was einen konkreten Fall des von der Zusammenfassung beschriebenen Trends darstellt, dass führende KI-Unternehmen Produkte aus Sicherheitsgründen zurückhalten. Dies wirft weiterhin \"grundlegende Sicherheits- und Regulierungsfragen auf\".",
+   "signal": "Die Debatte könnte sich in der kommenden Woche durch Stellungnahmen anderer KI-Unternehmen, von Aufsichtsbehörden oder durch parlamentarische Anfragen auf nationaler oder EU-Ebene (z.B. im Kontext des AI Act) fortsetzen."
+  },
+  {
+   "nr": 5,
+   "title": "Zunahme von Meldungen zu großen Datenlecks bei staatlichen Stellen",
+   "category": "Sicherheit / Digitales",
+   "horizon": "mittelfristig (2-4 Wochen)",
+   "level": "mittel",
+   "probability": 50,
+   "reason": "In der Wochenzusammenfassung wird das Datenleck beim US-Verteidigungsministerium, bei dem Daten von Millionen Militärangehörigen abgeflossen sind, als eines der wichtigsten Themen genannt. Solche Vorfälle bei hochsensiblen staatlichen Einrichtungen haben typischerweise eine nachlaufende Berichterstattung und können ähnliche Vorfälle bei anderen Stellen ins Blickfeld rücken.",
+   "signal": "In der kommenden Woche könnten weitere Details zu diesem Vorfall bekannt werden oder es könnten Meldungen über Sicherheitsüberprüfungen bzw. ähnliche Vorfälle bei anderen NATO- oder staatlichen Einrichtungen auftauchen."
   }
  ]
 }
