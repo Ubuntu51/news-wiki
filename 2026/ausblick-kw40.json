@@ -1,0 +1,57 @@
+{
+ "label": "Kalenderwoche 41 / 2026",
+ "generated_at": "03.10.2026, 11:48 Uhr",
+ "model": "deepseek-v3.2",
+ "predictions": [
+  {
+   "nr": 1,
+   "title": "Eskalation der nuklearen Rhetorik",
+   "category": "Sicherheit",
+   "horizon": "kurzfristig (bis 1 Woche)",
+   "level": "hoch",
+   "probability": 80,
+   "reason": "Die explizite Atomwaffendrohung Russlands gegenüber der NATO in der vergangenen Woche markiert eine massive Eskalation der Rhetorik und erhöht das Risiko weiterer verbaler oder demonstrativer Schritte.",
+   "signal": "In der kommenden Woche wäre eine weitere scharfe Stellungnahme Russlands, eine demonstrative Verlegung von Waffensystemen oder eine Reaktion der NATO mit verschärften Warnungen oder militärischen Übungen zu beobachten."
+  },
+  {
+   "nr": 2,
+   "title": "Verstärkte wirtschaftliche Gegenmaßnahmen gegen Energiepreise",
+   "category": "Wirtschaft",
+   "horizon": "mittelfristig (2-4 Wochen)",
+   "level": "hoch",
+   "probability": 85,
+   "reason": "Als Reaktion auf die angespannte Lage beschlossen sowohl die G7 (Freigabe strategischer Ölreserven) als auch Österreich (Spritpreisbremse) konkrete Maßnahmen. Dieser Trend zu staatlichen Eingriffen zur Preisdämpfung wird sich voraussichtlich fortsetzen.",
+   "signal": "In den kommenden Wochen wären ähnliche Ankündigungen weiterer Länder, Diskussionen auf EU-Ebene oder eine Ausweitung der österreichischen Maßnahme zu beobachten."
+  },
+  {
+   "nr": 3,
+   "title": "Zunehmende regulatorische Scrutiny und interne Konflikte bei KI-Unternehmen",
+   "category": "KI",
+   "horizon": "mittelfristig (2-4 Wochen)",
+   "level": "mittel",
+   "probability": 70,
+   "reason": "Der Stopp von GPT-6.1 Astra und die Entlassungen bei OpenAI nach internen Enthüllungen zeigen, dass Sicherheitsbedenken und regulatorischer Druck zu operativen Konsequenzen führen. Dieser Trend wird sich auf andere Akteure ausweiten.",
+   "signal": "In der kommenden Woche könnten weitere Enthüllungen zu den Vorgängen bei OpenAI, Reaktionen von Aufsichtsbehörden oder ähnliche Vorsichtsmaßnahmen anderer KI-Firmen (z.B. Verschiebungen von Releases) erfolgen."
+  },
+  {
+   "nr": 4,
+   "title": "Ausweitung der Protestdynamik in Europa",
+   "category": "Politik",
+   "horizon": "kurzfristig (bis 1 Woche)",
+   "level": "mittel",
+   "probability": 65,
+   "reason": "Die eskalierten Schülerproteste mit über 5.000 Festnahmen in Frankreich und die schwierigen Regierungsverhandlungen in Schweden (erwähnt im Ausblick) deuten auf eine volatile innenpolitische Stimmung hin, die auf andere Länder überspringen könnte.",
+   "signal": "In KW 41 wären Solidaritätsproteste in Nachbarländern, eine Ausweitung der Protestthemen in Frankreich oder eine Verschärfung der politischen Blockade in Schweden mögliche Indikatoren."
+  },
+  {
+   "nr": 5,
+   "title": "Weitere Insolvenzen im stationären Einzelhandel",
+   "category": "Wirtschaft",
+   "horizon": "mittelfristig (2-4 Wochen)",
+   "level": "mittel",
+   "probability": 60,
+   "reason": "Die erneute Insolvenz der deutschen Kaufhauskette Galeria ist ein Symptom für anhaltende strukturelle Probleme im Handel. Der in der Zusammenfassung genannte Trend zur \"Stabilität von Unternehmen\" als zentrales Thema bleibt bestehen.",
+   "signal": "In den kommenden Wochen könnten weitere negative Meldungen oder Gewinnwarnungen von anderen Einzelhandelsunternehmen oder die Ankündigung von Filialschließungen folgen."
+  }
+ ]
+}

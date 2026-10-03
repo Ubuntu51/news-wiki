@@ -1,0 +1,60 @@
+{
+ "label": "Kalenderwoche 40 / 2026",
+ "checked_at": "03.10.2026, 11:48 Uhr",
+ "model": "deepseek-v3.2",
+ "score": 1.5,
+ "counted": 5,
+ "rate": 30,
+ "items": [
+  {
+   "nr": 1,
+   "title": "Weitere Marktreaktionen auf US-Zinspolitik",
+   "category": "Wirtschaft",
+   "horizon": "kurzfristig (bis 1 Woche)",
+   "level": "hoch",
+   "probability": 80,
+   "status": "nicht_eingetroffen",
+   "evidence": "Die Zusammenfassung erwähnt keine Marktreaktionen auf die US-Zinspolitik, sondern konzentriert sich auf andere wirtschaftspolitische Maßnahmen wie die G7-Ölreservenfreigabe und nationale Preisbremsen."
+  },
+  {
+   "nr": 2,
+   "title": "Eskalation der diplomatischen Spannungen mit dem Iran",
+   "category": "Politik / Sicherheit",
+   "horizon": "mittelfristig (2-4 Wochen)",
+   "level": "mittel",
+   "probability": 60,
+   "status": "teilweise",
+   "evidence": "Die Zusammenfassung berichtet von einer Eskalation im Nahost-Konflikt mit einem tödlichen israelischen Luftangriff auf Gaza, jedoch ohne direkte Erwähnung diplomatischer Spannungen mit dem Iran oder US-Drohungen."
+  },
+  {
+   "nr": 3,
+   "title": "Zunehmende Forderungen nach nationalen Cybersicherheits-Maßnahmen",
+   "category": "Sicherheit",
+   "horizon": "mittelfristig (2-4 Wochen)",
+   "level": "hoch",
+   "probability": 75,
+   "status": "nicht_eingetroffen",
+   "evidence": "Die Zusammenfassung thematisiert zwar KI-Sicherheit und -Regulierung (Stopp von GPT-6.1), erwähnt aber keine nationalen Cybersicherheits-Maßnahmen oder Forderungen danach als Reaktion auf konkrete Cyberangriffe."
+  },
+  {
+   "nr": 4,
+   "title": "Ausweitung von Verbraucherentlastungs-Maßnahmen in Europa",
+   "category": "Wirtschaft / Politik",
+   "horizon": "mittelfristig (2-4 Wochen)",
+   "level": "mittel",
+   "probability": 50,
+   "status": "eingetroffen",
+   "evidence": "Die Zusammenfassung nennt die österreichische Spritpreisbremse und die Freigabe strategischer Ölreserven durch die G7 als konkrete Entlastungsmaßnahmen."
+  },
+  {
+   "nr": 5,
+   "title": "Verschärfung des innerparteilichen Machtkampfs in der SPÖ",
+   "category": "Politik",
+   "horizon": "kurzfristig (bis 1 Woche)",
+   "level": "hoch",
+   "probability": 85,
+   "status": "nicht_eingetroffen",
+   "evidence": "Die Zusammenfassung erwähnt keine innerparteilichen Machtkämpfe in der SPÖ oder Aktivitäten von Gerhard Zeiler, sondern andere innenpolitische Themen wie Proteste in Frankreich."
+  }
+ ]
+}
