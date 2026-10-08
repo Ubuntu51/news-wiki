@@ -7,8 +7,9 @@ body_class: archive
 
 # 📅 Tageszusammenfassungen Oktober 2026
 
-Zuletzt aktualisiert: 08.10.2026, 10:00 Uhr.
+Zuletzt aktualisiert: 08.10.2026, 20:19 Uhr.
 
+- [08.10.2026, 20:11 Uhr](2026-10-08_20-11.html)
 - [08.10.2026, 10:00 Uhr](2026-10-08_10-00.html)
 - [07.10.2026, 20:31 Uhr](2026-10-07_20-31.html)
 - [07.10.2026, 11:11 Uhr](2026-10-07_11-11.html)
