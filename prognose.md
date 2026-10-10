@@ -14,8 +14,8 @@ body_class: prognose
 
 ## 📊 Prognose-Bilanz
 
-- **Trefferquote gesamt:** 5 von 15 (33 %) (aus 3 geprüften Zeiträumen)
-- ✅ eingetroffen: 4 · 🟡 teilweise: 2 · ❌ nicht eingetroffen: 9 · ⏳ offen: 2
+- **Trefferquote gesamt:** 6,5 von 20 (32 %) (aus 4 geprüften Zeiträumen)
+- ✅ eingetroffen: 5 · 🟡 teilweise: 3 · ❌ nicht eingetroffen: 12 · ⏳ offen: 2
 
 ## Nach Monat
 
@@ -28,7 +28,9 @@ body_class: prognose
 ## Nach Woche
 
 <div class="card-grid">
+<div class="card"><span class="tag tag-week">Woche</span><a href="2026/ausblick-kw41.html">Wochenausblick KW 41 2026 (5 Prognosen)</a></div>
 <div class="card"><span class="tag tag-week">Woche</span><a href="2026/ausblick-kw40.html">Wochenausblick KW 40 2026 (5 Prognosen)</a></div>
+<div class="card"><span class="tag tag-check">Check</span><a href="2026/prognose-check-kw40.html">Prognose-Check Kalenderwoche 41 / 2026 – 30 %</a></div>
 <div class="card"><span class="tag tag-week">Woche</span><a href="2026/ausblick-kw39.html">Wochenausblick KW 39 2026 (5 Prognosen)</a></div>
 <div class="card"><span class="tag tag-check">Check</span><a href="2026/prognose-check-kw39.html">Prognose-Check Kalenderwoche 40 / 2026 – 30 %</a></div>
 <div class="card"><span class="tag tag-week">Woche</span><a href="2026/ausblick-kw38.html">Wochenausblick KW 38 2026 (5 Prognosen)</a></div>

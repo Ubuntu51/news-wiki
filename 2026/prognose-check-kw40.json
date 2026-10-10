@@ -1,0 +1,60 @@
+{
+ "label": "Kalenderwoche 41 / 2026",
+ "checked_at": "10.10.2026, 11:36 Uhr",
+ "model": "deepseek-v3.2",
+ "score": 1.5,
+ "counted": 5,
+ "rate": 30,
+ "items": [
+  {
+   "nr": 1,
+   "title": "Eskalation der militärischen Angriffe auf ukrainische Infrastruktur",
+   "category": "Sicherheit",
+   "horizon": "kurzfristig (bis 1 Woche)",
+   "level": "hoch",
+   "probability": 80,
+   "status": "eingetroffen",
+   "evidence": "Russische Angriffe auf die ukrainische Stadt Saporischschja forderten Tote und Verletzte, was eine Eskalation der militärischen Angriffe zeigt."
+  },
+  {
+   "nr": 2,
+   "title": "Verstärkte diplomatische Aktivitäten zum Ukraine-Konflikt",
+   "category": "Politik",
+   "horizon": "mittelfristig (2-4 Wochen)",
+   "level": "mittel",
+   "probability": 60,
+   "status": "teilweise",
+   "evidence": "Der Besuch des deutschen Bundeskanzlers in der Ukraine und die Zusage weiterer Unterstützung stellen diplomatische Aktivitäten dar, konkrete neue Gesprächsankündigungen zwischen den USA und Moskau/Kiew wurden nicht berichtet."
+  },
+  {
+   "nr": 3,
+   "title": "Zuspitzung der Tarifauseinandersetzung in der deutschen Industrie",
+   "category": "Wirtschaft",
+   "horizon": "mittelfristig (2-4 Wochen)",
+   "level": "hoch",
+   "probability": 75,
+   "status": "nicht_eingetroffen",
+   "evidence": "In der Monatszusammenfassung wurden keine Warnstreiks, Kundgebungen oder verschärften Forderungen der Gewerkschaften im Zusammenhang mit der Tarifauseinandersetzung bei Volkswagen oder anderen Großunternehmen erwähnt."
+  },
+  {
+   "nr": 4,
+   "title": "Weitere regulatorische Maßnahmen oder Sicherheitsdebatten im KI-Sektor",
+   "category": "KI",
+   "horizon": "kurzfristig (bis 1 Woche)",
+   "level": "mittel",
+   "probability": 65,
+   "status": "nicht_eingetroffen",
+   "evidence": "Es wurden keine weiteren regulatorischen Maßnahmen, Stellungnahmen von Aufsichtsbehörden oder neue Sicherheitsrichtlinien für KI-Modelle im Berichtszeitraum erwähnt, sondern nur die beschleunigte Integration von KI."
+  },
+  {
+   "nr": 5,
+   "title": "Fortsetzung staatlicher Interventionen bei Energie- und Treibstoffpreisen",
+   "category": "Wirtschaft",
+   "horizon": "mittelfristig (2-4 Wochen)",
+   "level": "hoch",
+   "probability": 70,
+   "status": "nicht_eingetroffen",
+   "evidence": "Die Monatszusammenfassung enthält keine Meldungen über neue staatliche Interventionen bei Energie- oder Treibstoffpreisen, Ankündigungen ähnlicher Maßnahmen oder Details zur Umsetzung der G-7-Freigabe."
+  }
+ ]
+}
