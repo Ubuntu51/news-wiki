@@ -1,57 +1,57 @@
 {
  "label": "Kalenderwoche 42 / 2026",
- "generated_at": "10.10.2026, 11:36 Uhr",
+ "generated_at": "10.10.2026, 18:25 Uhr",
  "model": "deepseek-v3.2",
  "predictions": [
   {
    "nr": 1,
-   "title": "Politische Entscheidungen in Spanien und Österreich",
-   "category": "Politik",
-   "horizon": "mittelfristig (2-4 Wochen)",
-   "level": "hoch",
-   "probability": 90,
-   "reason": "In Spanien kündigte Ministerpräsident Pedro Sanchez eine vorgezogene Neuwahl für Ende November an. In Österreich wandte sich der scheidende SPÖ-Chef Andreas Babler an die Parteimitglieder, bevor eine neue geschäftsführende Spitze benannt wird. Diese Ankündigungen leiten konkrete Wahlvorbereitungen bzw. einen innerparteilichen Führungsprozess ein.",
-   "signal": "In der kommenden Woche wären erste konkrete Schritte wie die Bekanntgabe von Kandidatenlisten in Spanien oder die Benennung der geschäftsführenden SPÖ-Spitze in Österreich zu beobachten."
-  },
-  {
-   "nr": 2,
-   "title": "Verschärfte Debatte um Ukraine-Unterstützung",
-   "category": "Politik / Internationale Beziehungen",
-   "horizon": "kurzfristig (bis 1 Woche)",
-   "level": "hoch",
-   "probability": 85,
-   "reason": "Der Besuch von Bundeskanzler Friedrich Merz in der Ukraine mit weiteren Zusagen, die Eskalation der Kampfhandlungen in Saporischschja und die kontroverse Ankündigung von US-Präsident Trump zu russischem Dieselimport werden die Diskussionen um Art und Umfang der westlichen Unterstützung weiter anheizen.",
-   "signal": "Es wären verstärkte öffentliche Stellungnahmen und Debatten von Regierungsvertretern und Oppositionsparteien, insbesondere in Deutschland und den USA, zu diesem Thema zu erwarten."
-  },
-  {
-   "nr": 3,
-   "title": "Fortgesetzte Cyber-Sicherheitsvorfälle im Technologie- und Handelssektor",
-   "category": "Sicherheit / Wirtschaft",
-   "horizon": "mittelfristig (2-4 Wochen)",
-   "level": "mittel",
-   "probability": 70,
-   "reason": "Nach dem mutmaßlichen Hackerangriff auf Asos, der zu einem deutlichen Aktienkursverlust führte, und den offenbarten Sicherheitslücken in europäischen Solarparks und Data-Centern deutet sich eine anhaltende Verwundbarkeit kritischer Infrastruktur und Unternehmen an.",
-   "signal": "Weitere Meldungen über Sicherheitsvorfälle oder Warnungen von IT-Sicherheitsbehörden für Unternehmen, insbesondere im E-Commerce und im Energiesektor, wären ein Indikator."
-  },
-  {
-   "nr": 4,
-   "title": "Beschleunigte Integration von KI in Produkte und Dienstleistungen",
-   "category": "KI / Technologie",
+   "title": "Regulatorische Reaktionen auf IT-Sicherheitslücken",
+   "category": "Sicherheit",
    "horizon": "mittelfristig (2-4 Wochen)",
    "level": "hoch",
    "probability": 80,
-   "reason": "Der klare Trend zur beschleunigten Integration, illustriert durch neue dauerhaft aktive Assistenten von Google und die Einbindung von Sprachmodellen in Bürosoftware, wird voraussichtlich von weiteren Unternehmen aufgegriffen.",
-   "signal": "In der kommenden Woche könnten weitere Tech-Unternehmen ähnliche Ankündigungen für ihre Produkte machen oder bestehende KI-Features deutlich ausbauen."
+   "reason": "Die Meldung über über 8500 ungeschützte Steuerungssysteme europäischer Wind- und Solarparks sowie allgemein massive Sicherheitslücken in kritischer Infrastruktur wurden als strukturelles Problem identifiziert. Der Ausblick der Zusammenfassung sagt direkt regulatorische Folgen und Diskussionen über nationale Sicherheit voraus.",
+   "signal": "In der kommenden Woche könnten erste politische Forderungen nach schärferen Sicherheitsvorschriften für Betreiber kritischer Infrastruktur oder Ankündigungen von parlamentarischen Untersuchungen auftauchen."
   },
   {
-   "nr": 5,
-   "title": "Volatilität bei Investments in Kryptowährungen",
-   "category": "Wirtschaft / Finanzen",
+   "nr": 2,
+   "title": "Vertiefung der KI-Integration in Alltagsanwendungen",
+   "category": "KI",
+   "horizon": "kurzfristig (bis 1 Woche)",
+   "level": "hoch",
+   "probability": 85,
+   "reason": "Der Trend der fortschreitenden Verschmelzung von KI in den Alltag wurde als zentrales Thema der Woche genannt. Konkret führten Technologiekonzerne wie Google dauerhaft aktive KI-Assistenten ein und integrierten Modelle wie Claude in Produktivitäts-Apps.",
+   "signal": "Weitere Tech-Unternehmen könnten in KW 42 ähnliche Produktankündigungen oder Updates veröffentlichen, die KI-Assistenten noch stärker in den Vordergrund ihrer Software stellen."
+  },
+  {
+   "nr": 3,
+   "title": "Eskalation der innenpolitischen Spannungen in Österreich",
+   "category": "Politik",
    "horizon": "kurzfristig (bis 1 Woche)",
    "level": "mittel",
    "probability": 65,
-   "reason": "Der spektakuläre Quartalsgewinn des Finanzunternehmens Strategy durch Bitcoin-Investments könnte sowohl Nachahmer anlocken als auch die Diskussion über die Volatilität und Risiken solcher Investments neu entfachen.",
-   "signal": "Starke Kursbewegungen bei Bitcoin oder anderen Kryptowährungen sowie vermehrte Meldungen über entsprechende Investments oder Gewinnwarnungen anderer Unternehmen wären mögliche Anzeichen."
+   "reason": "In der Zusammenfassung wird von internen Machtkämpfen und der Einigung auf eine neue geschäftsführende SPÖ-Parteispitze nach dem Rückzug von Andreas Babler berichtet. Zudem wird eine sich andeutende Regierungskrise in Österreich erwähnt.",
+   "signal": "In der kommenden Woche könnten sich die Machtkämpfe innerhalb der SPÖ fortsetzen oder öffentliche Stellungnahmen der neuen Parteispitze und der Koalitionspartner auf eine bevorstehende Regierungs- oder Koalitionskrise hindeuten."
+  },
+  {
+   "nr": 4,
+   "title": "Fortsetzung der Diskussion um Deutschlands Ukraine-Politik",
+   "category": "Politik",
+   "horizon": "kurzfristig (bis 1 Woche)",
+   "level": "hoch",
+   "probability": 75,
+   "reason": "Der Besuch von Bundeskanzler Friedrich Merz in Kiew mit weiteren Zusagen für die Ukraine und die heftige Kritik am ehemaligen Bundeskanzler Gerhard Schröder wegen seines Moskau-Besuchs zeigen, dass das Thema weiterhin hoch polarisiert und im Fokus steht.",
+   "signal": "In KW 42 sind möglicherweise Reaktionen der Opposition auf Merz' Kiew-Besuch, weitere Details zu den zugesagten Hilfen oder fortgesetzte mediale und politische Debatten über die Rolle von Politikern wie Gerhard Schröder zu erwarten."
+  },
+  {
+   "nr": 5,
+   "title": "Erhöhte Aufmerksamkeit für Kryptomärkte und Unternehmensgewinne",
+   "category": "Wirtschaft",
+   "horizon": "mittelfristig (2-4 Wochen)",
+   "level": "mittel",
+   "probability": 60,
+   "reason": "Der enorme Quartalsgewinn von 21 Milliarden US-Dollar des Finanzunternehmens Strategy durch Bitcoin-Investments war eine der wirtschaftlichen Schlagzeilen der Woche. Dies könnte ein Indikator für ein wiedererstarktes institutionelles Interesse an Krypto-Assets sein.",
+   "signal": "In der kommenden Woche könnten weitere Unternehmen oder Fonds über ähnlich hohe Gewinne aus Krypto-Investments berichten oder Finanzanalysten ihre Prognosen für den Kryptomarkt angesichts solcher Nachrichten anpassen."
   }
  ]
 }
