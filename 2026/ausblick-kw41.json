@@ -1,57 +1,57 @@
 {
  "label": "Kalenderwoche 42 / 2026",
- "generated_at": "11.10.2026, 12:51 Uhr",
+ "generated_at": "11.10.2026, 19:47 Uhr",
  "model": "deepseek-v3.2",
  "predictions": [
   {
    "nr": 1,
-   "title": "Politische Neuordnung in Spanien",
+   "title": "Konkretisierung der Koalitionsverhandlungen in Mecklenburg-Vorpommern",
    "category": "Politik",
-   "horizon": "mittelfristig (2-4 Wochen)",
+   "horizon": "kurzfristig (bis 1 Woche)",
    "level": "hoch",
-   "probability": 90,
-   "reason": "Die Ankündigung von Ministerpräsident Pedro Sanchez, vorgezogene Neuwahlen für Ende November anzusetzen, setzt einen klaren politischen Prozess in Gang.",
-   "signal": "In der kommenden Woche wäre eine Intensivierung des Wahlkampfes, die Bekanntgabe von Wahlprogrammen oder die Benennung von Spitzenkandidaten zu beobachten."
+   "probability": 80,
+   "reason": "Im Ausblick der Wochenzusammenfassung wird erwähnt, dass sich die angekündigte rot-rot-grüne Koalition in Mecklenburg-Vorpommern konkretisieren könnte. Dies deutet auf eine unmittelbar bevorstehende Phase der Verhandlungen oder der Bekanntgabe von Ergebnissen hin.",
+   "signal": "In der kommenden Woche wären offizielle Statements der beteiligten Parteien (SPD, Linke, Grüne) zu Koalitionsgesprächen, die Bildung von Arbeitsgruppen oder die Nennung eines möglichen Ministerpräsidenten zu beobachten."
   },
   {
    "nr": 2,
-   "title": "Sicherheitsüberprüfung kritischer Energieinfrastruktur",
+   "title": "Verschärfte Sicherheitsdebatte um kritische Infrastruktur in Europa",
    "category": "Sicherheit",
-   "horizon": "kurzfristig (bis 1 Woche)",
+   "horizon": "mittelfristig (2-4 Wochen)",
    "level": "hoch",
    "probability": 85,
-   "reason": "Die Aufdeckung, dass über 8500 Steuerungssysteme europäischer Wind- und Solarparks ungeschützt im Internet erreichbar sind, erfordert eine sofortige Reaktion von Betreibern und Aufsichtsbehörden.",
-   "signal": "Es könnten öffentliche Stellungnahmen von Behörden (wie dem BSI in Deutschland), Notfallpatches oder die Ankündigung von Sicherheitsaudits für Energieanlagen erfolgen."
+   "reason": "Die Meldung, dass über 8500 Steuerungssysteme europäischer Wind- und Solarparks ungeschützt im Internet erreichbar sind, stellt ein gravierendes Sicherheitsrisiko dar. In Kombination mit dem mutmaßlichen Cyberangriff auf Asos, der zu massiven Kursverlusten führte, wird der Druck auf Politik und Betreiber zunehmen.",
+   "signal": "Es wären Reaktionen von EU-Institutionen oder nationalen Regierungen (z. B. Bundesministerien für Wirtschaft oder Inneres), Ankündigungen von Sicherheitsüberprüfungen oder gesetzgeberischen Initiativen zu erwarten."
   },
   {
    "nr": 3,
-   "title": "Fortgesetzte Diskussion um KI-Regulierung und -Folgen",
-   "category": "KI / Technologie",
-   "horizon": "mittelfristig (2-4 Wochen)",
-   "level": "hoch",
-   "probability": 80,
-   "reason": "Die Einführung universeller und dauerhaft aktiver KI-Assistenten durch Google und die in der Zusammenfassung erwähnten Warnungen vor negativen Folgen werden die Debatte über Nutzen, Risiken und Regulierungsbedarf antreiben.",
-   "signal": "In der kommenden Woche könnten weitere kritische Berichte von Verbraucherschutzorganisationen, Stellungnahmen von Datenschutzbeauftragten oder Diskussionen auf politischer Ebene (EU, nationale Parlamente) zu dem Thema geführt werden."
-  },
-  {
-   "nr": 4,
-   "title": "Konsolidierung der SPÖ-Führung in Österreich",
-   "category": "Politik",
+   "title": "Fortgesetzte Eskalation im Nahen Osten mit weiteren Angriffen",
+   "category": "Sicherheit/Geopolitik",
    "horizon": "kurzfristig (bis 1 Woche)",
    "level": "mittel",
    "probability": 70,
-   "reason": "Nach dem Rückzug von Parteichef Andreas Babler und der Benennung einer neuen geschäftsführenden Parteispitze steht die SPÖ vor der Aufgabe, interne Machtkämpfe zu beenden und geschlossen aufzutreten.",
-   "signal": "In der kommenden Woche könnte die neue Führung erste inhaltliche Positionierungen vornehmen oder es könnten Meldungen über die weitere personelle Besetzung von Parteigremien erscheinen."
+   "reason": "Der Angriff der Huthi-Miliz auf den Flughafen von Riad mit Verletzten wird im Ausblick als \"bestimmendes Thema\" bezeichnet. Die Formulierung \"bleibt ... ein bestimmendes Thema\" und der Verweis auf \"weitere Angriffe\" deuten auf eine anhaltende Dynamik hin.",
+   "signal": "Meldungen über neue Raketen- oder Drohnenangriffe auf saudisches oder verbündetes Territorium sowie verschärfte diplomatische oder militärische Stellungnahmen der Konfliktparteien wären Indikatoren."
+  },
+  {
+   "nr": 4,
+   "title": "Beschleunigte Markteinführung von KI-Assistenten durch Konkurrenzdruck",
+   "category": "KI/Wirtschaft",
+   "horizon": "mittelfristig (2-4 Wochen)",
+   "level": "hoch",
+   "probability": 80,
+   "reason": "Googles Ankündigung, universelle und dauerhaft aktive KI-Assistenten einzuführen, setzt einen neuen Standard und treibt den im Trend beschriebenen Wettlauf um die Integration von KI in Alltagsanwendungen voran. Konkurrenten werden unter Druck stehen, nachzuziehen.",
+   "signal": "Es wären vergleichbare Ankündigungen oder Produktvorstellungen anderer großer Tech-Konzerne (z. B. Microsoft, Apple, Meta) zu KI-gestützten Alltagsassistenten zu beobachten."
   },
   {
    "nr": 5,
-   "title": "Verstärkte Fokusierung auf maritime Sicherheit und Migration",
-   "category": "Sicherheit / Politik",
+   "title": "Politische Turbulenzen in Österreich nach SPÖ-Führungswechsel",
+   "category": "Politik",
    "horizon": "mittelfristig (2-4 Wochen)",
    "level": "mittel",
    "probability": 65,
-   "reason": "Der Untergang eines Migrantenbootes vor Dschibuti mit über 100 Toten sowie die erwähnte Eskalation im Jemen (Angriff auf ein saudisches Kriegsschiff) rücken maritime Sicherheitsfragen und Migrationsrouten in den Fokus internationaler Politik.",
-   "signal": "Es könnten in der kommenden Woche Erklärungen oder Treffen von EU-Institutionen, der UNO oder betroffener regionaler Akteure zu diesen Themenkomplexen stattfinden."
+   "reason": "Der rasche Rückzug von SPÖ-Chef Babler und die umgehende Benennung einer neuen geschäftsführenden Parteispitze deuten auf ungelöste innere Spannungen hin. Solche abrupten Führungswechsel führen oft zu einer Phase der öffentlichen Profilsuche und internen Konsolidierung.",
+   "signal": "In den kommenden Wochen wären öffentliche Diskussionen über den künftigen Kurs der Partei, mögliche personelle Umbesetzungen oder Reaktionen aus dem Parteiumfeld (Jugendorganisation, Landesverbände) auf die neue Führung zu erwarten."
   }
  ]
 }
