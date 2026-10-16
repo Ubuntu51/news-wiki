@@ -7,11 +7,11 @@ body_class: home
 
 <div class="hero">
   <h1>📰 Nachrichten-Wiki</h1>
-  <p>Automatisch erzeugt aus den Tageszusammenfassungen. Zuletzt aktualisiert: 15.10.2026, 20:20 Uhr.</p>
+  <p>Automatisch erzeugt aus den Tageszusammenfassungen. Zuletzt aktualisiert: 16.10.2026, 10:59 Uhr.</p>
 </div>
 
 <div class="stats">
-  <div class="stat"><strong>122</strong><span>Tagesausgaben</span></div>
+  <div class="stat"><strong>123</strong><span>Tagesausgaben</span></div>
   <div class="stat"><strong>8</strong><span>Wochenausgaben</span></div>
   <div class="stat"><strong>2</strong><span>Monatsausgaben</span></div>
   <div class="stat"><strong>6</strong><span>Prognosen</span></div>
@@ -20,13 +20,13 @@ body_class: home
 
 <div class="card featured">
   <span class="tag">Neueste Zusammenfassung</span>
-  <a href="2026/10/2026-10-15_20-12.html">15.10.2026, 20:12 Uhr – Tageszusammenfassung</a>
+  <a href="2026/10/2026-10-16_10-59.html">16.10.2026, 10:59 Uhr – Tageszusammenfassung</a>
 </div>
 
 ## Tageszusammenfassungen
 
 <div class="card-grid">
-<div class="card"><span class="tag tag-day">Tage</span><a href="2026/10/index.html">Tageszusammenfassungen Oktober 2026 (29)</a></div>
+<div class="card"><span class="tag tag-day">Tage</span><a href="2026/10/index.html">Tageszusammenfassungen Oktober 2026 (30)</a></div>
 <div class="card"><span class="tag tag-day">Tage</span><a href="2026/09/index.html">Tageszusammenfassungen September 2026 (60)</a></div>
 <div class="card"><span class="tag tag-day">Tage</span><a href="2026/08/index.html">Tageszusammenfassungen August 2026 (33)</a></div>
 </div>
