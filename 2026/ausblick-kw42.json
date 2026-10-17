@@ -1,57 +1,57 @@
 {
  "label": "Kalenderwoche 43 / 2026",
- "generated_at": "17.10.2026, 10:25 Uhr",
+ "generated_at": "17.10.2026, 18:59 Uhr",
  "model": "deepseek-v3.2",
  "predictions": [
   {
    "nr": 1,
-   "title": "Eskalation der diplomatischen Spannungen zwischen den USA und europäischen Partnern",
-   "category": "Politik / Internationale Beziehungen",
+   "title": "Eskalation der Spannungen im Nahen Osten",
+   "category": "Sicherheit",
    "horizon": "kurzfristig (bis 1 Woche)",
    "level": "hoch",
    "probability": 80,
-   "reason": "Die Aussetzung von Sanktionen gegen Russland durch US-Präsident Trump hat bereits \"internationale Verwerfungen\" ausgelöst und stellt die westliche Unterstützung für die Ukraine infrage. Der Ausblick der Zusammenfassung nennt dies als prägend für die internationale Agenda.",
-   "signal": "Es wären öffentliche, kritische Stellungnahmen von EU- oder NATO-Partnern, außerordentliche diplomatische Konsultationen oder eine deutliche Verschärfung der Rhetorik zwischen Washington und europäischen Hauptstädten zu erwarten."
+   "reason": "Der mutmaßliche Angriff auf einen Tanker im Golf von Oman und der physische Angriff israelischer Siedler auf EU-Diplomaten im Westjordanland deuten auf eine akute Zuspitzung der Lage hin. Solche Vorfälle haben in der Vergangenheit oft zu weiteren Vergeltungsmaßnahmen oder diplomatischen Krisen geführt.",
+   "signal": "In der kommenden Woche wäre zu beobachten, ob es weitere maritime Zwischenfälle im Golf von Oman gibt oder ob diplomatische Proteste und Gegenmaßnahmen der EU bzw. Israels auf den Angriff auf ihre Delegation folgen."
   },
   {
    "nr": 2,
-   "title": "Verstärkte Warnungen und Gegenmaßnahmen zu Cybersicherheitslücken",
-   "category": "Sicherheit / Technologie",
+   "title": "Verstärkte Cyberangriffe auf kritische Infrastruktur",
+   "category": "Cybersicherheit",
    "horizon": "kurzfristig (bis 1 Woche)",
    "level": "hoch",
-   "probability": 90,
-   "reason": "Die angespannte Cybersicherheitslage mit konkreten Vorfällen bei Microsoft-Exchange und aktiven Angriffen auf alte Lücken wurde hervorgehoben. Der Ausblick prognostiziert, dass die technische Aufarbeitung weitere Details liefern wird.",
-   "signal": "Es sind weitere Warnungen oder Handlungsempfehlungen von Behörden wie dem BSI oder CISA sowie detaillierte Incident-Reports von Microsoft zu den Exchange-Ausfällen wahrscheinlich. Unternehmen könnten zu besonderer Wachsamkeit aufgerufen werden."
+   "probability": 85,
+   "reason": "Die konkrete Warnung des deutschen Bundesamts für Sicherheit in der Informationstechnik (BSI) vor schwerwiegenden Angriffen auf kleine vernetzte Anlagen sowie die Berichte über konkrete Vorfälle nach Microsoft-Updates zeigen eine akute und gezielte Bedrohungslage auf.",
+   "signal": "Es wäre zu erwarten, dass in Kalenderwoche 43 weitere Cybervorfälle bei kleinen und mittleren Unternehmen oder kritischen Infrastrukturbetreibern öffentlich werden oder dass das BSI und andere Behörden neue Warnungen oder Handlungsempfehlungen herausgeben."
   },
   {
    "nr": 3,
-   "title": "Fortschritte oder weitere Verzögerungen bei der EU-Entscheidung über Ukraine-Hilfen",
-   "category": "Politik / Wirtschaft",
+   "title": "Fortdauer schwieriger Regierungsbildung in Deutschland",
+   "category": "Politik (national)",
    "horizon": "mittelfristig (2-4 Wochen)",
-   "level": "mittel",
-   "probability": 60,
-   "reason": "Die Diskussion um finanzielle Hilfen für die Ukraine auf EU-Ebene wurde als laufender Trend genannt und dürfte durch die US-Kurskorrektur zusätzliche Dringlichkeit erhalten, da europäische Unterstützung an Bedeutung gewinnt.",
-   "signal": "Es könnten konkrete Verhandlungsrunden, Statements von EU-Spitzenpolitikern oder vorläufige Einigungen über Hilfspakete in der kommenden Woche anvisiert oder bekannt gegeben werden."
+   "level": "hoch",
+   "probability": 90,
+   "reason": "Die Unterbrechung der politischen Gespräche zwischen Bündnis 90/Die Grünen, der SPD und der Linkspartei in Berlin deutet auf erhebliche inhaltliche oder strategische Hindernisse hin. Solche Unterbrechungen verlängern üblicherweise den Prozess der Regierungsbildung.",
+   "signal": "In der kommenden Woche wäre zu beobachten, ob es öffentliche Statements der beteiligten Parteien gibt, die auf eine Wiederaufnahme, einen endgültigen Abbruch oder die Suche nach neuen Koalitionsoptionen hindeuten."
   },
   {
    "nr": 4,
-   "title": "Positive Impulse und Diskussionen im Elektromobilitätssektor",
-   "category": "Wirtschaft / Mobilität",
-   "horizon": "mittelfristig (2-4 Wochen)",
-   "level": "hoch",
-   "probability": 75,
-   "reason": "Der Trend zur Elektrifizierung wurde durch steigende Absatzzahlen (BMW) und neue Konzeptfahrzeuge (Renault E-Space) bestätigt. Die politische Debatte um das EU-Verbrenner-Aus wurde als weitergehend erwähnt.",
-   "signal": "Weitere positive Quartalszahlen anderer Hersteller, Reaktionen auf den Renault E-Space und/oder Fortsetzungen der fachpolitischen Debatte zum Verbrenneraus auf EU- oder nationaler Ebene wären Indikatoren."
-  },
-  {
-   "nr": 5,
-   "title": "Erste regulatorische oder marktrelevante Schritte zur Bankenfusion",
+   "title": "Verstärkte Debatte über wirtschaftliche Risiken in der Eurozone",
    "category": "Wirtschaft",
    "horizon": "mittelfristig (2-4 Wochen)",
    "level": "mittel",
-   "probability": 50,
-   "reason": "Die Genehmigung der Übernahme der Commerzbank durch UniCredit durch die EZB ist ein bedeutender, abgeschlossener Schritt. In der Folgephase sind typischerweise nächste Schritte im Fusionsprozess zu erwarten.",
-   "signal": "Meldungen über konkrete Integrationspläne, erste Stellungnahmen der Aufsicht zu weiteren Bedingungen oder Reaktionen der Finanzmärkte und Ratingagenturen auf die vollzogene Genehmigung könnten folgen."
+   "probability": 70,
+   "reason": "Die Warnung der EZB-Chefin Christine Lagarde, dass steigende langfristige Zinsen das Wirtschaftswachstum bremsen, sowie die erwähnten Proteste in Frankreich gegen hohe Lebenshaltungskosten werden die wirtschaftspolitische Diskussion auf EU- und nationaler Ebene dominieren.",
+   "signal": "In Kalenderwoche 43 könnten weitere wirtschaftliche Warnungen von EU-Institutionen oder nationalen Zentralbanken folgen. Zudem wäre ein Fortdauern oder Ausweiten sozialer Proteste in mehreren EU-Ländern ein Indiz."
+  },
+  {
+   "nr": 5,
+   "title": "Intensivierung der EU-Debatte über Ukraine-Hilfen",
+   "category": "Politik (international/EU)",
+   "horizon": "kurzfristig (bis 1 Woche)",
+   "level": "hoch",
+   "probability": 85,
+   "reason": "Die Verhängung neuer Rekordsanktionen gegen Russland in KW 42 und die Ankündigung, dass die Diskussionen über weitere finanzielle Unterstützung für die Ukraine auf dem EU-Gipfel fortgesetzt werden, zeigen, dass das Thema ganz oben auf der Agenda steht.",
+   "signal": "In der kommenden Woche wäre zu beobachten, ob es vor oder nach dem EU-Gipfel konkrete Vorschläge, Verpflichtungen oder auch öffentliche Dissense zwischen Mitgliedsstaaten bezüglich der Finanzierung weiterer Hilfen für die Ukraine gibt."
   }
  ]
 }
