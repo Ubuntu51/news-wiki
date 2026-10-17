@@ -1,0 +1,60 @@
+{
+ "label": "Kalenderwoche 42 / 2026",
+ "checked_at": "17.10.2026, 10:25 Uhr",
+ "model": "deepseek-v3.2",
+ "score": 0.5,
+ "counted": 5,
+ "rate": 10,
+ "items": [
+  {
+   "nr": 1,
+   "title": "Konkretisierung der Koalitionsverhandlungen in Mecklenburg-Vorpommern",
+   "category": "Politik",
+   "horizon": "kurzfristig (bis 1 Woche)",
+   "level": "hoch",
+   "probability": 80,
+   "status": "nicht_eingetroffen",
+   "evidence": "Die Monatszusammenfassung erwähnt keine Konkretisierung der Koalitionsverhandlungen in Mecklenburg-Vorpommern, sondern berichtet von ins Stocken geratenen Regierungsgesprächen auf Bundesebene."
+  },
+  {
+   "nr": 2,
+   "title": "Verschärfte Sicherheitsdebatte um kritische Infrastruktur in Europa",
+   "category": "Sicherheit",
+   "horizon": "mittelfristig (2-4 Wochen)",
+   "level": "hoch",
+   "probability": 85,
+   "status": "teilweise",
+   "evidence": "Die Zusammenfassung berichtet von Warnungen vor alten Softwarelücken und einer konkreten Panne bei Microsoft-Exchange, jedoch nicht von spezifischen Reaktionen auf ungeschützte Steuerungssysteme von Wind- und Solarparks."
+  },
+  {
+   "nr": 3,
+   "title": "Fortgesetzte Eskalation im Nahen Osten mit weiteren Angriffen",
+   "category": "Sicherheit/Geopolitik",
+   "horizon": "kurzfristig (bis 1 Woche)",
+   "level": "mittel",
+   "probability": 70,
+   "status": "nicht_eingetroffen",
+   "evidence": "Die Zusammenfassung erwähnt einen russischen Drohnenangriff auf Kiew, jedoch keine weiteren Angriffe oder Eskalationen im Nahen Osten, insbesondere nicht durch die Huthi-Miliz."
+  },
+  {
+   "nr": 4,
+   "title": "Beschleunigte Markteinführung von KI-Assistenten durch Konkurrenzdruck",
+   "category": "KI/Wirtschaft",
+   "horizon": "mittelfristig (2-4 Wochen)",
+   "level": "hoch",
+   "probability": 80,
+   "status": "nicht_eingetroffen",
+   "evidence": "Die Zusammenfassung enthält keine Meldungen über beschleunigte Markteinführungen oder neue Ankündigungen von KI-Assistenten durch Tech-Konzerne."
+  },
+  {
+   "nr": 5,
+   "title": "Politische Turbulenzen in Österreich nach SPÖ-Führungswechsel",
+   "category": "Politik",
+   "horizon": "mittelfristig (2-4 Wochen)",
+   "level": "mittel",
+   "probability": 65,
+   "status": "nicht_eingetroffen",
+   "evidence": "Die Zusammenfassung enthält keine Meldungen über politische Turbulenzen oder öffentliche Diskussionen in Österreich nach einem SPÖ-Führungswechsel."
+  }
+ ]
+}

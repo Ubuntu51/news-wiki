@@ -1,0 +1,57 @@
+{
+ "label": "Kalenderwoche 43 / 2026",
+ "generated_at": "17.10.2026, 10:25 Uhr",
+ "model": "deepseek-v3.2",
+ "predictions": [
+  {
+   "nr": 1,
+   "title": "Eskalation der diplomatischen Spannungen zwischen den USA und europäischen Partnern",
+   "category": "Politik / Internationale Beziehungen",
+   "horizon": "kurzfristig (bis 1 Woche)",
+   "level": "hoch",
+   "probability": 80,
+   "reason": "Die Aussetzung von Sanktionen gegen Russland durch US-Präsident Trump hat bereits \"internationale Verwerfungen\" ausgelöst und stellt die westliche Unterstützung für die Ukraine infrage. Der Ausblick der Zusammenfassung nennt dies als prägend für die internationale Agenda.",
+   "signal": "Es wären öffentliche, kritische Stellungnahmen von EU- oder NATO-Partnern, außerordentliche diplomatische Konsultationen oder eine deutliche Verschärfung der Rhetorik zwischen Washington und europäischen Hauptstädten zu erwarten."
+  },
+  {
+   "nr": 2,
+   "title": "Verstärkte Warnungen und Gegenmaßnahmen zu Cybersicherheitslücken",
+   "category": "Sicherheit / Technologie",
+   "horizon": "kurzfristig (bis 1 Woche)",
+   "level": "hoch",
+   "probability": 90,
+   "reason": "Die angespannte Cybersicherheitslage mit konkreten Vorfällen bei Microsoft-Exchange und aktiven Angriffen auf alte Lücken wurde hervorgehoben. Der Ausblick prognostiziert, dass die technische Aufarbeitung weitere Details liefern wird.",
+   "signal": "Es sind weitere Warnungen oder Handlungsempfehlungen von Behörden wie dem BSI oder CISA sowie detaillierte Incident-Reports von Microsoft zu den Exchange-Ausfällen wahrscheinlich. Unternehmen könnten zu besonderer Wachsamkeit aufgerufen werden."
+  },
+  {
+   "nr": 3,
+   "title": "Fortschritte oder weitere Verzögerungen bei der EU-Entscheidung über Ukraine-Hilfen",
+   "category": "Politik / Wirtschaft",
+   "horizon": "mittelfristig (2-4 Wochen)",
+   "level": "mittel",
+   "probability": 60,
+   "reason": "Die Diskussion um finanzielle Hilfen für die Ukraine auf EU-Ebene wurde als laufender Trend genannt und dürfte durch die US-Kurskorrektur zusätzliche Dringlichkeit erhalten, da europäische Unterstützung an Bedeutung gewinnt.",
+   "signal": "Es könnten konkrete Verhandlungsrunden, Statements von EU-Spitzenpolitikern oder vorläufige Einigungen über Hilfspakete in der kommenden Woche anvisiert oder bekannt gegeben werden."
+  },
+  {
+   "nr": 4,
+   "title": "Positive Impulse und Diskussionen im Elektromobilitätssektor",
+   "category": "Wirtschaft / Mobilität",
+   "horizon": "mittelfristig (2-4 Wochen)",
+   "level": "hoch",
+   "probability": 75,
+   "reason": "Der Trend zur Elektrifizierung wurde durch steigende Absatzzahlen (BMW) und neue Konzeptfahrzeuge (Renault E-Space) bestätigt. Die politische Debatte um das EU-Verbrenner-Aus wurde als weitergehend erwähnt.",
+   "signal": "Weitere positive Quartalszahlen anderer Hersteller, Reaktionen auf den Renault E-Space und/oder Fortsetzungen der fachpolitischen Debatte zum Verbrenneraus auf EU- oder nationaler Ebene wären Indikatoren."
+  },
+  {
+   "nr": 5,
+   "title": "Erste regulatorische oder marktrelevante Schritte zur Bankenfusion",
+   "category": "Wirtschaft",
+   "horizon": "mittelfristig (2-4 Wochen)",
+   "level": "mittel",
+   "probability": 50,
+   "reason": "Die Genehmigung der Übernahme der Commerzbank durch UniCredit durch die EZB ist ein bedeutender, abgeschlossener Schritt. In der Folgephase sind typischerweise nächste Schritte im Fusionsprozess zu erwarten.",
+   "signal": "Meldungen über konkrete Integrationspläne, erste Stellungnahmen der Aufsicht zu weiteren Bedingungen oder Reaktionen der Finanzmärkte und Ratingagenturen auf die vollzogene Genehmigung könnten folgen."
+  }
+ ]
+}
