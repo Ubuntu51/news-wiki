@@ -8,6 +8,7 @@ Informationen gemäß Art. 13 und 14 DSGVO (Datenschutz-Grundverordnung) und
 Alois Tiefenbrunner
 
 6060 Hall in Tirol
+
 Österreich  
 E-Mail: dokuwiki@linuxat.de
 
