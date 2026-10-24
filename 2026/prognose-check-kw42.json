@@ -1,0 +1,60 @@
+{
+ "label": "Kalenderwoche 43 / 2026",
+ "checked_at": "24.10.2026, 10:48 Uhr",
+ "model": "deepseek-v3.2",
+ "score": 2.0,
+ "counted": 5,
+ "rate": 40,
+ "items": [
+  {
+   "nr": 1,
+   "title": "Verstärkte diplomatische Spannungen im Nahost-Konflikt",
+   "category": "Politik / Internationale Sicherheit",
+   "horizon": "kurzfristig (bis 1 Woche)",
+   "level": "hoch",
+   "probability": 80,
+   "status": "eingetroffen",
+   "evidence": "Die Lage im Nahen Osten spitzte sich nach einer Abriegelung Hebrons weiter zu, was auf eine Eskalation hindeutet."
+  },
+  {
+   "nr": 2,
+   "title": "Zunehmende Cyberangriffe durch Ausnutzung bekannter Schwachstellen",
+   "category": "Sicherheit / Technologie",
+   "horizon": "kurzfristig (bis 1 Woche)",
+   "level": "hoch",
+   "probability": 90,
+   "status": "eingetroffen",
+   "evidence": "Sämtliche PHP-Versionen der letzten 20 Jahre sind durch zwei kritische Sicherheitslücken gefährdet, was die Warnungen vor Angriffen auf bekannte Schwachstellen bestätigt."
+  },
+  {
+   "nr": 3,
+   "title": "Fortgesetzte technische Probleme und Untersuchungen bei Microsoft-Produkten",
+   "category": "Technologie / Sicherheit",
+   "horizon": "kurzfristig (bis 1 Woche)",
+   "level": "hoch",
+   "probability": 85,
+   "status": "nicht_eingetroffen",
+   "evidence": "In der Zusammenfassung werden keine technischen Probleme oder Untersuchungen bei Microsoft-Produkten erwähnt."
+  },
+  {
+   "nr": 4,
+   "title": "Intensive Debatten über EU-Finanzhilfen für die Ukraine",
+   "category": "Politik / Wirtschaft",
+   "horizon": "kurzfristig (bis 1 Woche)",
+   "level": "hoch",
+   "probability": 95,
+   "status": "nicht_eingetroffen",
+   "evidence": "Die Zusammenfassung enthält keine Berichte über intensive Debatten oder einen EU-Gipfel zu Finanzhilfen für die Ukraine."
+  },
+  {
+   "nr": 5,
+   "title": "Vorbereitungen und erste öffentliche Positionierungen zur Herbstlohnrunde",
+   "category": "Wirtschaft",
+   "horizon": "mittelfristig (2-4 Wochen)",
+   "level": "mittel",
+   "probability": 70,
+   "status": "nicht_eingetroffen",
+   "evidence": "Die Zusammenfassung erwähnt keine Vorbereitungen, Forderungen oder Positionierungen zur Herbstlohnrunde in Deutschland oder Österreich."
+  }
+ ]
+}
