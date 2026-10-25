@@ -28,7 +28,7 @@ body_class: prognose
 ## Nach Woche
 
 <div class="card-grid">
-<div class="card"><span class="tag tag-week">Woche</span><a href="2026/ausblick-kw43.html">Wochenausblick KW 43 2026 (4 Prognosen)</a></div>
+<div class="card"><span class="tag tag-week">Woche</span><a href="2026/ausblick-kw43.html">Wochenausblick KW 43 2026 (5 Prognosen)</a></div>
 <div class="card"><span class="tag tag-week">Woche</span><a href="2026/ausblick-kw42.html">Wochenausblick KW 42 2026 (5 Prognosen)</a></div>
 <div class="card"><span class="tag tag-check">Check</span><a href="2026/prognose-check-kw42.html">Prognose-Check Kalenderwoche 43 / 2026 – 40 %</a></div>
 <div class="card"><span class="tag tag-week">Woche</span><a href="2026/ausblick-kw41.html">Wochenausblick KW 41 2026 (5 Prognosen)</a></div>
