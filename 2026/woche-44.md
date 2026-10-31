@@ -6,22 +6,22 @@ title: "Wochenzusammenfassung Kalenderwoche 44 / 2026"
 
 # Wochenzusammenfassung – Kalenderwoche 44 / 2026
 
-> **Stand:** 31.10.2026, 11:20 Uhr · **Modell:** deepseek-v3.2
+> **Stand:** 31.10.2026, 19:24 Uhr · **Modell:** deepseek-v3.2
 
 # Wochenüberblick
-Die internationale Sicherheitslage war durch mehrere militärische Vorfälle und einen schwerwiegenden Cyberangriff belastet. Gleichzeitig erreichten die europäischen Energiemärkte mit einem Gaspreis über 100 Euro je Megawattstunde einen neuen Höchststand. Die Wirtschaft war von konflikthaften internationalen Beziehungen und einem historischen Hackerangriff auf die Kryptobörse Binance geprägt.
+Die internationale Politik war von scharfen Vorwürfen gegen Russland und ungewöhnlichen Personalvorschlägen bestimmt. Parallel erreichten die europäischen Gaspreise ein neues Hoch und verunsicherten die Energiemärkte. Die Woche endete mit einem beispiellosen Cyberangriff auf die Finanzwelt und politischen Machtkämpfen in Europa.
 
 ## ⭐ Wichtigste Themen
-- Die Vereinten Nationen werfen Russland vor, Kälte als Kriegswaffe gegen die ukrainische Zivilbevölkerung eingesetzt zu haben.
-- Der europäische Gaspreis stieg erstmals seit 2022 wieder über 100 Euro pro Megawattstunde.
-- Die Kryptobörse Binance wurde Opfer eines Milliarden-Hacks, der zu massiven Abflüssen führte.
-- Bei einem erneuten US-Angriff auf ein Boot im Pazifik kamen fünf Menschen ums Leben.
-- Die Universität Leipzig bleibt nach einem Cyberangriff mit zahlreichen offline geschalteten IT-Diensten stark beeinträchtigt.
-- Die Parlamentswahl in Israel deutet auf ein Patt hin, während arabische Parteien ihre Unterstützung anbieten.
-- Die Europäische Zentralbank hat ihren Leitzins bei 2,5 Prozent belassen.
+- Ein UN-Bericht wirft Russland vor, Kälte gezielt als Kriegswaffe gegen die ukrainische Zivilbevölkerung eingesetzt zu haben.
+- US-Präsident Donald Trump schlug überraschend Viktor Orbán als nächsten UN-Generalsekretär vor.
+- Der europäische Gaspreis überschritt erstmals seit 2022 wieder die Marke von 100 Euro pro Megawattstunde.
+- Die Kryptobörse Binance wurde Opfer des größten Hacks aller Zeiten, was zu Milliardenabflüssen führte.
+- Die Berliner Linke stimmte für Koalitionsgespräche mit SPD und Grünen und ermöglicht so eine neue Landesregierung.
+- In Polen eskalierte der Machtkampf zwischen Regierung und Opposition um die Kontrolle des Verfassungsgerichts.
+- Bei einem schweren Zugunglück in Spanien kamen mehr als 60 Menschen ums Leben.
 
 ## Entwicklungen & Trends
-Die geopolitischen Spannungen manifestierten sich in direkten Konflikten, wie dem US-Angriff im Pazifik, und diplomatischen Verwerfungen, etwa der Ausweisung einer österreichischen Delegation aus Moskau. Im Energiesektor setzte sich der Aufwärtstrend bei den Gaspreisen fort und erreichte einen symbolisch wichtigen Schwellenwert. Cybervorfälle entwickelten sich zu einem durchgängigen Thema, das sowohl kritische Infrastruktur wie eine Universität als auch einen globalen Finanzakteur massiv traf.
+Die geopolitischen Spannungen blieben hoch, wobei der UN-Vorwurf an Russland und der grundsätzliche Streit über den Umgang mit Moskau auf dem G20-Gipfel dies verdeutlichten. Auf den Energiemärkten setzte sich der Aufwärtstrend bei den Gaspreisen fort, begleitet von geldpolitischer Zurückhaltung seitens der EZB und der US-Notenbank. Der massive Cyberangriff auf Binance dominierte gegen Wochenende die Finanznachrichten und offenbarte die anhaltende Verwundbarkeit kritischer Infrastrukturen, ein Thema, das sich auch beim IT-Sicherheitswarnungen und dem Angriff auf die Universität Leipzig zeigte.
 
 ## Ausblick
-Die politischen Verhandlungen zur Regierungsbildung in Israel werden nach dem knappen Wahlergebnis in der kommenden Woche weitergehen. Die anhaltenden Auswirkungen des Binance-Hacks auf die Kryptomärkte und die Untersuchungen zum Vorfall werden die Finanznachrichten dominieren.
+Die Koalitionsverhandlungen in Berlin werden nun konkret aufgenommen, während der Machtkampf in Polen weiter eskalieren könnte. Die Folgen des Binance-Hacks werden die regulatorische Debatte um Kryptomärkte neu befeuern.
