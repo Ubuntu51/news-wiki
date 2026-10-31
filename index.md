@@ -7,26 +7,26 @@ body_class: home
 
 <div class="hero">
   <h1>📰 Nachrichten-Wiki</h1>
-  <p>Automatisch erzeugt aus den Tageszusammenfassungen. Zuletzt aktualisiert: 30.10.2026, 20:10 Uhr.</p>
+  <p>Automatisch erzeugt aus den Tageszusammenfassungen. Zuletzt aktualisiert: 31.10.2026, 11:21 Uhr.</p>
 </div>
 
 <div class="stats">
-  <div class="stat"><strong>152</strong><span>Tagesausgaben</span></div>
-  <div class="stat"><strong>10</strong><span>Wochenausgaben</span></div>
-  <div class="stat"><strong>2</strong><span>Monatsausgaben</span></div>
-  <div class="stat"><strong>8</strong><span>Prognosen</span></div>
-  <div class="stat"><strong>30 %</strong><span>Trefferquote</span></div>
+  <div class="stat"><strong>153</strong><span>Tagesausgaben</span></div>
+  <div class="stat"><strong>11</strong><span>Wochenausgaben</span></div>
+  <div class="stat"><strong>3</strong><span>Monatsausgaben</span></div>
+  <div class="stat"><strong>10</strong><span>Prognosen</span></div>
+  <div class="stat"><strong>33 %</strong><span>Trefferquote</span></div>
 </div>
 
 <div class="card featured">
   <span class="tag">Neueste Zusammenfassung</span>
-  <a href="2026/10/2026-10-30_20-06.html">30.10.2026, 20:06 Uhr – Tageszusammenfassung</a>
+  <a href="2026/10/2026-10-31_11-19.html">31.10.2026, 11:19 Uhr – Tageszusammenfassung</a>
 </div>
 
 ## Tageszusammenfassungen
 
 <div class="card-grid">
-<div class="card"><span class="tag tag-day">Tage</span><a href="2026/10/index.html">Tageszusammenfassungen Oktober 2026 (59)</a></div>
+<div class="card"><span class="tag tag-day">Tage</span><a href="2026/10/index.html">Tageszusammenfassungen Oktober 2026 (60)</a></div>
 <div class="card"><span class="tag tag-day">Tage</span><a href="2026/09/index.html">Tageszusammenfassungen September 2026 (60)</a></div>
 <div class="card"><span class="tag tag-day">Tage</span><a href="2026/08/index.html">Tageszusammenfassungen August 2026 (33)</a></div>
 </div>
@@ -34,6 +34,7 @@ body_class: home
 ## Wochenzusammenfassungen
 
 <div class="card-grid">
+<div class="card"><span class="tag tag-week">Woche</span><a href="2026/woche-44.html">Kalenderwoche 44 2026</a></div>
 <div class="card"><span class="tag tag-week">Woche</span><a href="2026/woche-43.html">Kalenderwoche 43 2026</a></div>
 <div class="card"><span class="tag tag-week">Woche</span><a href="2026/woche-42.html">Kalenderwoche 42 2026</a></div>
 <div class="card"><span class="tag tag-week">Woche</span><a href="2026/woche-41.html">Kalenderwoche 41 2026</a></div>
@@ -49,6 +50,7 @@ body_class: home
 ## Monatszusammenfassungen
 
 <div class="card-grid">
+<div class="card"><span class="tag tag-month">Monat</span><a href="2026/10/monat.html">Monatszusammenfassung Oktober 2026</a></div>
 <div class="card"><span class="tag tag-month">Monat</span><a href="2026/09/monat.html">Monatszusammenfassung September 2026</a></div>
 <div class="card"><span class="tag tag-month">Monat</span><a href="2026/08/monat.html">Monatszusammenfassung August 2026</a></div>
 </div>
@@ -57,8 +59,10 @@ body_class: home
 
 <div class="card-grid">
 <div class="card"><span class="tag tag-outlook">Übersicht</span><a href="prognose.html">Alle Zukunftsprognosen</a></div>
+<div class="card"><span class="tag tag-outlook">Prognose</span><a href="2026/10/ausblick.html">Zukunftsprognose Oktober 2026</a></div>
 <div class="card"><span class="tag tag-outlook">Prognose</span><a href="2026/09/ausblick.html">Zukunftsprognose September 2026</a></div>
 <div class="card"><span class="tag tag-outlook">Prognose</span><a href="2026/08/ausblick.html">Zukunftsprognose August 2026</a></div>
+<div class="card"><span class="tag tag-week">Woche</span><a href="2026/ausblick-kw44.html">Wochenausblick KW 44 2026</a></div>
 <div class="card"><span class="tag tag-week">Woche</span><a href="2026/ausblick-kw43.html">Wochenausblick KW 43 2026</a></div>
 <div class="card"><span class="tag tag-week">Woche</span><a href="2026/ausblick-kw42.html">Wochenausblick KW 42 2026</a></div>
 <div class="card"><span class="tag tag-week">Woche</span><a href="2026/ausblick-kw41.html">Wochenausblick KW 41 2026</a></div>

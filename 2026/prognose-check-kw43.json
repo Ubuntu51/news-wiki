@@ -1,0 +1,60 @@
+{
+ "label": "Kalenderwoche 44 / 2026",
+ "checked_at": "31.10.2026, 11:20 Uhr",
+ "model": "deepseek-v3.2",
+ "score": 1.0,
+ "counted": 5,
+ "rate": 20,
+ "items": [
+  {
+   "nr": 1,
+   "title": "Fortsetzung und Eskalation der Massenproteste in Frankreich",
+   "category": "Politik / Innere Sicherheit",
+   "horizon": "kurzfristig (bis 1 Woche)",
+   "level": "hoch",
+   "probability": 80,
+   "status": "nicht_eingetroffen",
+   "evidence": "Die Monatszusammenfassung erwähnt keine Massenproteste oder innenpolitische Konfrontationen in Frankreich."
+  },
+  {
+   "nr": 2,
+   "title": "Zuspitzung der militärischen Lage im Westjordanland",
+   "category": "Internationale Sicherheit / Konflikte",
+   "horizon": "kurzfristig (bis 1 Woche)",
+   "level": "hoch",
+   "probability": 75,
+   "status": "nicht_eingetroffen",
+   "evidence": "Die Zusammenfassung berichtet nicht von einer Zuspitzung im Westjordanland, sondern von einem US-Angriff im Pazifik und der Parlamentswahl in Israel."
+  },
+  {
+   "nr": 3,
+   "title": "Intensivierte Bemühungen zur Behebung der PHP-Sicherheitslücke",
+   "category": "IT-Sicherheit / Wirtschaft",
+   "horizon": "mittelfristig (2-4 Wochen)",
+   "level": "hoch",
+   "probability": 90,
+   "status": "teilweise",
+   "evidence": "Cybervorfälle waren ein durchgängiges Thema, speziell der Binance-Hack und ein Angriff auf die Universität Leipzig, die konkrete PHP-Sicherheitslücke 'php2shell' wird nicht erwähnt."
+  },
+  {
+   "nr": 4,
+   "title": "Fortschritte bei den Berliner Koalitionsgesprächen",
+   "category": "Politik (Innenpolitik Deutschland)",
+   "horizon": "mittelfristig (2-4 Wochen)",
+   "level": "mittel",
+   "probability": 60,
+   "status": "nicht_eingetroffen",
+   "evidence": "Die Zusammenfassung enthält keine Informationen zu Berliner Koalitionsgesprächen oder der deutschen Innenpolitik."
+  },
+  {
+   "nr": 5,
+   "title": "Anhaltende Volatilität an den Finanzmärkten, insbesondere im Technologie-Sektor",
+   "category": "Wirtschaft / Finanzmärkte",
+   "horizon": "kurzfristig (bis 1 Woche)",
+   "level": "mittel",
+   "probability": 65,
+   "status": "teilweise",
+   "evidence": "Die Finanzmärkte waren durch den Milliarden-Hack auf Binance belastet, eine spezifische Volatilität im Technologie-Sektor oder ein Ausverkauf bei KI-Werten wird nicht berichtet."
+  }
+ ]
+}

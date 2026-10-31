@@ -14,13 +14,15 @@ body_class: prognose
 
 ## 📊 Prognose-Bilanz
 
-- **Trefferquote gesamt:** 9 von 30 (30 %) (aus 6 geprüften Zeiträumen)
-- ✅ eingetroffen: 7 · 🟡 teilweise: 4 · ❌ nicht eingetroffen: 19 · ⏳ offen: 2
+- **Trefferquote gesamt:** 13 von 39 (33 %) (aus 8 geprüften Zeiträumen)
+- ✅ eingetroffen: 9 · 🟡 teilweise: 8 · ❌ nicht eingetroffen: 22 · ⏳ offen: 3
 
 ## Nach Monat
 
 <div class="card-grid">
+<div class="card"><span class="tag tag-outlook">Prognose</span><a href="2026/10/ausblick.html">Zukunftsprognose Oktober 2026 (7 Prognosen)</a></div>
 <div class="card"><span class="tag tag-outlook">Prognose</span><a href="2026/09/ausblick.html">Zukunftsprognose September 2026 (5 Prognosen)</a></div>
+<div class="card"><span class="tag tag-check">Check</span><a href="2026/09/prognose-check.html">Prognose-Check Oktober 2026 – 75 %</a></div>
 <div class="card"><span class="tag tag-outlook">Prognose</span><a href="2026/08/ausblick.html">Zukunftsprognose August 2026 (7 Prognosen)</a></div>
 <div class="card"><span class="tag tag-check">Check</span><a href="2026/08/prognose-check.html">Prognose-Check September 2026 – 40 %</a></div>
 </div>
@@ -28,7 +30,9 @@ body_class: prognose
 ## Nach Woche
 
 <div class="card-grid">
+<div class="card"><span class="tag tag-week">Woche</span><a href="2026/ausblick-kw44.html">Wochenausblick KW 44 2026 (5 Prognosen)</a></div>
 <div class="card"><span class="tag tag-week">Woche</span><a href="2026/ausblick-kw43.html">Wochenausblick KW 43 2026 (5 Prognosen)</a></div>
+<div class="card"><span class="tag tag-check">Check</span><a href="2026/prognose-check-kw43.html">Prognose-Check Kalenderwoche 44 / 2026 – 20 %</a></div>
 <div class="card"><span class="tag tag-week">Woche</span><a href="2026/ausblick-kw42.html">Wochenausblick KW 42 2026 (5 Prognosen)</a></div>
 <div class="card"><span class="tag tag-check">Check</span><a href="2026/prognose-check-kw42.html">Prognose-Check Kalenderwoche 43 / 2026 – 40 %</a></div>
 <div class="card"><span class="tag tag-week">Woche</span><a href="2026/ausblick-kw41.html">Wochenausblick KW 41 2026 (5 Prognosen)</a></div>

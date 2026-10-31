@@ -1,0 +1,60 @@
+{
+ "label": "Oktober 2026",
+ "checked_at": "31.10.2026, 11:19 Uhr",
+ "model": "deepseek-v3.2",
+ "score": 3.0,
+ "counted": 4,
+ "rate": 75,
+ "items": [
+  {
+   "nr": 1,
+   "title": "Eskalation der diplomatischen und militärischen Spannungen mit Russland",
+   "category": "Politik / Sicherheit",
+   "horizon": "mittelfristig (2-3 Monate)",
+   "level": "hoch",
+   "probability": 80,
+   "status": "eingetroffen",
+   "evidence": "Russische Drohnenangriffe auf Kiew und diplomatische Spannungen auf EU- und G-7-Ebene werden als zentrales Thema beschrieben."
+  },
+  {
+   "nr": 2,
+   "title": "Verschärfung der innenpolitischen Polarisierung und Proteste",
+   "category": "Politik",
+   "horizon": "kurzfristig (bis 1 Monat)",
+   "level": "hoch",
+   "probability": 90,
+   "status": "teilweise",
+   "evidence": "Massive Proteste in Frankreich gegen hohe Lebenshaltungskosten mit Ausschreitungen werden berichtet, jedoch nicht explizit zur innenpolitischen Polarisierung in Deutschland."
+  },
+  {
+   "nr": 3,
+   "title": "Zunahme und Intensivierung schwerer Cyberangriffe",
+   "category": "Sicherheit / Digitales",
+   "horizon": "mittelfristig (2-3 Monate)",
+   "level": "hoch",
+   "probability": 85,
+   "status": "eingetroffen",
+   "evidence": "Schwere Cyberangriffe und IT-Sicherheitslücken, darunter ein Milliarden-Hack bei Binance und Attacken auf die Universität Leipzig, werden als Dauerbrenner genannt."
+  },
+  {
+   "nr": 4,
+   "title": "Beschleunigung und Verschärfung der KI-Regulierungsdebatte",
+   "category": "KI / Politik",
+   "horizon": "mittelfristig (2-3 Monate)",
+   "level": "hoch",
+   "probability": 75,
+   "status": "teilweise",
+   "evidence": "Die Entwicklung und Regulierung von KI bleibt dynamisch mit rechtlichen Auseinandersetzungen, konkrete neue Gesetzesinitiativen werden nicht erwähnt."
+  },
+  {
+   "nr": 5,
+   "title": "Fortsetzung der wirtschaftlichen Insolvenzwelle",
+   "category": "Wirtschaft",
+   "horizon": "mittelfristig (2-3 Monate)",
+   "level": "hoch",
+   "probability": 80,
+   "status": "offen",
+   "evidence": "Die wirtschaftliche Lage wird durch Zinspausen der EZB und Fed sowie steigende Gaspreise thematisiert, konkrete neue Insolvenzen werden für Oktober nicht genannt."
+  }
+ ]
+}
