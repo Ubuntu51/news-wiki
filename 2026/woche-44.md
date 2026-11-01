@@ -6,22 +6,22 @@ title: "Wochenzusammenfassung Kalenderwoche 44 / 2026"
 
 # Wochenzusammenfassung – Kalenderwoche 44 / 2026
 
-> **Stand:** 01.11.2026, 12:11 Uhr · **Modell:** deepseek-v3.2
+> **Stand:** 01.11.2026, 19:50 Uhr · **Modell:** deepseek-v3.2
 
 # Wochenüberblick
-Die internationale Sicherheits- und Geopolitik stand im Zentrum der Woche, geprägt von schweren Zwischenfällen und diplomatischen Spannungen. Parallel eskalierte die Krise um die Kryptobörse Binance nach einem massiven Hackerangriff. Die Energiemärkte blieben angespannt, während in mehreren Ländern bedeutende innenpolitische Weichenstellungen anstanden.
+Die internationale Politik war von schweren Vorwürfen gegen Russland und ungewöhnlichen Personalvorschlägen bestimmt. Parallel überschatteten massive Cyberangriffe auf die Finanzwelt und ein erneuter Anstieg der Energiepreise die wirtschaftliche Lage. In mehreren europäischen Ländern standen zudem innenpolitische Konflikte und Regierungsbildungen im Fokus.
 
 ## ⭐ Wichtigste Themen
-- Ein UN-Bericht wirft Russland vor, Kälte als Kriegswaffe gegen die ukrainische Zivilbevölkerung eingesetzt zu haben.
-- Bei einem erneuten US-Angriff auf ein Boot im Pazifik kamen fünf Menschen ums Leben.
-- Der europäische Gaspreis stieg erstmals seit 2022 wieder über 100 Euro pro Megawattstunde.
-- Die Kryptobörse Binance wurde Opfer eines Milliarden-Hacks, bei dem das FBI die nordkoreanische Gruppe TraderTraitor verdächtigt.
-- In Berlin stimmte die Linke für Koalitionsgespräche mit SPD und Grünen.
-- In Israel kündigte Staatspräsident Isaac Herzog Gespräche zur Regierungsbildung nach der Parlamentswahl an.
-- Die Europäische Zentralbank beließ ihren Leitzins bei 2,5 Prozent.
+- Ein UN-Bericht wirft Russland vor, Kälte gezielt als Kriegswaffe gegen die ukrainische Zivilbevölkerung eingesetzt zu haben.
+- US-Präsident Donald Trump schlug überraschend Viktor Orban als nächsten UN-Generalsekretär vor.
+- Der europäische Gaspreis überschritt erstmals seit 2022 wieder die Marke von 100 Euro pro Megawattstunde.
+- Ein beispielloser Hackerangriff auf die Kryptobörse Binance, den das FBI Nordkorea zuschreibt, verursachte Milliardenabflüsse und ließ den Bitcoin-Kurs einbrechen.
+- In Polen eskalierte der Machtkampf zwischen Regierung und Opposition um die Besetzung des Verfassungsgerichts.
+- Die Berliner Linke stimmte für Koalitionsgespräche mit SPD und Grünen und ebnete den Weg für eine neue Landesregierung.
+- Bei einem schweren Zugunglück in Spanien kamen mehr als 60 Menschen ums Leben.
 
 ## Entwicklungen & Trends
-Die geopolitischen Konflikte zeigten sich auf mehreren Ebenen: Während der Vorwurf des Einsatzes von Kälte als Waffe in der Ukraine erhoben wurde, eskalierte der Machtkampf in Polen um das Verfassungsgericht. Die Energiekrise verschärfte sich mit dem Überschreiten der 100-Euro-Marke für Gas, und die US-Notenbank setzte ihre Zinspause fort. Der milliardenschwere Hack auf Binance entwickelte sich zum beherrschenden Thema im Finanzsektor und zog Ermittlungen internationaler Behörden nach sich.
+Die geopolitischen Spannungen zeigten sich in einer Eskalation der Rhetorik, etwa durch den ungewöhnlichen UN-Vorschlag Trumps und den fortwährenden Streit über Russland auf dem G20-Gipfel. Wirtschaftlich sorgten der anhaltende Druck auf die Energiemärkte und die massive Erschütterung des Kryptosektors durch den Binance-Hack für Verunsicherung. In der europäischen Innenpolitik zeichneten sich sowohl Fortschritte, wie in Berlin, als auch blockierende Konflikte, wie in Polen, ab.
 
 ## Ausblick
-Die politischen Gespräche zur Regierungsbildung in Berlin und Israel werden die kommende Woche prägen, während die Aufklärung des Binance-Hacks und seine Folgen für den Kryptomarkt weiter im Fokus stehen dürften.
+Die Folgen des Binance-Hacks und die instabile Lage auf den Energiemärkten werden die Finanzwelt weiter beschäftigen. In Berlin und Polen dürften die jeweiligen Verhandlungen und Machtkämpfe in der kommenden Woche konkretere Formen annehmen.
