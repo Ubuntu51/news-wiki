@@ -6,41 +6,40 @@ title: "Wochenausblick Kalenderwoche 45 / 2026"
 
 # Wochenausblick – Kalenderwoche 45 / 2026
 
-> **Stand:** 31.10.2026, 19:24 Uhr · **Modell:** deepseek-v3.2
+> **Stand:** 01.11.2026, 12:11 Uhr · **Modell:** deepseek-v3.2
 > ⚠️ **KI-Prognose:** Automatisch von einer KI auf Basis der Wochenzusammenfassung erstellt. Keine Garantie – nur mögliche Entwicklungen, keine Tatsachenbehauptungen.
 
-### 1. Eskalation des Machtkampfes um das polnische Verfassungsgericht
-- **Kategorie:** Politik
-- **Horizont:** mittelfristig (2-4 Wochen)
-- **Eintrittswahrscheinlichkeit:** hoch (ca. 80 %) ▓▓▓▓▓▓▓▓░░
-- **Begründung:** Die Wochenzusammenfassung beschreibt eine bereits eskalierte Lage ("eskalierte der Machtkampf") zwischen Regierung und Opposition um die Kontrolle des Verfassungsgerichts. Dieser Konflikt ist als zentrales politisches Thema etabliert und wird nicht kurzfristig gelöst sein.
-- **Woran erkennen:** Eine weitere Eskalation wäre an verschärften rhetorischen Auseinandersetzungen, neuen legislativen Initiativen einer Seite zur Durchsetzung ihrer Position oder möglichen Protesten in der kommenden Woche erkennbar.
-
-### 2. Fortsetzung des Aufwärtstrends bei europäischen Gaspreisen
-- **Kategorie:** Wirtschaft / Energie
+### 1. Eskalation der diplomatischen Spannungen nach Pazifik-Zwischenfall
+- **Kategorie:** Sicherheit / Geopolitik
 - **Horizont:** kurzfristig (bis 1 Woche)
-- **Eintrittswahrscheinlichkeit:** mittel (ca. 60 %) ▓▓▓▓▓▓░░░░
-- **Begründung:** Der Wochenüberblick konstatiert, dass der europäische Gaspreis ein neues Hoch erreicht hat und sich der "Aufwärtstrend bei den Gaspreisen fort[setzte]". Diese Dynamik wird als anhaltender Trend beschrieben.
-- **Woran erkennen:** Ein weiterer Anstieg oder das Verharren auf dem hohen Niveau der Gaspreise an den europäischen Handelsplätzen in Kalenderwoche 45 wäre ein Indikator für die Fortsetzung dieses Trends.
+- **Eintrittswahrscheinlichkeit:** hoch (ca. 80 %) ▓▓▓▓▓▓▓▓░░
+- **Begründung:** Der Bericht über einen weiteren US-Angriff im Pazifik mit fünf Toten deutet auf eine anhaltende oder zunehmende militärische Konfrontation in der Region hin. Solche Vorfälle lösen typischerweise diplomatische Proteste und eine erhöhte mediale Aufmerksamkeit aus.
+- **Woran erkennen:** In der kommenden Woche wäre eine offizielle Stellungnahme der betroffenen Nation (nicht genannt, aber mutmaßlich China oder ein Verbündeter), schärfere Rhetorik in offiziellen Kanälen oder eine Dringlichkeitssitzung eines internationalen Gremiums wie des UN-Sicherheitsrats zu erwarten.
 
-### 3. Intensivierung der regulatorischen Debatte um Kryptomärkte
+### 2. Fortgesetzte Volatilität und regulatorische Fokussierung auf Kryptomärkte
 - **Kategorie:** Wirtschaft / Sicherheit
 - **Horizont:** mittelfristig (2-4 Wochen)
-- **Eintrittswahrscheinlichkeit:** hoch (ca. 85 %) ▓▓▓▓▓▓▓▓░░
-- **Begründung:** Der "beispiellose Cyberangriff" auf Binance und die daraus resultierenden Milliardenabflüsse werden laut Ausblick der Zusammenfassung die regulatorische Debatte "neu befeuern". Dieses Thema ist durch das konkrete Ereignis akut gesetzt.
-- **Woran erkennen:** Erste Reaktionen von Aufsichtsbehörden oder Finanzministern in der EU oder den USA, die schärfere Regulierungen fordern, sowie eine verstärkte Medienberichterstattung zu den Risiken von Kryptobörsen wären Anzeichen dafür.
+- **Eintrittswahrscheinlichkeit:** hoch (ca. 90 %) ▓▓▓▓▓▓▓▓▓░
+- **Begründung:** Der milliardenschwere Hack auf Binance mit Verdacht auf nordkoreanische Beteiligung (TraderTraitor) ist das beherrschende Thema im Finanzsektor und zieht bereits internationale Ermittlungen nach sich. Dies wird regulatorische und sicherheitspolitische Debatten anheizen.
+- **Woran erkennen:** In KW 45 wären erste offizielle Zwischenberichte von Ermittlungsbehörden (wie dem FBI), schärfere öffentliche Warnungen von Finanzaufsichten vor Kryptoplattformen oder spürbare Kursverluste bei großen Kryptowährungen als Reaktion auf die Unsicherheit zu beobachten.
 
-### 4. Konkrete Fortschritte in den Berliner Koalitionsverhandlungen
+### 3. Weitere Verschärfung der Energiekrise in Europa
+- **Kategorie:** Wirtschaft / Klima
+- **Horizont:** mittelfristig (2-4 Wochen)
+- **Eintrittswahrscheinlichkeit:** mittel (ca. 60 %) ▓▓▓▓▓▓░░░░
+- **Begründung:** Der europäische Gaspreis überschritt erstmals seit 2022 wieder die Marke von 100 Euro pro Megawattstunde, was auf eine anhaltende angespannte Marktlage hinweist. Dieser Trend wird durch die geopolitischen Spannungen (u.a. der Ukraine-Konflikt) weiter befeuert.
+- **Woran erkennen:** In der kommenden Woche könnten weitere Preissprünge an den Energiebörsen, Notfall-Beratungen von EU-Energieministern oder Warnungen großer Versorger vor Lieferengpässen und steigenden Endkundenpreisen folgen.
+
+### 4. Beschleunigte Regierungsbildung in Berlin
 - **Kategorie:** Politik
 - **Horizont:** kurzfristig (bis 1 Woche)
-- **Horizont:** mittelfristig (2-4 Wochen)
-- **Eintrittswahrscheinlichkeit:** hoch (ca. 75 %) ▓▓▓▓▓▓▓▓░░
-- **Begründung:** Die Berliner Linke hat für Koalitionsgespräche mit SPD und Grünen gestimmt, wodurch eine neue Landesregierung ermöglicht wird. Der Ausblick stellt fest, dass diese Verhandlungen "nun konkret aufgenommen werden".
-- **Woran erkennen:** Die Bekanntgabe eines Verhandlungsfahrplans, die Benennung von Verhandlungsteams oder erste inhaltliche Kompromissmeldungen zu Schlüsselthemen in der kommenden Woche würden auf konkrete Fortschritte hindeuten.
+- **Eintrittswahrscheinlichkeit:** hoch (ca. 85 %) ▓▓▓▓▓▓▓▓░░
+- **Begründung:** Die Linke in Berlin hat bereits für Koalitionsgespräche mit SPD und Grünen gestimmt. Dieser formelle Beschluss leitet die finale Phase der Regierungsbildung ein, die laut Ausblick die kommende Woche prägen wird.
+- **Woran erkennen:** In KW 45 wären die Aufnahme konkreter Sondierungs- oder Koalitionsgespräche, erste inhaltliche Kompromissmeldungen zu Schlüsselthemen oder die Benennung eines Zeitplans für die Regierungsbildung durch die Parteispitzen zu erwarten.
 
-### 5. Zunehmende diplomatische Spannungen um den Umgang mit Russland
-- **Kategorie:** Politik / Internationale Beziehungen
+### 5. Fortdauer der geldpolitischen Zurückhaltung der EZB
+- **Kategorie:** Wirtschaft
 - **Horizont:** mittelfristig (2-4 Wochen)
-- **Eintrittswahrscheinlichkeit:** mittel (ca. 65 %) ▓▓▓▓▓▓░░░░
-- **Begründung:** Der UN-Vorwurf an Russland, Kälte als Kriegswaffe einzusetzen, und der "grundsätzliche Streit über den Umgang mit Moskau auf dem G20-Gipfel" werden als Beispiele für hohe geopolitische Spannungen genannt. Dieses Thema bleibt akut.
-- **Woran erkennen:** Neue diplomatische Verurteilungen Russlands, kontroverse Äußerungen von Staatschefs im Vorfeld oder auf Folgegipfeln des G20-Treffens oder eine Verschärfung der Sanktionsrhetorik wären mögliche Anzeichen.
+- **Eintrittswahrscheinlichkeit:** mittel (ca. 70 %) ▓▓▓▓▓▓▓░░░
+- **Begründung:** Die Europäische Zentralbank beließ ihren Leitzins bei 2,5 Prozent und setzte damit ihre Zinspause fort. Angesichts der gleichzeitigen Energiekrise (hohe Gaspreise) und geopolitischen Unsicherheiten ist eine abwartende Haltung der EZB naheliegend.
+- **Woran erkennen:** In der kommenden Woche könnten sich diese Signale in öffentlichen Äußerungen von EZB-Ratsmitgliedern widerspiegeln, die eine vorsichtige Haltung und datenabhängiges Vorgehen betonen, ohne konkrete Zinsschritte ankündigen.
