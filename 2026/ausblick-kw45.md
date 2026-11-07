@@ -6,40 +6,40 @@ title: "Wochenausblick Kalenderwoche 46 / 2026"
 
 # Wochenausblick – Kalenderwoche 46 / 2026
 
-> **Stand:** 07.11.2026, 11:59 Uhr · **Modell:** deepseek-v3.2
+> **Stand:** 07.11.2026, 19:33 Uhr · **Modell:** deepseek-v3.2
 > ⚠️ **KI-Prognose:** Automatisch von einer KI auf Basis der Wochenzusammenfassung erstellt. Keine Garantie – nur mögliche Entwicklungen, keine Tatsachenbehauptungen.
 
-### 1. Vertiefte internationale politische Debatten nach US-Wahlerfolg der Demokraten
+### 1. Erhöhte politische Aktivität der US-Demokraten
 - **Kategorie:** Politik
 - **Horizont:** mittelfristig (2-4 Wochen)
 - **Eintrittswahrscheinlichkeit:** hoch (ca. 80 %) ▓▓▓▓▓▓▓▓░░
-- **Begründung:** Die Wochenzusammenfassung beschreibt, dass die Ergebnisse der US-Zwischenwahlen zu einer sofortigen politischen Neuausrichtung führten und die internationale Agenda weiter prägen werden. Die Kontrolle des Kongresses durch die Demokraten wird wahrscheinlich zu neuen außen- und wirtschaftspolitischen Initiativen führen.
-- **Woran erkennen:** In der kommenden Woche könnten verstärkte Stellungnahmen und Analysen zu den außenpolitischen Konsequenzen des Wahlergebnisses sowie erste Reaktionen aus europäischen Hauptstädten auf mögliche Kursänderungen der USA zu beobachten sein.
+- **Begründung:** Der Wahlsieg der Demokraten, der die Kontrolle über beide Kammern des Kongresses brachte, wird laut Zusammenfassung die internationale Agenda weiter prägen und hat bereits zu Diskussionen über eine Neuausrichtung der Republikaner geführt.
+- **Woran erkennen:** In der kommenden Woche wären erste konkrete legislative Initiativen oder Ankündigungen der demokratischen Führung im US-Kongress zu beobachten, die ihre neue Machtposition demonstrieren.
 
-### 2. Fortgesetzte und intensivierte Ermittlungen zu Cyberangriffen und Bombendrohungen
-- **Kategorie:** Sicherheit
+### 2. Eskalation bei Kollektivvertragsverhandlungen im Handel
+- **Kategorie:** Wirtschaft / Soziale Lage
+- **Horizont:** kurzfristig (bis 1 Woche)
+- **Eintrittswahrscheinlichkeit:** hoch (ca. 75 %) ▓▓▓▓▓▓▓▓░░
+- **Begründung:** Die Verhandlungen wurden als "festgefahren" beschrieben, nachdem das Arbeitgeberangebot abgelehnt wurde. Dies wird als Teil der wirtschaftlichen und sozialen Spannungen in Europa genannt.
+- **Woran erkennen:** In KW 46 wären Ankündigungen von Warnstreiks, Arbeitsniederlegungen oder eine Verschärfung der Rhetorik seitens der Gewerkschaften oder Arbeitgeberverbände im Handel zu erwarten.
+
+### 3. Fortgesetzte und möglicherweise intensivierte Cyberangriffe
+- **Kategorie:** Sicherheit (Cybersicherheit)
 - **Horizont:** kurzfristig (bis 1 Woche)
 - **Eintrittswahrscheinlichkeit:** hoch (ca. 85 %) ▓▓▓▓▓▓▓▓░░
-- **Begründung:** Der Ausblick der Zusammenfassung stellt explizit fest, dass die Ermittlungen zu den Bombendrohungen in Italien und den Cyberangriffen (wie dem auf die TU München) fortgesetzt werden dürften. Die Woche war von einer Serie sich ausweitender Sicherheitsvorfälle geprägt.
-- **Woran erkennen:** Es wäre zu erwarten, dass Behörden wie Europol oder nationale Polizeidienste weitere Updates zu ihren Ermittlungen geben, möglicherweise mit neuen Festnahmen oder Warnungen vor ähnlichen Angriffsmustern.
+- **Begründung:** Die Woche zeigte eine "besorgniserregende Entwicklung" mit erfolgreichen Angriffen auf ein Unternehmen und eine Universität, die zu operativen Störungen und Datendiebstahl führten. Der Ausblick deutet auf "weitere Herausforderungen" hin.
+- **Woran erkennen:** In der kommenden Woche wären Meldungen über neue, ähnlich gelagerte Cyberangriffe auf europäische Unternehmen, Bildungs- oder Forschungseinrichtungen zu beobachten.
 
-### 3. Erhöhte Wachsamkeit und Kontrollen bei saisonalen Ereignissen nach Süßigkeiten-Manipulation
-- **Kategorie:** Sicherheit
+### 4. Fortdauernde Proteste in Frankreich aufgrund der Teuerung
+- **Kategorie:** Soziale Lage / Wirtschaft
 - **Horizont:** kurzfristig (bis 1 Woche)
 - **Eintrittswahrscheinlichkeit:** mittel (ca. 65 %) ▓▓▓▓▓▓░░░░
-- **Begründung:** Der Fund präparierter Süßigkeiten in mehreren österreichischen Bundesländern zu Halloween stellt einen konkreten Sicherheitsvorfall dar, der zu erhöhter Sensibilisierung führen kann. Solche Vorfälle lösen oft unmittelbare Reaktionen von Behörden und Einzelhandel aus.
-- **Woran erkennen:** In den Tagen nach dem Vorfall könnten verstärkte Warnungen von Verbraucherschutzbehörden, Hinweise der Polizei zur Überprüfung von Süßigkeiten oder Berichte über verschärfte Kontrollen in Supermärkten erfolgen.
+- **Begründung:** Die hohe Inflation trieb in Frankreich Proteste an, was als Teil der angespannten sozialen Lage in Europa beschrieben wurde. Der Ausblick sieht hier weitere Herausforderungen.
+- **Woran erkennen:** In KW 46 wären neue Demonstrationen oder Streikaufrufe in Frankreich mit dem Fokus auf Kaufkraftverlust und Lebenshaltungskosten zu erwarten.
 
-### 4. Fokussierte Diskussion über heimische KI-Entwicklung und Cybersicherheit
+### 5. Verstärkte Fokussierung auf KI-Sicherheitsanwendungen
 - **Kategorie:** KI / Sicherheit
 - **Horizont:** mittelfristig (2-4 Wochen)
-- **Eintrittswahrscheinlichkeit:** hoch (ca. 75 %) ▓▓▓▓▓▓▓▓░░
-- **Begründung:** Die Zusammenfassung nennt das wachsende Interesse an heimischen KI-Lösungen als wirtschaftlichen Trend. Gleichzeitig wurden mit der Vorstellung eines KI-Modells zur Sicherheitslücken-Suche durch OpenAI und dem Cyberangriff auf die TU München zwei zentrale Themen – KI-Entwicklung und Cybersicherheit – prominent verknüpft.
-- **Woran erkennen:** In der kommenden Woche könnten sich Debatten oder politische Initiativen verstärken, die auf eine Stärkung europäischer oder deutscher KI-Kompetenzen, insbesondere im Sicherheitsbereich, abzielen. Fachkonferenzen oder Stellungnahmen von Verbänden zu diesem Thema wären ein Indikator.
-
-### 5. Fortlaufende juristische und wirtschaftliche Aufarbeitung der Signa-Pleite
-- **Kategorie:** Wirtschaft
-- **Horizont:** mittelfristig (2-4 Wochen)
-- **Eintrittswahrscheinlichkeit:** hoch (ca. 80 %) ▓▓▓▓▓▓▓▓░░
-- **Begründung:** Die anhaltenden Folgen der Signa-Pleite wurden als wirtschaftliches Thema genannt, und René Benko wurde erneut schuldig gesprochen. Dieser Prozess und die wirtschaftlichen Auswirkungen des Konkurses sind noch nicht abgeschlossen und werden weiter für Schlagzeilen sorgen.
-- **Woran erkennen:** In der kommenden Woche sind möglicherweise neue Berichte über weitere Gläubigerforderungen, gerichtliche Anhörungen im Insolvenzverfahren oder politische Reaktionen auf die wirtschaftlichen Folgen der Unternehmenspleite zu erwarten.
+- **Eintrittswahrscheinlichkeit:** mittel (ca. 60 %) ▓▓▓▓▓▓░░░░
+- **Begründung:** OpenAI stellte ein neues KI-Modell vor, das gezielt Sicherheitslücken aufspüren soll. Dies fällt in eine Woche, die von konkreten Sicherheitsvorfällen (physisch und cyber) geprägt war.
+- **Woran erkennen:** In den kommenden Wochen wären vermehrte Berichte oder Ankündigungen anderer Tech-Unternehmen oder Sicherheitsfirmen zu ähnlichen KI-gestützten Sicherheitstools oder Kooperationen in diesem Bereich zu beobachten.
