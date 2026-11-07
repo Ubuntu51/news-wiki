@@ -1,0 +1,60 @@
+{
+ "label": "Kalenderwoche 45 / 2026",
+ "checked_at": "07.11.2026, 11:59 Uhr",
+ "model": "deepseek-v3.2",
+ "score": 0.0,
+ "counted": 5,
+ "rate": 0,
+ "items": [
+  {
+   "nr": 1,
+   "title": "Eskalation der diplomatischen Spannungen um UN-Führung",
+   "category": "Politik",
+   "horizon": "mittelfristig (2-4 Wochen)",
+   "level": "hoch",
+   "probability": 80,
+   "status": "nicht_eingetroffen",
+   "evidence": "Die Monatszusammenfassung erwähnt keine diplomatischen Spannungen oder Diskussionen um die UN-Führung oder einen Vorschlag für Viktor Orban."
+  },
+  {
+   "nr": 2,
+   "title": "Fortgesetzte Volatilität und regulatorische Debatten im Kryptosektor",
+   "category": "Wirtschaft / Sicherheit",
+   "horizon": "kurzfristig (bis 1 Woche)",
+   "level": "hoch",
+   "probability": 90,
+   "status": "nicht_eingetroffen",
+   "evidence": "Die Zusammenfassung berichtet nicht von fortgesetzter Volatilität im Kryptosektor, regulatorischen Debatten oder Reaktionen auf einen Hackerangriff auf Binance."
+  },
+  {
+   "nr": 3,
+   "title": "Verstärkter Druck auf europäische Energiemärkte und politische Reaktionen",
+   "category": "Wirtschaft / Klima",
+   "horizon": "kurzfristig (bis 1 Woche)",
+   "level": "mittel",
+   "probability": 70,
+   "status": "nicht_eingetroffen",
+   "evidence": "Es gibt keine Erwähnung von gestiegenen europäischen Gaspreisen, politischen Reaktionen darauf oder Druck auf Energiemärkte."
+  },
+  {
+   "nr": 4,
+   "title": "Konkrete Fortschritte bei der Berliner Regierungsbildung",
+   "category": "Politik",
+   "horizon": "kurzfristig (bis 1 Woche)",
+   "level": "hoch",
+   "probability": 85,
+   "status": "nicht_eingetroffen",
+   "evidence": "Die Zusammenfassung enthält keine Informationen zur Berliner Regierungsbildung, Koalitionsgesprächen oder Fortschritten."
+  },
+  {
+   "nr": 5,
+   "title": "Verschärfung des verfassungsrechtlichen Konflikts in Polen",
+   "category": "Politik",
+   "horizon": "kurzfristig (bis 1 Woche)",
+   "level": "mittel",
+   "probability": 65,
+   "status": "nicht_eingetroffen",
+   "evidence": "Es wird kein verfassungsrechtlicher Konflikt in Polen, weitere Eskalation oder entsprechende politische Manöver erwähnt."
+  }
+ ]
+}
