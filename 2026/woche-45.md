@@ -6,22 +6,22 @@ title: "Wochenzusammenfassung Kalenderwoche 45 / 2026"
 
 # Wochenzusammenfassung – Kalenderwoche 45 / 2026
 
-> **Stand:** 08.11.2026, 12:11 Uhr · **Modell:** deepseek-v3.2
+> **Stand:** 08.11.2026, 19:45 Uhr · **Modell:** deepseek-v3.2
 
 # Wochenüberblick
-Die politischen Folgen der US-Zwischenwahlen, bei denen die Demokraten die Kontrolle über den Kongress errangen, bestimmten die internationale Berichterstattung. Parallel sorgten mehrere Sicherheitsvorfälle für Aufmerksamkeit, daraten ein Schusswaffenangriff in Krakau, manipulierte Süßigkeiten in Österreich und ein russischer Angriff auf die ukrainische Energieinfrastruktur. Wirtschaftliche und technologische Themen wie Cyberangriffe, KI-Entwicklungen und die anhaltende Inflation in Frankreich blieben ebenfalls präsent.
+Die politischen Folgen der US-Zwischenwahlen mit dem Sieg der Demokraten über beide Kammern des Kongresses bestimmten die internationale Agenda. Parallel rückten mehrere schwere Sicherheitsvorfälle in den Fokus, daraten ein Schusswaffenangriff in Krakau, ein Zugunglück in Ägypten und ein Kleinflugzeugabsturz in Deutschland. Die digitale Sicherheit war durch eine Serie von Cyberangriffen auf Unternehmen und Institutionen ein weiteres beherrschendes Thema.
 
 ## ⭐ Wichtigste Themen
 - Die Demokraten errangen bei den US-Zwischenwahlen die Kontrolle über beide Kammern des Kongresses.
 - Bei einem Schusswaffenangriff in Krakau wurden sechs Menschen getötet und mindestens 15 verletzt.
-- Ein russischer Angriff ließ in der Ukraine etwa 600.000 Menschen ohne Strom.
-- Die Europäische Union genehmigte die Übernahme der Mediamarkt-Saturn-Gruppe durch einen chinesischen Investor.
+- Ein schweres Zugunglück in Ägypten forderte zahlreiche Tote und Verletzte.
+- Ein internationales Polizeiteam unter Führung von Europol beschlagnahmte über 100 Server im Zusammenhang mit Investitionsbetrug.
+- Die Technische Universität München schaltete nach einem Cyberangriff ihr zentrales Campus-Management-System ab.
 - Der gescheiterte Signa-Gründer René Benko wurde am Landesgericht Innsbruck erneut wegen schweren Betrugs schuldig gesprochen.
-- Ein internationales Polizeiteam unter Führung von Europol beschlagnahmte mehr als 100 Server im Zusammenhang mit Investitionsbetrug.
-- OpenAI stellte ein neues KI-Modell vor, das gezielt Sicherheitslücken aufspüren soll.
+- In mehreren österreichischen Bundesländern wurden zu Halloween gesammelte Süßigkeiten gefunden, die mit Metallgegenständen präpariert waren.
 
 ## Entwicklungen & Trends
-Die Ergebnisse der US-Wahlen führten zu einer unmittelbaren Neuausrichtung der Republikaner und belasteten die Partei. Im Bereich der Cybersicherheit zeichnete sich eine Serie von Angriffen ab, die von Investitionsbetrug über Datendiebstahl bei Unternehmen wie Mindfactory bis zur Lahmlegung des Systems der Technischen Universität München reichte. Gleichzeitig blieb das Thema Künstliche Intelligenz mit Fokus auf heimische Lösungen und neuen Sicherheitsanwendungen präsent, auch wenn kritische Stimmen vor einem Ende des Booms warnten.
+Die Wahlniederlage der Republikaner führte zu einer unmittelbaren Belastung und einer internen Neuausrichtung der Partei. Im Bereich der Cybersicherheit zeichnete sich eine Welle von Angriffen ab, die neben Unternehmen wie Mindfactory auch große Bildungseinrichtungen lahmlegten und Datendiebstahl zur Folge hatten. International blieben soziale und politische Spannungen sichtbar, die sich in Protesten in Frankreich sowie in Regierungswechseln in Paraguay und Israel manifestierten.
 
 ## Ausblick
-Die politischen Folgen der US-Wahlergebnisse werden die internationale Agenda weiter prägen. Die angespannte Sicherheitslage, sowohl durch physische Gewalttaten als auch durch Cyberangriffe, dürfte die Debatten in Europa weiter anheizen.
+Die politischen Konsequenzen des US-Wahlergebnisses werden die internationale Berichterstattung weiter prägen. Die Aufklärung der schweren Sicherheitsvorfälle in Polen und Ägypten sowie die Bewältigung der Cyberangriffe bleiben auf der Agenda.

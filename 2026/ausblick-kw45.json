@@ -1,57 +1,57 @@
 {
  "label": "Kalenderwoche 46 / 2026",
- "generated_at": "08.11.2026, 12:11 Uhr",
+ "generated_at": "08.11.2026, 19:45 Uhr",
  "model": "deepseek-v3.2",
  "predictions": [
   {
    "nr": 1,
-   "title": "Verschärfte Debatten über innere Sicherheit in Europa",
-   "category": "Sicherheit",
+   "title": "Fortgesetzte politische Neuausrichtung der US-Republikaner",
+   "category": "Politik (International)",
    "horizon": "mittelfristig (2-4 Wochen)",
    "level": "hoch",
    "probability": 80,
-   "reason": "Die Serie von Sicherheitsvorfällen in der KW 45 – der Schusswaffenangriff in Krakau, manipulierte Süßigkeiten in Österreich und der russische Angriff auf die ukrainische Energieinfrastruktur – wird laut Wochenzusammenfassung die Debatten in Europa weiter anheizen.",
-   "signal": "In der kommenden Woche könnten sich verstärkte politische Statements oder erste Initiativen auf EU- oder nationaler Ebene zu Themen wie Waffenzugang, Lebensmittelsicherheit oder kritischer Infrastruktur zeigen."
+   "reason": "Die Wochenzusammenfassung beschreibt die Wahlniederlage der Republikaner als \"unmittelbare Belastung\" und nennt eine \"interne Neuausrichtung der Partei\" als Folge. Dieser Prozess wird nicht mit der Wahl abgeschlossen sein.",
+   "signal": "In der kommenden Woche wäre zu beobachten, ob es öffentliche Stellungnahmen, Rücktritte oder Machtkämpfe innerhalb der Republikanischen Partei gibt, die auf die weitere Ausgestaltung dieser Neuausrichtung hindeuten."
   },
   {
    "nr": 2,
-   "title": "Zunehmende Fokussierung auf europäische KI-Sicherheitslösungen",
-   "category": "KI / Sicherheit",
-   "horizon": "mittelfristig (2-4 Wochen)",
-   "level": "mittel",
-   "probability": 60,
-   "reason": "Das Thema KI blieb mit Fokus auf heimische Lösungen und neuen Sicherheitsanwendungen präsent (wie das neue Modell von OpenAI zur Schwachstellensuche). Der Trend zu sicherheitsorientierten KI-Anwendungen wurde in der Zusammenfassung hervorgehoben.",
-   "signal": "Es könnten in KW 46 vermehrt Ankündigungen europäischer Unternehmen oder Forschungsinstitute zu ähnlichen KI-Sicherheitstools oder entsprechende politische Förderabsichten folgen."
-  },
-  {
-   "nr": 3,
-   "title": "Fortgesetzte internationale Koordination gegen Cyberkriminalität",
-   "category": "Sicherheit / Wirtschaft",
+   "title": "Verstärkte Fokuslegung auf Cybersicherheit bei öffentlichen Einrichtungen",
+   "category": "Sicherheit (Cyber)",
    "horizon": "kurzfristig (bis 1 Woche)",
    "level": "hoch",
    "probability": 75,
-   "reason": "Die erfolgreiche Beschlagnahmung von über 100 Servern durch ein internationales Polizeiteam unter Europol-Führung in KW 45 zeigt aktive, koordinierte Maßnahmen gegen Cyberkriminalität, insbesondere Investitionsbetrug.",
-   "signal": "Es könnten in der kommenden Woche weitere operative Schritte oder Pressemitteilungen von Europol oder nationalen Polizeibehörden zu diesem oder ähnlichen Fällen folgen."
+   "reason": "Der Cyberangriff auf die Technische Universität München, der zur Abschaltung des zentralen Campus-Management-Systems führte, wird als Teil einer \"Welle von Angriffen\" beschrieben, die auch andere Unternehmen betraf. Dies wird als \"beherrschendes Thema\" eingestuft.",
+   "signal": "In der kommenden Woche könnte es weitere Meldungen über Sicherheitsüberprüfungen, Warnungen von Behörden (wie BSI) oder neue Vorfälle bei anderen Universitäten, Forschungseinrichtungen oder kommunalen Betrieben geben."
+  },
+  {
+   "nr": 3,
+   "title": "Internationale Kooperation bei der Bekämpfung von Cyberkriminalität",
+   "category": "Sicherheit (Cyber)",
+   "horizon": "mittelfristig (2-4 Wochen)",
+   "level": "mittel",
+   "probability": 60,
+   "reason": "Die erfolgreiche Beschlagnahmung von über 100 Servern durch ein internationales Polizeiteam unter Europol-Führung zeigt die Wirksamkeit grenzüberschreitender Zusammenarbeit im Bereich Investitionsbetrug. Angesichts der als \"Welle\" beschriebenen Cyberangriffe liegt eine Ausweitung dieser Kooperation nahe.",
+   "signal": "In der kommenden Woche könnten gemeinsame Erklärungen von Europol und nationalen Polizeibehörden oder die Ankündigung neuer, länderübergreifender Ermittlungsschwerpunkte gegen Cyberkriminalität erfolgen."
   },
   {
    "nr": 4,
-   "title": "Politische Reaktionen der europäischen Republikaner auf US-Wahlergebnisse",
-   "category": "Politik",
-   "horizon": "mittelfristig (2-4 Wochen)",
-   "level": "mittel",
-   "probability": 65,
-   "reason": "Die Wochenzusammenfassung stellt fest, dass die US-Wahlergebnisse zu einer unmittelbaren Neuausrichtung und Belastung der Republikaner führten. Da die Folgen die internationale Agenda weiter prägen werden, ist mit Reaktionen auch bei europäischen konservativen und rechtspopulistischen Parteien zu rechnen.",
-   "signal": "In KW 46 könnten erste Stellungnahmen oder strategische Anpassungen europäischer Parteien, die sich ideologisch an den US-Republikanern orientieren, sichtbar werden."
+   "title": "Vertiefte Aufklärung der Sicherheitsvorfälle in Krakau und Ägypten",
+   "category": "Sicherheit",
+   "horizon": "kurzfristig (bis 1 Woche)",
+   "level": "hoch",
+   "probability": 85,
+   "reason": "Die \"schweren Sicherheitsvorfälle\" – der Schusswaffenangriff in Krakau und das Zugunglück in Ägypten – werden explizit als Themen genannt, deren \"Aufklärung\" auf der Agenda bleibt. Die hohe Opferzahl und internationale Aufmerksamkeit erzwingen schnelle erste Ergebnisse.",
+   "signal": "In der kommenden Woche sind vorläufige Ermittlungsergebnisse der polnischen bzw. ägyptischen Behörden, Pressekonferenzen oder die Bekanntgabe erster sicherheitspolitischer Konsequenzen zu erwarten."
   },
   {
    "nr": 5,
-   "title": "Verstärkte Prüfung ausländischer Übernahmen in der EU",
-   "category": "Wirtschaft / Politik",
+   "title": "Erhöhte Wachsamkeit bei Lebensmittelsicherheit zu saisonalen Anlässen",
+   "category": "Sicherheit (Innere Sicherheit)",
    "horizon": "mittelfristig (2-4 Wochen)",
    "level": "mittel",
-   "probability": 55,
-   "reason": "Die Genehmigung der Übernahme der Mediamarkt-Saturn-Gruppe durch einen chinesischen Investor durch die EU in KW 45 könnte in der aktuellen sicherheitspolitischen Lage Debatten über die Abwägung zwischen wirtschaftlichen Interessen und Sicherheitsbedenken auslösen.",
-   "signal": "In der kommenden Woche könnten sich erste kritische parlamentarische Anfragen oder Medienberichte zu künftigen Prüfverfahren für ähnliche Übernahmen, insbesondere aus bestimmten Ländern, häufen."
+   "probability": 65,
+   "reason": "Der Fund von mit Metallgegenständen präparierten Süßigkeiten zu Halloween in mehreren österreichischen Bundesländern stellt einen konkreten Vorfall der Lebensmittelkontamination dar. Solche Vorfälle führen typischerweise zu erhöhter Sensibilisierung und präventiven Maßnahmen.",
+   "signal": "In der kommenden Woche könnten Behörden in Deutschland und Österreich verstärkte Warnungen oder Sicherheitshinweise für die anstehende Weihnachts- und Silvesterzeit aussprechen, sowie über den Fortgang der Ermittlungen in Österreich berichten."
   }
  ]
 }
