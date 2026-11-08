@@ -7,8 +7,9 @@ body_class: archive
 
 # 📅 Tageszusammenfassungen November 2026
 
-Zuletzt aktualisiert: 07.11.2026, 19:35 Uhr.
+Zuletzt aktualisiert: 08.11.2026, 12:11 Uhr.
 
+- [08.11.2026, 12:11 Uhr](2026-11-08_12-11.html)
 - [07.11.2026, 19:33 Uhr](2026-11-07_19-33.html)
 - [07.11.2026, 11:59 Uhr](2026-11-07_11-59.html)
 - [06.11.2026, 20:08 Uhr](2026-11-06_20-08.html)
