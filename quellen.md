@@ -16,7 +16,7 @@ automatisch ins Deutsche übersetzt. Alle Quellen, Kategorien und KI-Schlüsselw
 sind zentral in `config.json` konfigurierbar – neue Quellen lassen sich dort ergänzen,
 ohne Code zu ändern.
 
-### 📰 Zeitungen (Österreich)
+### 📰 Zeitungen (Österreich & Deutschland)
 
 | Quelle | Feed |
 |---|---|
@@ -37,6 +37,8 @@ ohne Code zu ändern.
 | APA-OTS | https://www.ots.at/rss/index |
 | Falter | https://www.falter.at/rss |
 | Wiener Zeitung | https://www.wienerzeitung.at/rss.xml |
+| NIUS | https://nius.de/rss |
+| Apollo News | https://apollo-news.net/feed/ |
 
 ### 📰 Zeitungs-Sektionen
 
