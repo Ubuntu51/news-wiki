@@ -15,9 +15,9 @@ body_class: podcast
 
 <div class="card podcast-episode">
 <h3>09.11.2026 – 🌆 Abendüberblick</h3>
-<p class="meta">09.11.2026, 16:31 Uhr · 4.3 MB</p>
-<audio controls preload="none" src="https://ubuntu51.github.io/news-wiki/2026/11/2026-11-09_16-31.mp3"></audio>
-<p class="links"><a href="https://ubuntu51.github.io/news-wiki/2026/11/2026-11-09_16-31.mp3">MP3 herunterladen</a> · <a href="https://ubuntu51.github.io/news-wiki/2026/11/2026-11-09_16-31.html">Zur Zusammenfassung</a></p>
+<p class="meta">09.11.2026, 20:12 Uhr · 6.3 MB</p>
+<audio controls preload="none" src="https://ubuntu51.github.io/news-wiki/2026/11/2026-11-09_20-12.mp3"></audio>
+<p class="links"><a href="https://ubuntu51.github.io/news-wiki/2026/11/2026-11-09_20-12.mp3">MP3 herunterladen</a> · <a href="https://ubuntu51.github.io/news-wiki/2026/11/2026-11-09_20-12.html">Zur Zusammenfassung</a></p>
 </div>
 
 <div class="card podcast-episode">
