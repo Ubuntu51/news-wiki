@@ -5,13 +5,11 @@ Informationen gemäß Art. 13 und 14 DSGVO (Datenschutz-Grundverordnung) und
 
 ## 1. Verantwortlicher
 
-Alois Tiefenbrunner
-
-6060 Hall in Tirol
-
-Österreich
-
-E-Mail: dokuwiki(@)linuxat.de
+[Alois Tiefenbrunner]  
+Lendgasse 1a  
+[6060 Hall in Tirol]  
+Österreich  
+E-Mail: dokuwiki@linuxat.de
 
 ## 2. Allgemeines
 
