@@ -11,7 +11,7 @@ Alois Tiefenbrunner
 
 ## Kontakt
 
-E-Mail: dokuwiki@linuxat.de
+E-Mail: dokuwiki(@)linuxat.de
 
 ## Grundlegende Richtung des Mediums (Offenlegung nach § 25 MedienG)
 
