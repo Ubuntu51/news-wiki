@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "episodes": {
+    "2026-08-25_21-38.mp3": {
+      "key": "podcast/2026-08-25_21-38.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-08-25_21-38.mp3",
+      "size": 2814380,
+      "sha256": "53fd3aafee9d9c350c2093c843a549ec22ea40ef58736cc1537cf1e1eb0e8a20",
+      "uploaded_at": "2026-11-11T05:50:27+00:00"
+    },
+    "2026-08-26_18-47.mp3": {
+      "key": "podcast/2026-08-26_18-47.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-08-26_18-47.mp3",
+      "size": 2893484,
+      "sha256": "d66e1cbb1b20c89485676a3d41e524f1a830c1b7fe1102631929fb7417a54ddf",
+      "uploaded_at": "2026-11-11T05:50:29+00:00"
+    },
+    "2026-08-27_22-21.mp3": {
+      "key": "podcast/2026-08-27_22-21.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-08-27_22-21.mp3",
+      "size": 3662784,
+      "sha256": "716b875cf63b6af218998635d50c61064f532e2c1bd6badcfb8e8299483caafe",
+      "uploaded_at": "2026-11-11T05:50:30+00:00"
+    },
+    "2026-08-28_18-27.mp3": {
+      "key": "podcast/2026-08-28_18-27.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-08-28_18-27.mp3",
+      "size": 4662764,
+      "sha256": "f8322886cb265890606fee559de72a64f04d5c69faa8000c66b0ba52d3b4e462",
+      "uploaded_at": "2026-11-11T05:50:32+00:00"
+    },
+    "2026-08-29_19-15.mp3": {
+      "key": "podcast/2026-08-29_19-15.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-08-29_19-15.mp3",
+      "size": 4113068,
+      "sha256": "7d56429db8d6873cf96ea9f4f20cf879382b1044e7883474f85431148325c250",
+      "uploaded_at": "2026-11-11T05:50:33+00:00"
+    },
+    "2026-08-30_21-05.mp3": {
+      "key": "podcast/2026-08-30_21-05.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-08-30_21-05.mp3",
+      "size": 5811072,
+      "sha256": "4a5bd898e5dc3a25915383ee0b3be54e905225141eeec9e4818442283f383e0b",
+      "uploaded_at": "2026-11-11T05:50:35+00:00"
+    },
+    "2026-08-31_18-28.mp3": {
+      "key": "podcast/2026-08-31_18-28.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-08-31_18-28.mp3",
+      "size": 6009024,
+      "sha256": "2d2a7b276f1529a07b4599750859e75ffcee45d63395ff8d9d46c15c80fd7c4c",
+      "uploaded_at": "2026-11-11T05:50:36+00:00"
+    },
+    "2026-09-01_18-22.mp3": {
+      "key": "podcast/2026-09-01_18-22.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-09-01_18-22.mp3",
+      "size": 6367872,
+      "sha256": "9c5ab5c9ce471096842b3f8c86da39d12908f13da9de513cc15c84cb755c26b2",
+      "uploaded_at": "2026-11-11T05:50:38+00:00"
+    },
+    "2026-09-02_21-25.mp3": {
+      "key": "podcast/2026-09-02_21-25.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-09-02_21-25.mp3",
+      "size": 5022336,
+      "sha256": "b195794c41a4b29bfba9c4eabf86d0ac91bc7b80570480d93af70da67905b538",
+      "uploaded_at": "2026-11-11T05:50:40+00:00"
+    },
+    "2026-09-03_18-20.mp3": {
+      "key": "podcast/2026-09-03_18-20.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-09-03_18-20.mp3",
+      "size": 3264192,
+      "sha256": "dd3004bb51e9a24a93803616119c866cd230e151b8a4141f88bfb9d3d43cc726",
+      "uploaded_at": "2026-11-11T05:50:41+00:00"
+    },
+    "2026-09-04_19-32.mp3": {
+      "key": "podcast/2026-09-04_19-32.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-09-04_19-32.mp3",
+      "size": 6602496,
+      "sha256": "a4c0d41cfa64dec6af037252cb7227d5c5c283d9a2972c9cb82de6ee4a2cfc42",
+      "uploaded_at": "2026-11-11T05:50:44+00:00"
+    },
+    "2026-09-05_18-41.mp3": {
+      "key": "podcast/2026-09-05_18-41.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-09-05_18-41.mp3",
+      "size": 4078848,
+      "sha256": "c086260796688c1725d2815e9b7da45591185e7b9250937558d6a9235b49e835",
+      "uploaded_at": "2026-11-11T05:50:45+00:00"
+    },
+    "2026-09-06_18-48.mp3": {
+      "key": "podcast/2026-09-06_18-48.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-09-06_18-48.mp3",
+      "size": 4107840,
+      "sha256": "8f4954550c4644e3199fc886ac17d7e09200486f295ba2aac3ed2f6db5c9cfa2",
+      "uploaded_at": "2026-11-11T05:50:47+00:00"
+    },
+    "2026-09-07_20-35.mp3": {
+      "key": "podcast/2026-09-07_20-35.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-09-07_20-35.mp3",
+      "size": 5137536,
+      "sha256": "82ce6234ab8a0d26bb105ab422bd8bb2342630d916b69091d9b6587e7948b113",
+      "uploaded_at": "2026-11-11T05:50:48+00:00"
+    },
+    "2026-09-08_19-43.mp3": {
+      "key": "podcast/2026-09-08_19-43.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-09-08_19-43.mp3",
+      "size": 5788608,
+      "sha256": "69bfd646ad7b1cfbbaff60fdf713d827ec1bf2489ebca21018ce5a8ecfbcebbc",
+      "uploaded_at": "2026-11-11T05:50:50+00:00"
+    },
+    "2026-09-09_19-41.mp3": {
+      "key": "podcast/2026-09-09_19-41.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-09-09_19-41.mp3",
+      "size": 6545856,
+      "sha256": "261b963f8121fd16faf21c54a2577fa8e0d19a65bba370f536f54fbbe40f785f",
+      "uploaded_at": "2026-11-11T05:50:52+00:00"
+    },
+    "2026-09-10_19-38.mp3": {
+      "key": "podcast/2026-09-10_19-38.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-09-10_19-38.mp3",
+      "size": 8129856,
+      "sha256": "d0fe11008970ef1ba00c4e2eb6daf02ddb1d083bbca416bc9a1adca70a0b0945",
+      "uploaded_at": "2026-11-11T05:50:53+00:00"
+    },
+    "2026-09-11_20-45.mp3": {
+      "key": "podcast/2026-09-11_20-45.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-09-11_20-45.mp3",
+      "size": 7543104,
+      "sha256": "015a0c5fe052b532398493fd3555f9514d694af8f547620b0b44f11c45601c70",
+      "uploaded_at": "2026-11-11T05:50:55+00:00"
+    },
+    "2026-09-12_18-54.mp3": {
+      "key": "podcast/2026-09-12_18-54.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-09-12_18-54.mp3",
+      "size": 5939136,
+      "sha256": "87e9a9db5e17a8c6514d964f9302343228fc7ecc0e4029ef246cc5aca3858e9a",
+      "uploaded_at": "2026-11-11T05:50:57+00:00"
+    },
+    "2026-09-13_19-39.mp3": {
+      "key": "podcast/2026-09-13_19-39.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-09-13_19-39.mp3",
+      "size": 6704832,
+      "sha256": "6ff1349bf583c0a4938172e17709734b834701432e3e8dd2ab7a46a516658be9",
+      "uploaded_at": "2026-11-11T05:50:59+00:00"
+    },
+    "2026-09-14_20-02.mp3": {
+      "key": "podcast/2026-09-14_20-02.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-09-14_20-02.mp3",
+      "size": 7610880,
+      "sha256": "a1ac47a68201f7b4ef04996e298f8f1ca7ac7ee929c05cfd3a8bf36d21680ea0",
+      "uploaded_at": "2026-11-11T05:51:00+00:00"
+    },
+    "2026-09-15_20-01.mp3": {
+      "key": "podcast/2026-09-15_20-01.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-09-15_20-01.mp3",
+      "size": 5272320,
+      "sha256": "5d813e86fcb6d5f2d258ecaf883f59f014d0e69d312cda0b3ca5d57f6457494a",
+      "uploaded_at": "2026-11-11T05:51:02+00:00"
+    },
+    "2026-09-16_20-07.mp3": {
+      "key": "podcast/2026-09-16_20-07.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-09-16_20-07.mp3",
+      "size": 7988352,
+      "sha256": "a88ae1d8a4efe56a91b61ca0afc3ec432b2e04e1f45fb409766083271d5d1d89",
+      "uploaded_at": "2026-11-11T05:51:04+00:00"
+    },
+    "2026-09-17_18-27.mp3": {
+      "key": "podcast/2026-09-17_18-27.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-09-17_18-27.mp3",
+      "size": 8449536,
+      "sha256": "45eb193fb462bbdf47c47a0a4790e9822bd2cc279dbb25d21aa0c1ebe3263bc3",
+      "uploaded_at": "2026-11-11T05:51:06+00:00"
+    },
+    "2026-09-18_19-28.mp3": {
+      "key": "podcast/2026-09-18_19-28.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-09-18_19-28.mp3",
+      "size": 10244160,
+      "sha256": "4fb8d812e9795041a0f15d3dcf903beba8ce6f7b8ba8f519269ac6ed8aebb298",
+      "uploaded_at": "2026-11-11T05:51:07+00:00"
+    },
+    "2026-09-19_19-08.mp3": {
+      "key": "podcast/2026-09-19_19-08.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-09-19_19-08.mp3",
+      "size": 8531328,
+      "sha256": "0fe686fb6c8220988ce164d5b91fc443529e64b1e08296196b5950edb8cf0a1d",
+      "uploaded_at": "2026-11-11T05:51:09+00:00"
+    },
+    "2026-09-20_19-23.mp3": {
+      "key": "podcast/2026-09-20_19-23.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-09-20_19-23.mp3",
+      "size": 8847744,
+      "sha256": "1598fd629ed1c355cf9d82f5d8e22b7aa79a1dec1dd6c45dc050dc3e1204d3bc",
+      "uploaded_at": "2026-11-11T05:51:11+00:00"
+    },
+    "2026-09-21_20-57.mp3": {
+      "key": "podcast/2026-09-21_20-57.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-09-21_20-57.mp3",
+      "size": 7249920,
+      "sha256": "572bb2e8801f236fe125420ab45a3dac58a21c58078e33fa722f7b0781949f78",
+      "uploaded_at": "2026-11-11T05:51:12+00:00"
+    },
+    "2026-09-22_20-05.mp3": {
+      "key": "podcast/2026-09-22_20-05.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-09-22_20-05.mp3",
+      "size": 7182912,
+      "sha256": "01940425ca405bac057daa6ce175ca3ee078e6805124cc32a9416e28e949644a",
+      "uploaded_at": "2026-11-11T05:51:14+00:00"
+    },
+    "2026-09-23_20-22.mp3": {
+      "key": "podcast/2026-09-23_20-22.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-09-23_20-22.mp3",
+      "size": 7446144,
+      "sha256": "e7be9ff0825738fe5ea12b15e0492a670975ce0b87874a1695ea38288388d431",
+      "uploaded_at": "2026-11-11T05:51:15+00:00"
+    },
+    "2026-09-24_18-30.mp3": {
+      "key": "podcast/2026-09-24_18-30.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-09-24_18-30.mp3",
+      "size": 7356480,
+      "sha256": "1015dd0bb7b36e38c878f07a5b7a0f57916d361284856d85158761fc821eb268",
+      "uploaded_at": "2026-11-11T05:51:17+00:00"
+    },
+    "2026-09-25_20-22.mp3": {
+      "key": "podcast/2026-09-25_20-22.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-09-25_20-22.mp3",
+      "size": 7194048,
+      "sha256": "4f463f8db3112896092c7301dc0646c153ecf1223e09801be292647fa3962a42",
+      "uploaded_at": "2026-11-11T05:51:19+00:00"
+    },
+    "2026-09-26_19-42.mp3": {
+      "key": "podcast/2026-09-26_19-42.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-09-26_19-42.mp3",
+      "size": 7133376,
+      "sha256": "aebf2eec98c502082e3e9b0fb078cccf283e6622be3eefd700aeb758942b4503",
+      "uploaded_at": "2026-11-11T05:51:20+00:00"
+    },
+    "2026-09-27_20-10.mp3": {
+      "key": "podcast/2026-09-27_20-10.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-09-27_20-10.mp3",
+      "size": 7037376,
+      "sha256": "eced412026782bacdc6200dc1fcb019fa0c510068c80b49b9acf99e005c7dbbc",
+      "uploaded_at": "2026-11-11T05:51:22+00:00"
+    },
+    "2026-09-28_20-56.mp3": {
+      "key": "podcast/2026-09-28_20-56.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-09-28_20-56.mp3",
+      "size": 6151680,
+      "sha256": "78511d652692e55d5abb750d5e00abb9dc0d25b99c8c51835cbef1d216e466dc",
+      "uploaded_at": "2026-11-11T05:51:24+00:00"
+    },
+    "2026-09-29_21-17.mp3": {
+      "key": "podcast/2026-09-29_21-17.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-09-29_21-17.mp3",
+      "size": 7205184,
+      "sha256": "3ad4969115107609ee34000b43e953dd0e7d920cde1f734d985ff9e230048079",
+      "uploaded_at": "2026-11-11T05:51:25+00:00"
+    },
+    "2026-09-30_20-58.mp3": {
+      "key": "podcast/2026-09-30_20-58.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-09-30_20-58.mp3",
+      "size": 7064640,
+      "sha256": "94e711ebc678e6f5b6b1f948dfc41e7ce69319ed26b5b24d6b482f1a88ea975f",
+      "uploaded_at": "2026-11-11T05:51:27+00:00"
+    },
+    "2026-10-01_21-26.mp3": {
+      "key": "podcast/2026-10-01_21-26.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-10-01_21-26.mp3",
+      "size": 7166208,
+      "sha256": "bcb61087dc46446dc76906c01476ca4979bc9329f28b621c6ee97cf6fc4baa78",
+      "uploaded_at": "2026-11-11T05:51:29+00:00"
+    },
+    "2026-10-02_21-06.mp3": {
+      "key": "podcast/2026-10-02_21-06.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-10-02_21-06.mp3",
+      "size": 7268352,
+      "sha256": "a06cb020fc55136ebf5ca680f305f13ca176fe9f4eb8f6e37d2d97a3b0c0fe19",
+      "uploaded_at": "2026-11-11T05:51:31+00:00"
+    },
+    "2026-10-03_19-58.mp3": {
+      "key": "podcast/2026-10-03_19-58.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-10-03_19-58.mp3",
+      "size": 7229568,
+      "sha256": "d93332fcba2b9c350dde223ac633dc14717a2a22e75d4fecb3332d520a5c591c",
+      "uploaded_at": "2026-11-11T05:51:32+00:00"
+    },
+    "2026-10-04_20-07.mp3": {
+      "key": "podcast/2026-10-04_20-07.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-10-04_20-07.mp3",
+      "size": 7086912,
+      "sha256": "ccffee2a8a7db3284be5d1c2004d059cfbf04c32cce3f57507743716a686c464",
+      "uploaded_at": "2026-11-11T05:51:34+00:00"
+    },
+    "2026-10-06_20-08.mp3": {
+      "key": "podcast/2026-10-06_20-08.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-10-06_20-08.mp3",
+      "size": 6940416,
+      "sha256": "4516030850aa3b0d4488469b55f12f7e17a885f2ed11cb764216448d3481996b",
+      "uploaded_at": "2026-11-11T05:51:36+00:00"
+    },
+    "2026-10-07_20-31.mp3": {
+      "key": "podcast/2026-10-07_20-31.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-10-07_20-31.mp3",
+      "size": 5732544,
+      "sha256": "261c097f5a0b015f5ea041fa72b8fd9b011a06346281c25973d2f0a08481d5af",
+      "uploaded_at": "2026-11-11T05:51:38+00:00"
+    },
+    "2026-10-08_20-11.mp3": {
+      "key": "podcast/2026-10-08_20-11.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-10-08_20-11.mp3",
+      "size": 7129152,
+      "sha256": "c1b6938c9842957273aa7545d533e39ef14551da12f148f5c2bfe86bb4772f9a",
+      "uploaded_at": "2026-11-11T05:51:39+00:00"
+    },
+    "2026-10-09_18-04.mp3": {
+      "key": "podcast/2026-10-09_18-04.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-10-09_18-04.mp3",
+      "size": 6945216,
+      "sha256": "06412a358dd0f130dc714cdb281aeb0901b320655b0541d174e6361ee19a9822",
+      "uploaded_at": "2026-11-11T05:51:41+00:00"
+    },
+    "2026-10-10_18-25.mp3": {
+      "key": "podcast/2026-10-10_18-25.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-10-10_18-25.mp3",
+      "size": 7326912,
+      "sha256": "1d56e73a442b71047d7c36c1d075b0263a5419cb35673f760074b7ddec9ce8bf",
+      "uploaded_at": "2026-11-11T05:51:43+00:00"
+    },
+    "2026-10-11_19-47.mp3": {
+      "key": "podcast/2026-10-11_19-47.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-10-11_19-47.mp3",
+      "size": 7007232,
+      "sha256": "d48baebd91b918d3d0f1dbc68aa83dda08ae2d0568f80ebbb0202d94c16e5d10",
+      "uploaded_at": "2026-11-11T05:51:44+00:00"
+    },
+    "2026-10-12_21-09.mp3": {
+      "key": "podcast/2026-10-12_21-09.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-10-12_21-09.mp3",
+      "size": 7177152,
+      "sha256": "6315fe6b4a55b180b4c89c1ee4a21fa956a4129e425718be4a9b6f6f01177796",
+      "uploaded_at": "2026-11-11T05:51:46+00:00"
+    },
+    "2026-10-13_20-40.mp3": {
+      "key": "podcast/2026-10-13_20-40.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-10-13_20-40.mp3",
+      "size": 6725568,
+      "sha256": "5c8462d8d79ed16076ffe3c5f7c5837e9415322a6e3b5646782d2fbf35423c6b",
+      "uploaded_at": "2026-11-11T05:51:48+00:00"
+    },
+    "2026-10-14_19-59.mp3": {
+      "key": "podcast/2026-10-14_19-59.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-10-14_19-59.mp3",
+      "size": 6904896,
+      "sha256": "cb644720db80b30a79ad4074665a6c41b5cf00d4de1000d017105ef908c811c2",
+      "uploaded_at": "2026-11-11T05:51:49+00:00"
+    },
+    "2026-10-15_20-12.mp3": {
+      "key": "podcast/2026-10-15_20-12.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-10-15_20-12.mp3",
+      "size": 7168512,
+      "sha256": "c57bc15107c68a3f6ec92ac9efb3b2dacaae1e2e6735f3976ec570d45d2327eb",
+      "uploaded_at": "2026-11-11T05:51:51+00:00"
+    },
+    "2026-10-16_19-55.mp3": {
+      "key": "podcast/2026-10-16_19-55.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-10-16_19-55.mp3",
+      "size": 7170624,
+      "sha256": "2d86e4c193f1b1c47d88202fd47df310e499635b9cec91349c23a969aba9d22f",
+      "uploaded_at": "2026-11-11T05:51:53+00:00"
+    },
+    "2026-10-17_18-59.mp3": {
+      "key": "podcast/2026-10-17_18-59.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-10-17_18-59.mp3",
+      "size": 7242048,
+      "sha256": "45dcaf0938fde22ea26cdc5467b62276da894f7d92512149b9895b25948b8dad",
+      "uploaded_at": "2026-11-11T05:51:55+00:00"
+    },
+    "2026-10-18_19-13.mp3": {
+      "key": "podcast/2026-10-18_19-13.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-10-18_19-13.mp3",
+      "size": 7391232,
+      "sha256": "cfc8b1e5b168f9dccbc4f6a9d2ba1d9de681247005507966f8777eb0ce10a810",
+      "uploaded_at": "2026-11-11T05:51:57+00:00"
+    },
+    "2026-10-19_19-24.mp3": {
+      "key": "podcast/2026-10-19_19-24.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-10-19_19-24.mp3",
+      "size": 7329408,
+      "sha256": "6175dd01778e8efb7834139daf0e377a257a0940263967ee1de3e4e6d9a67696",
+      "uploaded_at": "2026-11-11T05:51:59+00:00"
+    },
+    "2026-10-20_19-06.mp3": {
+      "key": "podcast/2026-10-20_19-06.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-10-20_19-06.mp3",
+      "size": 7281600,
+      "sha256": "c876850db75b8f492efc15862c803659c18f52e86fea77548904f21ced340284",
+      "uploaded_at": "2026-11-11T05:52:01+00:00"
+    },
+    "2026-10-21_20-39.mp3": {
+      "key": "podcast/2026-10-21_20-39.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-10-21_20-39.mp3",
+      "size": 7139712,
+      "sha256": "7466fdd4e8f74630da25ee9cb2748c3191741a1f24b6a7f97829470d6ebc8ec9",
+      "uploaded_at": "2026-11-11T05:52:02+00:00"
+    },
+    "2026-10-22_20-29.mp3": {
+      "key": "podcast/2026-10-22_20-29.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-10-22_20-29.mp3",
+      "size": 7212864,
+      "sha256": "9841334fc649b7c8351681d4e1629a73b4cb40aa001a2001f11f7d5829a1b02e",
+      "uploaded_at": "2026-11-11T05:52:04+00:00"
+    },
+    "2026-10-23_20-14.mp3": {
+      "key": "podcast/2026-10-23_20-14.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-10-23_20-14.mp3",
+      "size": 7348800,
+      "sha256": "34f6e23c8a3218caaab1c8a39059a1952a2e26ddc713965c29d4b323a2699cfd",
+      "uploaded_at": "2026-11-11T05:52:06+00:00"
+    },
+    "2026-10-24_19-20.mp3": {
+      "key": "podcast/2026-10-24_19-20.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-10-24_19-20.mp3",
+      "size": 7348608,
+      "sha256": "7f48e34f674795ef40941d78d46b26c0cd94e0e09ee59f6f23c594e744b72cc9",
+      "uploaded_at": "2026-11-11T05:52:07+00:00"
+    },
+    "2026-10-25_18-33.mp3": {
+      "key": "podcast/2026-10-25_18-33.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-10-25_18-33.mp3",
+      "size": 7231488,
+      "sha256": "ead1ed3ffcbfc8afbcec3549ead56454ea70b000de537aa6a723376540a8b03a",
+      "uploaded_at": "2026-11-11T05:52:09+00:00"
+    },
+    "2026-10-26_20-58.mp3": {
+      "key": "podcast/2026-10-26_20-58.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-10-26_20-58.mp3",
+      "size": 7307136,
+      "sha256": "ba2095713814515fb3d5098a0e085e7cede0814591ffa497366d431a76680f16",
+      "uploaded_at": "2026-11-11T05:52:11+00:00"
+    },
+    "2026-10-27_20-21.mp3": {
+      "key": "podcast/2026-10-27_20-21.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-10-27_20-21.mp3",
+      "size": 7348992,
+      "sha256": "8b7e8b2d3287962e361c8b3cfc0c4d545aea13178fe2761d0a3b91edb983ba5f",
+      "uploaded_at": "2026-11-11T05:52:12+00:00"
+    },
+    "2026-10-28_20-28.mp3": {
+      "key": "podcast/2026-10-28_20-28.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-10-28_20-28.mp3",
+      "size": 7270464,
+      "sha256": "ff3b06b735f46101d9b372e6c66beade92277bd9c112fc6ef63eda9a7078aa9b",
+      "uploaded_at": "2026-11-11T05:52:14+00:00"
+    },
+    "2026-10-29_20-32.mp3": {
+      "key": "podcast/2026-10-29_20-32.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-10-29_20-32.mp3",
+      "size": 7217856,
+      "sha256": "8767cd11ed42d3278ed0db40281f0eac38c0834c31af13cbd53a086aabe534de",
+      "uploaded_at": "2026-11-11T05:52:16+00:00"
+    },
+    "2026-10-30_20-06.mp3": {
+      "key": "podcast/2026-10-30_20-06.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-10-30_20-06.mp3",
+      "size": 7181760,
+      "sha256": "bc3fe203c423b39b070988c4d6c44cf7b655921f2d003e713b6c2f6dd4cdd0ea",
+      "uploaded_at": "2026-11-11T05:52:17+00:00"
+    },
+    "2026-10-31_19-23.mp3": {
+      "key": "podcast/2026-10-31_19-23.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-10-31_19-23.mp3",
+      "size": 6837504,
+      "sha256": "3233fe852502ee74401449c48b92accfdd65da72261bf6480eb4c88d9937109e",
+      "uploaded_at": "2026-11-11T05:52:19+00:00"
+    },
+    "2026-11-01_19-50.mp3": {
+      "key": "podcast/2026-11-01_19-50.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-11-01_19-50.mp3",
+      "size": 7170432,
+      "sha256": "2b7433edb036398820d9dad0120287d89891bd859363e4e1c684a79e66de4f0c",
+      "uploaded_at": "2026-11-11T05:52:21+00:00"
+    },
+    "2026-11-02_21-54.mp3": {
+      "key": "podcast/2026-11-02_21-54.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-11-02_21-54.mp3",
+      "size": 5411904,
+      "sha256": "9c9c1550d4c12f854fa41bee2bde91bc0bf8f6aaca0d47841db0016df2565492",
+      "uploaded_at": "2026-11-11T05:52:23+00:00"
+    },
+    "2026-11-03_20-08.mp3": {
+      "key": "podcast/2026-11-03_20-08.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-11-03_20-08.mp3",
+      "size": 7224384,
+      "sha256": "b0fe20fafb70673ac4da3785cc7f98275f53da1c39d672df73e38c38ae08c415",
+      "uploaded_at": "2026-11-11T05:52:25+00:00"
+    },
+    "2026-11-04_19-38.mp3": {
+      "key": "podcast/2026-11-04_19-38.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-11-04_19-38.mp3",
+      "size": 7324800,
+      "sha256": "b435fe8869b5dbbb4f153288842ef4daa095f5f665236dc8c0a16a7cdc19cec9",
+      "uploaded_at": "2026-11-11T05:52:26+00:00"
+    },
+    "2026-11-05_19-18.mp3": {
+      "key": "podcast/2026-11-05_19-18.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-11-05_19-18.mp3",
+      "size": 7305984,
+      "sha256": "d03dd26fcc9b0f6670ffad29c19e10bb1c4a6d59e1344a59a8b72df1591cdd80",
+      "uploaded_at": "2026-11-11T05:52:28+00:00"
+    },
+    "2026-11-06_20-08.mp3": {
+      "key": "podcast/2026-11-06_20-08.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-11-06_20-08.mp3",
+      "size": 7154496,
+      "sha256": "31cdcf0ec9a281a91e994577489f0b56b82a6bd3d36c5d522104417222f8b529",
+      "uploaded_at": "2026-11-11T05:52:29+00:00"
+    },
+    "2026-11-07_19-33.mp3": {
+      "key": "podcast/2026-11-07_19-33.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-11-07_19-33.mp3",
+      "size": 7129344,
+      "sha256": "0257e380d4de5c8cf8036bd99eb1146a2288e161f5299c95f529850740fa04c1",
+      "uploaded_at": "2026-11-11T05:52:31+00:00"
+    },
+    "2026-11-08_19-45.mp3": {
+      "key": "podcast/2026-11-08_19-45.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-11-08_19-45.mp3",
+      "size": 7151232,
+      "sha256": "03605b49307e87328e532c8d894853544340df6a74d665b7671dcc98fe692d9d",
+      "uploaded_at": "2026-11-11T05:52:33+00:00"
+    },
+    "2026-11-09_20-12.mp3": {
+      "key": "podcast/2026-11-09_20-12.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-11-09_20-12.mp3",
+      "size": 6582336,
+      "sha256": "f2c20537d8b23f886d229143c1341e088121b96b4a58e0dda313cec97606af45",
+      "uploaded_at": "2026-11-11T05:52:34+00:00"
+    },
+    "2026-11-10_19-26.mp3": {
+      "key": "podcast/2026-11-10_19-26.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-11-10_19-26.mp3",
+      "size": 7521024,
+      "sha256": "db01e86e90aee64378a05215dc0815d8d59ca2ca786b9045829c8c05ef536395",
+      "uploaded_at": "2026-11-11T05:52:36+00:00"
+    }
+  },
+  "repo": "Ubuntu51/news-wiki",
+  "tag": "podcast",
+  "base_url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast"
+}
