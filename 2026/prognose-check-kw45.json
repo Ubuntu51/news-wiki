@@ -1,0 +1,60 @@
+{
+ "label": "Kalenderwoche 46 / 2026",
+ "checked_at": "14.11.2026, 11:13 Uhr",
+ "model": "deepseek-v3.2",
+ "score": 1.5,
+ "counted": 5,
+ "rate": 30,
+ "items": [
+  {
+   "nr": 1,
+   "title": "Fortgesetzte politische Neuausrichtung der US-Republikaner",
+   "category": "Politik (International)",
+   "horizon": "mittelfristig (2-4 Wochen)",
+   "level": "hoch",
+   "probability": 80,
+   "status": "nicht_eingetroffen",
+   "evidence": "Die Monatszusammenfassung enthält keine Informationen über eine fortgesetzte politische Neuausrichtung der US-Republikaner."
+  },
+  {
+   "nr": 2,
+   "title": "Verstärkte Fokuslegung auf Cybersicherheit bei öffentlichen Einrichtungen",
+   "category": "Sicherheit (Cyber)",
+   "horizon": "kurzfristig (bis 1 Woche)",
+   "level": "hoch",
+   "probability": 75,
+   "status": "teilweise",
+   "evidence": "Staatlich zugeschriebene Cyberangriffe werden thematisiert, aber es gibt keinen spezifischen Bericht über einen verstärkten Fokus auf Cybersicherheit bei öffentlichen Einrichtungen."
+  },
+  {
+   "nr": 3,
+   "title": "Internationale Kooperation bei der Bekämpfung von Cyberkriminalität",
+   "category": "Sicherheit (Cyber)",
+   "horizon": "mittelfristig (2-4 Wochen)",
+   "level": "mittel",
+   "probability": 60,
+   "status": "eingetroffen",
+   "evidence": "Ein internationaler Polizeischlag gegen Malware wird als Teil der Entwicklungen im Bereich Cyber-Sicherheit erwähnt."
+  },
+  {
+   "nr": 4,
+   "title": "Vertiefte Aufklärung der Sicherheitsvorfälle in Krakau und Ägypten",
+   "category": "Sicherheit",
+   "horizon": "kurzfristig (bis 1 Woche)",
+   "level": "hoch",
+   "probability": 85,
+   "status": "nicht_eingetroffen",
+   "evidence": "Die Zusammenfassung erwähnt keine Sicherheitsvorfälle in Krakau oder Ägypten oder deren Aufklärung."
+  },
+  {
+   "nr": 5,
+   "title": "Erhöhte Wachsamkeit bei Lebensmittelsicherheit zu saisonalen Anlässen",
+   "category": "Sicherheit (Innere Sicherheit)",
+   "horizon": "mittelfristig (2-4 Wochen)",
+   "level": "mittel",
+   "probability": 65,
+   "status": "nicht_eingetroffen",
+   "evidence": "Es wird kein Vorfall oder erhöhte Wachsamkeit bezüglich Lebensmittelsicherheit zu saisonalen Anlässen berichtet."
+  }
+ ]
+}
