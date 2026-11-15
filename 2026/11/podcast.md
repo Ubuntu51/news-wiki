@@ -8,10 +8,17 @@ body_class: podcast
 <div class="hero">
   <img class="podcast-logo" src="../../assets/podcast/logo.jpg" alt="News-Podcast Logo" width="120">
   <h1>🎧 Podcast November 2026</h1>
-  <p>14 Folgen des Monats – direkt abspielbar.</p>
+  <p>15 Folgen des Monats – direkt abspielbar.</p>
 </div>
 
 ## 🗓️ Folgen
+
+<div class="card podcast-episode">
+<h3>15.11.2026 – 🌆 Abendüberblick</h3>
+<p class="meta">15.11.2026, 20:40 Uhr · 6.6 MB</p>
+<audio controls preload="none" src="https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-11-15_20-40.mp3"></audio>
+<p class="links"><a href="https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-11-15_20-40.mp3">MP3 herunterladen</a> · <a href="https://ubuntu51.github.io/news-wiki/2026/11/2026-11-15_20-40.html">Zur Zusammenfassung</a></p>
+</div>
 
 <div class="card podcast-episode">
 <h3>14.11.2026 – 🌆 Abendüberblick</h3>

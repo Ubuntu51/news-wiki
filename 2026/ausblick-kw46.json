@@ -1,57 +1,57 @@
 {
  "label": "Kalenderwoche 47 / 2026",
- "generated_at": "15.11.2026, 12:51 Uhr",
+ "generated_at": "15.11.2026, 20:40 Uhr",
  "model": "deepseek-v3.2",
  "predictions": [
   {
    "nr": 1,
-   "title": "Verstärkte diplomatische Aktivitäten zur Ukraine",
-   "category": "Politik / Sicherheit",
+   "title": "Intensivierung der diplomatischen Vorbereitungen für Ukraine-Verhandlungen",
+   "category": "Politik / Internationale Sicherheit",
    "horizon": "mittelfristig (2-4 Wochen)",
    "level": "hoch",
    "probability": 80,
-   "reason": "Die Zusammenfassung beschreibt einerseits festgefahrene diplomatische Bemühungen und Putins Ablehnung von Zugeständnissen, andererseits aber auch neue operative (multinationales Manöver) und diplomatische Initiativen (Benennung eines EU-Verhandlungsteams). Diese gegensätzlichen Signale deuten auf eine Intensivierung der diplomatischen Aktivitäten hin, um die Blockade zu überwinden.",
-   "signal": "In der kommenden Woche wäre zu beobachten, ob es konkrete Ankündigungen zu weiteren diplomatischen Missionen, Gipfeltreffen oder Verhandlungsrunden des benannten EU-Teams gibt."
+   "reason": "Die Meldung, dass sich die EU auf ein Team für mögliche Verhandlungen mit Russland über die Ukraine einigte, deutet auf eine konkrete operative Vorbereitung hin. Parallel dazu zeigen die multinationalen Militärmanöver für einen möglichen Einsatz, dass sich die Lage weiter zuspitzt, was den Druck für diplomatische Lösungen erhöhen könnte.",
+   "signal": "In der kommenden Woche wäre zu beobachten, ob erste offizielle Kontaktaufnahmen zwischen dem EU-Team und russischen Stellen bekannt werden oder ob weitere Treffen der Allianz zur Konkretisierung der Verhandlungspositionen stattfinden."
   },
   {
    "nr": 2,
-   "title": "Erhöhte Wachsamkeit und Sicherheitsmaßnahmen im öffentlichen Raum",
+   "title": "Erhöhte Wachsamkeit und Sicherheitsmaßnahmen an sensiblen Infrastrukturen und öffentlichen Orten",
    "category": "Sicherheit",
    "horizon": "kurzfristig (bis 1 Woche)",
    "level": "hoch",
    "probability": 85,
-   "reason": "Der Vorfall mit Schüssen vor der Hamburger Elbphilharmonie und die allgemein als verschärft beschriebene Bedrohungslage (Spionagegesetz-Novelle) deuten auf ein akutes Sicherheitsrisiko im öffentlichen Raum hin. Staatliche Stellen werden wahrscheinlich mit erhöhter Präsenz und Kontrollen reagieren.",
-   "signal": "In der kommenden Woche wäre eine offizielle Stellungnahme von Sicherheitsbehörden zu der Bedrohungslage und/oder sichtbar verstärkte Polizeipräsenz an sensiblen Orten und bei Großveranstaltungen ein Indiz."
+   "reason": "Der Vorfall mit Schüssen vor der Hamburger Elbphilharmonie und der versuchte Brandanschlag auf einen Drohnenhersteller in Estland zeigen eine akute Bedrohungslage für symbolträchtige Orte und sicherheitsrelevante Industrien. Solche Vorfälle lösen typischerweise unmittelbare Reaktionen der Sicherheitsbehörden aus.",
+   "signal": "In Kalenderwoche 47 wären verstärkte Polizeipräsenz an vergleichbaren Zielen in Deutschland (z.B. Konzerthäuser, Regierungsgebäude) sowie mögliche öffentliche Warnungen oder Appelle der Behörden zu erhöhter Aufmerksamkeit ein Indiz."
   },
   {
    "nr": 3,
-   "title": "Fortgesetzte Volatilität und regulatorische Debatten um Kryptowährungen",
-   "category": "Wirtschaft / Finanzen",
+   "title": "Fortgesetzte politische Konsolidierung auf Landesebene in Deutschland mit Fokus auf Regierungsbildung",
+   "category": "Politik (Innenpolitik)",
    "horizon": "mittelfristig (2-4 Wochen)",
-   "level": "mittel",
-   "probability": 65,
-   "reason": "Der starke Verfall des Bitcoin-Kurses und die dadurch ausgelöste Liquidationswelle werden zu anhaltender Unsicherheit an den Kryptomärkten führen. Solche Ereignisse lösen typischerweise verstärkte Diskussionen über Regulierung und Anlegerschutz aus.",
-   "signal": "In der kommenden Woche wäre zu beobachten, ob Finanzaufsichtsbehörden oder politische Gremien Stellungnahmen zum Kryptomarkt abgeben oder neue regulatorische Initiativen ankündigen."
+   "level": "hoch",
+   "probability": 90,
+   "reason": "Die Einigung der Regierungsparteien in Mecklenburg-Vorpommern auf einen Koalitionsvertrag, dem auch die Linke zustimmte, markiert einen wichtigen Schritt. Dieser erfolgreiche Abschluss könnte als Modell oder Motivationsschub für andere laufende oder anstehende Regierungsbildungen auf Landesebene dienen.",
+   "signal": "In der kommenden Woche könnte es vermehrte öffentliche Stellungnahmen oder Sondierungsgespräche in anderen Bundesländern mit unklarer Regierungslage geben, die sich auf den \"Mecklenburg-Vorpommern-Kompromiss\" beziehen."
   },
   {
    "nr": 4,
-   "title": "Weitere Koordinierung bei der internationalen Cybercrime-Bekämpfung",
-   "category": "Sicherheit / KI",
-   "horizon": "mittelfristig (2-4 Wochen)",
-   "level": "hoch",
-   "probability": 75,
-   "reason": "Die erfolgreiche, von Europol koordinierte globale Operation \"Endgame\" gegen Malware-Netzwerke setzt einen Präzedenzfall und zeigt die Wirksamkeit internationaler Zusammenarbeit. Dies wird wahrscheinlich zu weiteren koordinierten Aktionen oder der Ankündigung neuer Initiativen motivieren.",
-   "signal": "In der kommenden Woche könnte es Folgemeldungen von Europol oder nationalen Behörden zu den Ergebnissen der Operation oder Ankündigungen für weitere gemeinsame Schwerpunkte der Cybercrime-Bekämpfung geben."
+   "title": "Weitere erhebliche Volatilität und regulatorische Debatten auf den Kryptomärkten",
+   "category": "Wirtschaft / Finanzen",
+   "horizon": "kurzfristig (bis 1 Woche)",
+   "level": "mittel",
+   "probability": 70,
+   "reason": "Der deutliche Fall des Bitcoin-Kurses auf sein tiefstes Niveau seit August und die Beschreibung \"erschütterter\" Finanzmärkte mit \"erheblichen Verlusten\" deuten auf eine anhaltende Krise hin. Solche Phasen führen typischerweise zu verstärkten Verkäufen, Panikreaktionen und politischen Forderungen nach Regulierung.",
+   "signal": "In KW 47 wären weitere starke Kursschwankungen bei Bitcoin und anderen Kryptowährungen sowie erste Reaktionen von Finanzaufsichtsbehörden oder Wirtschaftspolitikern auf die Verluste zu erwarten."
   },
   {
    "nr": 5,
-   "title": "Konsolidierung der neuen Landesregierung in Mecklenburg-Vorpommern",
-   "category": "Politik",
-   "horizon": "kurzfristig (bis 1 Woche)",
+   "title": "Vertiefung der internationalen Kooperation bei der Cyberabwehr und Strafverfolgung",
+   "category": "Sicherheit / Internationale Zusammenarbeit",
+   "horizon": "mittelfristig (2-4 Wochen)",
    "level": "hoch",
-   "probability": 90,
-   "reason": "Nach der Zustimmung der Linken zum Koalitionsvertrag wird die neue Landesregierung laut Ausblick ihre Arbeit aufnehmen. Die erste reguläre Kabinettssitzung und die Bekanntgabe konkreter, unmittelbarer politischer Vorhaben der Koalition sind die nächsten logischen Schritte.",
-   "signal": "In der kommenden Woche wäre die offizielle Vereidigung der Minister, die erste Sitzung des Kabinetts und die Vorstellung eines Arbeitsprogramms oder erster konkreter Gesetzesinitiativen zu erwarten."
+   "probability": 80,
+   "reason": "Die von Europol koordinierte, weltweite Operation \"Endgame\" gegen Malware-Netzwerke stellt einen bedeutenden, koordinierten Schlag dar. Erfolge solcher Aktionen motivieren regelmäßig zu Folgeeinsätzen und einem Ausbau der Zusammenarbeit.",
+   "signal": "In der kommenden Woche könnten weitere Details oder Erfolgsbilanzen der Operation \"Endgame\" veröffentlicht werden. Mittelfristig wären Ankündigungen über neue, ähnlich gelagerte gemeinsame Operationen oder erweiterte Abkommen zwischen nationalen Cyber-Einheiten ein Indiz."
   }
  ]
 }
