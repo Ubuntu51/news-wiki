@@ -6,22 +6,22 @@ title: "Wochenzusammenfassung Kalenderwoche 46 / 2026"
 
 # Wochenzusammenfassung – Kalenderwoche 46 / 2026
 
-> **Stand:** 14.11.2026, 20:02 Uhr · **Modell:** deepseek-v3.2
+> **Stand:** 15.11.2026, 12:51 Uhr · **Modell:** deepseek-v3.2
 
 # Wochenüberblick
-Die internationale Sicherheitslage stand im Zentrum der Woche, geprägt von militärischen Entwicklungen im Ukraine-Konflikt und einem globalen Schlag gegen Cyberkriminalität. Parallel bestimmten politische Weichenstellungen in Deutschland und eine anhaltende Volatilität auf den Finanzmärkten die Agenda. Zudem traten technische und wirtschaftliche Herausforderungen im Mobilitätssektor sowie Warnungen vor wachsendem Antisemitismus hervor.
+Die internationale Sicherheitslage stand im Zentrum der Woche, geprägt von militärischen Entwicklungen im Ukraine-Konflikt und einem globalen Schlag gegen Cyberkriminalität. Parallel bestimmten politische Weichenstellungen in Deutschland und eine anhaltende Volatilität an den Finanzmärkten die Agenda. Gesellschaftliche Debatten um Antisemitismus und Klimaschutz blieben ebenfalls präsent.
 
 ## ⭐ Wichtigste Themen
 - Eine multinationale Truppe begann ihr erstes Manöver für einen möglichen Einsatz in der Ukraine.
-- Frankreich machte den Iran für Cyberangriffe auf Kühlsysteme von Supermärkten verantwortlich.
 - Bei einem Vorfall mit Schüssen vor der Hamburger Elbphilharmonie wurden mehrere Personen verletzt.
-- Die Regierungsparteien in Mecklenburg-Vorpommern einigten sich auf einen Koalitionsvertrag, dem die Linke später zustimmte.
-- Die Regierung beschloss eine Verschärfung des Spionagegesetzes, das nun auch Wirtschaftsspionage umfasst.
+- Die Regierung hat eine Verschärfung des Spionagegesetzes beschlossen.
 - Russlands Präsident Wladimir Putin schloss eine Abkehr von Moskaus Forderungen für ein mögliches Kriegsende in der Ukraine aus.
+- Die Linke stimmte in Mecklenburg-Vorpommern dem Koalitionsvertrag für eine neue Landesregierung zu.
 - Europol koordinierte in der Operation Endgame einen weltweiten Schlag gegen Malware-Netzwerke.
+- Der Bitcoin-Kurs fiel auf den tiefsten Stand seit August und löste eine Liquidationswelle unter gehebelten Tradern aus.
 
 ## Entwicklungen & Trends
-Der Ukraine-Konflikt blieb bestimmend, wobei sich militärische Vorbereitungen durch ein multinationales Manöver und diplomatische Aktivitäten wie trilaterale Gespräche in Abu Dhabi sowie die Benennung eines EU-Verhandlungsteams abzeichneten. Die Positionen verhärteten sich jedoch weiter, wie durch Putins Äußerungen und Selenskyjs Bericht über einen umstrittenen US-Vorschlag deutlich wurde. Im Bereich der inneren Sicherheit zogen sich sowohl konkrete Gewaltvorfälle als auch legislative und operative Maßnahmen gegen Bedrohungen durch, von der Verschärfung des Spionagegesetzes bis zur internationalen Cybercrime-Operation. Wirtschaftlich sorgten der anhaltende Kurssturz des Bitcoin und Führungswechsel bei Großkonzernen wie Nvidia für Unsicherheit.
+Die diplomatischen Bemühungen um den Ukraine-Krieg blieben festgefahren, während sich mit dem multinationalen Manöver und der Benennung eines EU-Verhandlungsteams neue operative und diplomatische Initiativen abzeichneten. Im Bereich der inneren Sicherheit zeigte sich eine klare Verschärfung der Bedrohungslage, die sowohl durch die Novelle des Spionagegesetzes als auch durch die großangelegte Cybercrime-Operation beantwortet wurde. An den Finanzmärten führte der anhaltende Verfall des Bitcoin-Kurses zu erheblicher Unsicherheit und belastete spekulative Anleger.
 
 ## Ausblick
-Die politischen Weichenstellungen in Mecklenburg-Vorpommern münden voraussichtlich in die Bildung einer neuen Landesregierung. Die diplomatischen Bemühungen um den Ukraine-Konflikt werden mit dem nun benannten EU-Verhandlungsteam weiter an Dynamik gewinnen.
+Die politischen Gespräche zur Ukraine auf internationaler Ebene werden vor dem Hintergrund der verhärteten Positionen Moskaus weiter im Fokus stehen. Die neue Landesregierung in Mecklenburg-Vorpommern wird ihre Arbeit aufnehmen.
