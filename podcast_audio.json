@@ -616,6 +616,13 @@
       "size": 5710464,
       "sha256": "111199da88f64afe7dee14c445b9e12426dbb035daff59d08b7760c19f202387",
       "uploaded_at": "2026-11-20T13:16:58+00:00"
+    },
+    "2026-11-20_20-17.mp3": {
+      "key": "podcast/2026-11-20_20-17.mp3",
+      "url": "https://github.com/Ubuntu51/news-wiki/releases/download/podcast/2026-11-20_20-17.mp3",
+      "size": 7278528,
+      "sha256": "94395fd02ee2055a62fa0ead59341465500b532c5149e2a0b50d2694e01e447d",
+      "uploaded_at": "2026-11-20T19:19:23+00:00"
     }
   },
   "repo": "Ubuntu51/news-wiki",
