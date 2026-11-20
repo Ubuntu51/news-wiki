@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <!-- XSS-Härtung: kein Inline-JS, keine externen Skripte/Bilder; Inline-Styles
      bleiben erlaubt (die generierten Seiten nutzen style="--accent:…"). -->
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; base-uri 'self'; object-src 'none'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; media-src 'self'; connect-src 'self'; form-action 'self'">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; base-uri 'self'; object-src 'none'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; media-src 'self' https://pub-3e3b91913d05499984f91f9cbeed80ce.r2.dev; connect-src 'self'; form-action 'self'">
 <meta name="description" content="{{ page.description | default: site.description }}">
 <meta name="robots" content="index, follow">
 <link rel="canonical" href="{{ page.url | absolute_url }}">
