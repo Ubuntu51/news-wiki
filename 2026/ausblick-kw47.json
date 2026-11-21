@@ -1,0 +1,57 @@
+{
+ "label": "Kalenderwoche 48 / 2026",
+ "generated_at": "21.11.2026, 07:04 Uhr",
+ "model": "deepseek-v3.2",
+ "predictions": [
+  {
+   "nr": 1,
+   "title": "Verlängerung und kritischer Abschluss der COP31-Klimaverhandlungen",
+   "category": "Klima",
+   "horizon": "kurzfristig (bis 1 Woche)",
+   "level": "hoch",
+   "probability": 80,
+   "reason": "Die Wochenzusammenfassung stellt explizit fest, dass die COP31 in Antalya in die Verlängerung ging und vor einem \"kritischen Abschluss\" steht. Dies deutet auf ungelöste, zentrale Streitpunkte hin, die bis in die letzte Verhandlungswoche hineinwirken werden.",
+   "signal": "In der kommenden Woche wären ein finaler Beschlusstext der Konferenz, möglicherweise verbunden mit öffentlichen Stellungnahmen enttäuschter oder zufriedener Delegationen, sowie eine offizielle Abschlusserklärung zu beobachten."
+  },
+  {
+   "nr": 2,
+   "title": "Eskalation der Spannungen im Technologiehandel durch US-Maßnahmen",
+   "category": "Wirtschaft / Technologiepolitik",
+   "horizon": "mittelfristig (2-4 Wochen)",
+   "level": "hoch",
+   "probability": 75,
+   "reason": "Die USA verschärften ihre Exportkontrollen für KI-Chips und diskutieren Steuern auf Auslandsinvestitionen. Der Ausblick der Woche prognostiziert, dass diese Maßnahmen \"die globalen Technologie- und Handelsbeziehungen weiter belasten\" werden.",
+   "signal": "In den kommenden Wochen wären offizielle Reaktionen und mögliche Gegenmaßnahmen betroffener Länder (z. B. aus der EU oder Asien), weitere Details zu den geplanten Steuern sowie kritische Stellungnahmen von Wirtschaftsverbänden zu erwarten."
+  },
+  {
+   "nr": 3,
+   "title": "Zunehmende Fokussierung auf Cyberangriffe mit KI-Werkzeugen",
+   "category": "Sicherheit / KI",
+   "horizon": "mittelfristig (2-4 Wochen)",
+   "level": "hoch",
+   "probability": 70,
+   "reason": "Der erfolgreiche Angriff auf die EU-Kommission mit dem KI-Tool \"Artex\" und die Serie von Angriffen auf die Deutsche Bahn zeigen eine neue Qualität und Effektivität von Cyberangriffen. Dies wird in der Analyse als \"drängendes Problem\" identifiziert.",
+   "signal": "Es ist wahrscheinlich, dass Sicherheitsbehörden wie das BSI oder ENISA in der kommenden Zeit konkrete Warnungen oder Handlungsempfehlungen zu KI-gestützten Angriffen veröffentlichen und die politische Forderung nach verstärkten Abwehrmaßnahmen lauter wird."
+  },
+  {
+   "nr": 4,
+   "title": "Konkrete Planungs- und Genehmigungsschritte für Teslas Gigafactory-Ausbau",
+   "category": "Wirtschaft / Mobilität",
+   "horizon": "mittelfristig (2-4 Wochen)",
+   "level": "mittel",
+   "probability": 60,
+   "reason": "Tesla hat einen milliardenschweren Ausbau seiner deutschen Gigafactory für die Robotaxi-Produktion ab 2029 angekündigt. Solche Großprojekte lösen typischerweise umgehend detaillierte Planungsverfahren, Genehmigungsanträge und öffentliche Konsultationen aus.",
+   "signal": "In der kommenden Woche könnten erste offizielle Anträge bei Behörden gestellt, konkretere Baupläne bekannt werden oder lokale Politik und Verbände sich mit Stellungnahmen zu dem geplanten Ausbau melden."
+  },
+  {
+   "nr": 5,
+   "title": "Finalisierung und Diskussion des EU-Ukraine-Hilfspakets",
+   "category": "Politik / Sicherheit",
+   "horizon": "kurzfristig (bis 1 Woche)",
+   "level": "mittel",
+   "probability": 65,
+   "reason": "Die EU plant ein neues Finanzhilfepaket in Höhe von 45 Milliarden Euro. Nach der Ankündigung folgen üblicherweise rasch konkrete Verhandlungen über die Modalitäten und die finale Beschlussfassung.",
+   "signal": "In KW 48 wären Fortschritte in den EU-Gremien, Debatten im Europäischen Parlament oder die Veröffentlichung eines detaillierten Verordnungsentwurfs mit Aufschlüsselung der Mittel möglich."
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "label": "Kalenderwoche 47 / 2026",
+ "checked_at": "21.11.2026, 07:04 Uhr",
+ "model": "deepseek-v3.2",
+ "score": 0.5,
+ "counted": 5,
+ "rate": 10,
+ "items": [
+  {
+   "nr": 1,
+   "title": "Intensivierung der diplomatischen Vorbereitungen für Ukraine-Verhandlungen",
+   "category": "Politik / Internationale Sicherheit",
+   "horizon": "mittelfristig (2-4 Wochen)",
+   "level": "hoch",
+   "probability": 80,
+   "status": "nicht_eingetroffen",
+   "evidence": "Die Monatszusammenfassung erwähnt keine diplomatischen Vorbereitungen für Ukraine-Verhandlungen, sondern nennt ein neues EU-Finanzhilfepaket und zunehmende diplomatische Spannungen mit Russland durch Ausweisungen."
+  },
+  {
+   "nr": 2,
+   "title": "Erhöhte Wachsamkeit und Sicherheitsmaßnahmen an sensiblen Infrastrukturen und öffentlichen Orten",
+   "category": "Sicherheit",
+   "horizon": "kurzfristig (bis 1 Woche)",
+   "level": "hoch",
+   "probability": 85,
+   "status": "nicht_eingetroffen",
+   "evidence": "Die Zusammenfassung berichtet von Cyberangriffen auf kritische Infrastrukturen, nicht von erhöhter Wachsamkeit oder Sicherheitsmaßnahmen an öffentlichen Orten als Reaktion auf physische Vorfälle."
+  },
+  {
+   "nr": 3,
+   "title": "Fortgesetzte politische Konsolidierung auf Landesebene in Deutschland mit Fokus auf Regierungsbildung",
+   "category": "Politik (Innenpolitik)",
+   "horizon": "mittelfristig (2-4 Wochen)",
+   "level": "hoch",
+   "probability": 90,
+   "status": "nicht_eingetroffen",
+   "evidence": "Die Zusammenfassung enthält keine Informationen zur Fortsetzung der politischen Konsolidierung oder Regierungsbildung auf Landesebene in Deutschland."
+  },
+  {
+   "nr": 4,
+   "title": "Weitere erhebliche Volatilität und regulatorische Debatten auf den Kryptomärkten",
+   "category": "Wirtschaft / Finanzen",
+   "horizon": "kurzfristig (bis 1 Woche)",
+   "level": "mittel",
+   "probability": 70,
+   "status": "nicht_eingetroffen",
+   "evidence": "Die Zusammenfassung erwähnt keine Volatilität auf den Kryptomärkten oder regulatorische Debatten, sondern konzentriert sich auf andere Wirtschaftsthemen wie KI-Investitionen."
+  },
+  {
+   "nr": 5,
+   "title": "Vertiefung der internationalen Kooperation bei der Cyberabwehr und Strafverfolgung",
+   "category": "Sicherheit / Internationale Zusammenarbeit",
+   "horizon": "mittelfristig (2-4 Wochen)",
+   "level": "hoch",
+   "probability": 80,
+   "status": "teilweise",
+   "evidence": "Die Zusammenfassung berichtet von Cyberangriffen auf die EU-Kommission und die Deutsche Bahn, was die Relevanz der Cyberabwehr zeigt, erwähnt aber keine vertiefte internationale Kooperation oder neue Operationen wie 'Endgame'."
+  }
+ ]
+}
