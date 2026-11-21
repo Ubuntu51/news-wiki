@@ -6,22 +6,22 @@ title: "Wochenzusammenfassung Kalenderwoche 47 / 2026"
 
 # Wochenzusammenfassung – Kalenderwoche 47 / 2026
 
-> **Stand:** 21.11.2026, 07:04 Uhr · **Modell:** deepseek-v3.2
+> **Stand:** 21.11.2026, 18:04 Uhr · **Modell:** deepseek-v3.2
 
 # Wochenüberblick
-Die internationale Sicherheits- und Technologiepolitik bestimmte die Woche maßgeblich. Die USA verschärften ihre Exportkontrollen für KI-Chips und diskutierten Steuern auf Auslandsinvestitionen, während in Europa die Cyberangriffe auf kritische Infrastrukturen wie die EU-Kommission und die Deutsche Bahn im Fokus standen. Parallel zogen sich die schwierigen Verhandlungen auf der Weltklimakonferenz COP31 hin.
+Die internationale Politik und Sicherheitslage bestimmte die Woche mit einem israelischen Angriff in Gaza und diplomatischen Verwicklungen um Russland. Parallel blieben Cyberangriffe und die Regulierung von Zukunftstechnologien zentrale Themen. Wirtschaftlich sorgten Rekorde bei KI-Startups und Bitcoin-Investments für Aufsehen.
 
 ## ⭐ Wichtigste Themen
+- Bei einem israelischen Angriff in Gaza-Stadt sind nach Berichten zahlreiche Menschen ums Leben gekommen.
+- Tesla kündigte einen milliardenschweren Ausbau seiner Gigafactory in Grünheide für die Produktion von Robotaxis ab 2029 an.
+- Ein Cyberangriff legte Personalsysteme der EU-Kommission tagelang lahm, wobei das KI-Tool Artex missbraucht wurde.
 - Die Vereinigten Staaten verschärften ihre Exportkontrollen für Hochleistungs-KI-Chips.
-- Tesla kündigte einen milliardenschweren Ausbau seiner deutschen Gigafactory für die Robotaxi-Produktion ab 2029 an.
-- Ein Cyberangriff mit dem KI-Tool Artex legte Personalsysteme der EU-Kommission tagelang lahm.
 - Die Europäische Union plant einen neuen Finanzhilfepaket für die Ukraine in Höhe von 45 Milliarden Euro.
-- Die 31. Weltklimakonferenz COP31 in Antalya ging in die Verlängerung.
-- Bei einer Hinrichtung in den USA traten erneut gravierende Probleme auf.
 - Das KI-Startup Anthropic feierte einen Rekord-Börsengang.
+- Dänemark wies einen russischen Diplomaten aufgrund eines Mordkomplott-Verdachts aus.
 
 ## Entwicklungen & Trends
-Die Woche zeigte eine zunehmende Konfrontation im Technologiebereich, angetrieben durch US-Exportbeschränkungen und massive Investitionen in KI und Zukunftstechnologien wie bei Tesla. Gleichzeitig blieb die Cybersicherheit ein drängendes Problem, das von gezielten Angriffen auf supranationale Einrichtungen bis hin zu massiven Serienangriffen auf nationale Infrastrukturen wie die der Deutschen Bahn reichte. Im Ukraine-Krieg manifestierte sich die anhaltende Unterstützung des Westens sowohl in finanziellen Zusagen als auch in militärischen Drohungen, während die diplomatischen Spannungen mit Russland durch Ausweisungen weiter zunahmen.
+Die Bedrohung durch Cyberangriffe zeigte sich erneut sowohl bei der EU-Kommission als auch bei der Deutschen Bahn, die mit hunderten täglichen Attacken konfrontiert ist. Auf der Weltklimakonferenz COP31 in Antalya zeichnete sich trotz Verlängerung ein mögliches Scheitern der Verhandlungen ab. Im Technologiebereich setzten sich zwei gegenläufige Trends fort: Während die USA den Export von KI-Chips weiter einschränkten, feierten KI-Firmen wie Anthropic massive finanzielle Erfolge.
 
 ## Ausblick
-Die verlängerten Klimaverhandlungen in Antalya stehen vor einem kritischen Abschluss. Die angekündigten US-Maßnahmen zu KI-Chips und Rechenzentren im Ausland dürften die globalen Technologie- und Handelsbeziehungen weiter belasten.
+Die Verhandlungen auf der Weltklimakonferenz COP31 bleiben kritisch, ein Abschluss oder endgültiges Scheitern steht bevor. Die angekündigte massive Steuer auf amerikanische Rechenzentren im Ausland durch US-Präsident Trump könnte die Tech-Branche weiter unter Druck setzen.
