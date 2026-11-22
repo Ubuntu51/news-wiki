@@ -1,57 +1,57 @@
 {
  "label": "Kalenderwoche 48 / 2026",
- "generated_at": "22.11.2026, 07:04 Uhr",
+ "generated_at": "22.11.2026, 18:03 Uhr",
  "model": "deepseek-v3.2",
  "predictions": [
   {
    "nr": 1,
    "title": "Eskalation der Gewalt im Gazastreifen",
-   "category": "Sicherheit / Internationale Konflikte",
+   "category": "Sicherheit / Geopolitik",
    "horizon": "kurzfristig (bis 1 Woche)",
    "level": "hoch",
    "probability": 80,
-   "reason": "Die Wochenzusammenfassung beschreibt eine Eskalation im Gazastreifen mit einem israelischen Angriff mit zahlreichen Todesopfern und eine weitere Ausweitung des Konflikts im Nahen Osten. Dieser Trend der Eskalation wird als prägend für die kommende Agenda genannt.",
-   "signal": "Weitere Meldungen über militärische Angriffe, Gegenschläge oder eine Zunahme der Kampfhandlungen im Gazastreifen und der umliegenden Region in den nächsten Tagen."
+   "reason": "Die Berichte über einen israelischen Angriff in Gaza-Stadt mit zahlreichen Toten deuten auf eine akute und anhaltende Eskalation des Konflikts hin.",
+   "signal": "Eine Zunahme von Meldungen über weitere militärische Angriffe, Vergeltungsschläge oder eine Verschärfung der humanitären Lage in der Region wäre in der kommenden Woche zu beobachten."
   },
   {
    "nr": 2,
-   "title": "Verstärkte Fokussierung auf Cybersicherheit bei kritischen Infrastrukturen",
-   "category": "Sicherheit / Cyber",
+   "title": "Zunahme von Cyberangriffen auf kritische Infrastruktur und Institutionen",
+   "category": "Sicherheit / Wirtschaft",
    "horizon": "mittelfristig (2-4 Wochen)",
    "level": "hoch",
    "probability": 85,
-   "reason": "Mehrere schwerwiegende Cyberangriffe (EU-Kommission, Deutsche Bahn) wurden als drängendes Thema hervorgehoben. Die hohe Frequenz von Angriffen und ihre erfolgreiche Durchführung deuten auf eine anhaltend hohe Bedrohungslage hin, die zu Reaktionen führen wird.",
-   "signal": "Ankündigungen von zusätzlichen Sicherheitsmaßnahmen, erhöhten Investitionen in IT-Sicherheit oder politischen Initiativen auf EU- oder nationaler Ebene (z.B. Deutschland) in den kommenden Wochen."
+   "reason": "Die erfolgreichen Angriffe auf die EU-Kommission und die Deutsche Bank werden als systemische Bedrohung beschrieben und könnten Nachahmer anziehen oder weitere Schwachstellen offenlegen.",
+   "signal": "Neue Meldungen über erfolgreiche oder vereitelte Cyberangriffe auf andere große Unternehmen, Behörden oder kritische Infrastrukturen wie Energieversorger würden diesen Trend bestätigen."
   },
   {
    "nr": 3,
-   "title": "Fortgesetzte wirtschaftliche Verwerfungen im KI-Technologiesektor",
-   "category": "Wirtschaft / Technologie",
+   "title": "Verstärkte Debatte über alternative Klimaschutz-Ansätze",
+   "category": "Klima / Politik",
    "horizon": "mittelfristig (2-4 Wochen)",
-   "level": "mittel",
-   "probability": 65,
-   "reason": "Die verschärften US-Exportkontrollen für KI-Chips vertiefen die wirtschaftlichen Verwerfungen zwischen den USA und China. Parallel boomt die Branche mit Rekordinvestitionen (z.B. Anthropic). Dieser Gegensatz aus Restriktion und Boom könnte zu weiteren Marktveränderungen führen.",
-   "signal": "Reaktionen chinesischer Unternehmen oder der Regierung auf die Exportbeschränkungen, weitere große Investitionsankündigungen in KI-Unternehmen außerhalb der US-Kontrollen oder Lieferengpässe für bestimmte Technologien."
+   "level": "hoch",
+   "probability": 90,
+   "reason": "Das Scheitern der COP31 ohne Abschlusserklärung wird laut Ausblick die Suche nach neuen Wegen der Klimafinanzierung und -politik außerhalb der UN-Verhandlungen beschleunigen.",
+   "signal": "In der kommenden Woche könnten verstärkte Statements einzelner Staaten oder Staatengruppen, Ankündigungen bilateraler Klimaabkommen oder Initiativen der Wirtschaft zu beobachten sein."
   },
   {
    "nr": 4,
-   "title": "Kritische Phase bei der Weltklimakonferenz COP31",
-   "category": "Klima / Internationale Politik",
-   "horizon": "kurzfristig (bis 1 Woche)",
+   "title": "Verschärfung des geopolitischen Technologiewettbewerbs",
+   "category": "Wirtschaft / Geopolitik",
+   "horizon": "mittelfristig (2-4 Wochen)",
    "level": "hoch",
-   "probability": 75,
-   "reason": "Die Verhandlungen auf der COP31 wurden verlängert, und ein Scheitern wird explizit als nicht ausgeschlossen genannt. Der Ausblick stellt die Konferenz vor einem möglichen Scheitern dar.",
-   "signal": "Meldungen über einen Durchbruch in den Verhandlungen mit einem konkreten Abschlussdokument oder, im Gegenteil, über einen gescheiterten Gipfel mit vertagten oder stark verwässerten Beschlüssen in den kommenden Tagen."
+   "probability": 80,
+   "reason": "Die US-Exportkontrollen für KI-Chips, die drohende US-Steuer auf ausländische Rechenzentren und Teslas milliardenschwere Investition in Deutschland deuten auf eine Intensivierung des Wettbewerbs um technologische Souveränität hin.",
+   "signal": "Reaktionen anderer Staaten (z.B. der EU oder Chinas) auf die US-Maßnahmen oder neue, protektionistische Ankündigungen im Technologiebereich wären Indikatoren."
   },
   {
    "nr": 5,
-   "title": "Vorbereitungen für ein neues EU-Finanzpaket für die Ukraine",
-   "category": "Politik / Internationale Beziehungen",
-   "horizon": "mittelfristig (2-4 Wochen)",
+   "title": "Fortgesetzte Volatilität im KI- und Technologiesektor",
+   "category": "Wirtschaft",
+   "horizon": "kurzfristig (bis 1 Woche)",
    "level": "mittel",
-   "probability": 60,
-   "reason": "Die Europäische Union plant konkret einen neuen Kredit für die Ukraine in Höhe von 45 Milliarden Euro. Solche Pläne durchlaufen üblicherweise politische und administrative Prozesse.",
-   "signal": "Konkrete Schritte wie die Vorlage eines offiziellen Vorschlags durch die EU-Kommission, die Aufnahme von Verhandlungen zwischen den Mitgliedstaaten oder Debatten im Europäischen Parlament zu diesem Finanzpaket."
+   "probability": 70,
+   "reason": "Die starken Kursschwankungen bei KI-Aktien, der Rekord-Börsengang von Anthropic bei gleichzeitigem Wertverlust von Nvidia, zeigen eine anhaltende Unsicherheit und Polarisierung im Markt.",
+   "signal": "Weitere signifikante Kursbewegungen bei großen KI- und Technologieunternehmen oder widersprüchliche Analystenberichte zur Branchenentwicklung wären erwartbar."
   }
  ]
 }

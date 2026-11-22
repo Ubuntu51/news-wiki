@@ -6,22 +6,22 @@ title: "Wochenzusammenfassung Kalenderwoche 47 / 2026"
 
 # Wochenzusammenfassung – Kalenderwoche 47 / 2026
 
-> **Stand:** 22.11.2026, 07:04 Uhr · **Modell:** deepseek-v3.2
+> **Stand:** 22.11.2026, 18:03 Uhr · **Modell:** deepseek-v3.2
 
 # Wochenüberblick
-Die internationale Sicherheits- und Konfliktlage dominierte die Woche mit einer Eskalation im Gazastreifen und weiteren Angriffen im Nahen Osten. Parallel blieben Cyberangriffe auf kritische Infrastrukturen wie die EU-Kommission und die Deutsche Bahn ein drängendes Thema. Wirtschaftlich sorgten die verschärften US-Exportkontrollen für KI-Chips, massive Investitionen in die KI-Branche und Turbulenzen an den Rohstoffmärkten für Schlagzeilen.
+Die internationale Klimapolitik erlitt mit dem Scheitern der COP31 einen schweren Rückschlag. Parallel blieben die geopolitischen Spannungen hoch, sichtbar durch Angriffe auf Botschaften und Schiffe sowie die Eskalation im Gazastreifen. Wirtschaft und Technologie waren von massiven Cyberangriffen, regulatorischen Verschärfungen und starken Kursschwankungen bei Krypto- und KI-Aktien geprägt.
 
 ## ⭐ Wichtigste Themen
+- Die 31. UNO-Klimakonferenz (COP31) in Antalya scheiterte an einer gemeinsamen Abschlusserklärung.
 - Bei einem israelischen Angriff in Gaza-Stadt sind nach Berichten zahlreiche Menschen ums Leben gekommen.
-- Ein Cyberangriff legte Personalsysteme der EU-Kommission tagelang lahm, während ein Bericht bis zu tausend tägliche Angriffe auf die Infrastruktur der Deutsche Bahn meldete.
+- Ein Cyberangriff legte Personalsysteme der EU-Kommission unter Missbrauch des KI-Tools Artex tagelang lahm.
 - Die Vereinigten Staaten verschärften ihre Exportkontrollen für Hochleistungs-KI-Chips.
-- Das KI-Startup Anthropic feierte einen Rekord-Börsengang und Tesla kündigte einen milliardenschweren Ausbau seiner deutschen Gigafactory für die Produktion von Robotaxis an.
-- Die Verhandlungen auf der Weltklimakonferenz COP31 in der Türkei wurden verlängert, ein Scheitern ist nicht ausgeschlossen.
-- Mexikanische Behörden nahmen einen gesuchten Drogenboss fest.
-- Die Europäische Union plant einen neuen Kredit für die Ukraine in Höhe von 45 Milliarden Euro.
+- Tesla kündigte einen milliardenschweren Ausbau seiner Gigafactory in Grünheide für die Produktion von Robotaxis ab 2029 an.
+- Die Deutsche Bank geriet durch ein massives Datenleck in erhebliche Bedrängnis.
+- US-Präsident Donald Trump drohte mit einer hohen Steuer für den Bau amerikanischer Rechenzentren im Ausland.
 
 ## Entwicklungen & Trends
-Die Bedrohung durch Cyberangriffe zeigte sich in mehreren, schwerwiegenden Vorfällen auf internationaler und nationaler Ebene. Die wirtschaftlichen Verwerfungen zwischen den USA und China im Technologiebereich vertieften sich durch die neuen Exportbeschränkungen, während gleichzeitig die KI-Branche mit Rekordinvestitionen boomte. Der Konflikt im Nahen Osten weitete sich mit Angriffen auf Ziele in Bahrain und einem Vorfall in der Ostsee weiter aus.
+Die Verhandlungen auf der Weltklimakonferenz zogen sich bis in die Verlängerung, bevor sie schließlich ohne Abschlusserklärung endeten, was eine tiefe Krise der multilateralen Klimadiplomatie offenbarte. Cyberangriffe erwiesen sich als anhaltende systemische Bedrohung, die von der EU-Kommission über die Deutsche Bahn bis hin zur Deutschen Bank reichte. Im Technologiesektor zeichnete sich eine Polarisierung ab: Während KI-Firmen wie Anthropic einen Rekord-Börsengang feierten, verloren Pioniere wie Nvidia massiv an Wert, und die US-Exportbeschränkungen für KI-Chips verschärften den globalen Wettbewerbsdruck.
 
 ## Ausblick
-Die verlängerte Weltklimakonferenz steht vor einem möglichen Scheitern, und die angespannte Sicherheitslage im Nahen Osten sowie die anhaltenden Cyberbedrohungen werden die Agenda der kommenden Tage prägen.
+Die gescheiterten Klimaverhandlungen werden die Debatte über alternative Wege der Klimafinanzierung und -politik verstärken. Die angekündigten milliardenschweren Investitionen von Tesla und die drohende US-Steuer auf Rechenzentren im Ausland deuten auf eine weitere Intensivierung des geopolitischen Wettbewerbs um Zukunftstechnologien hin.
