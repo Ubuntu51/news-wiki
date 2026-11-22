@@ -6,22 +6,22 @@ title: "Wochenzusammenfassung Kalenderwoche 47 / 2026"
 
 # Wochenzusammenfassung – Kalenderwoche 47 / 2026
 
-> **Stand:** 21.11.2026, 18:04 Uhr · **Modell:** deepseek-v3.2
+> **Stand:** 22.11.2026, 07:04 Uhr · **Modell:** deepseek-v3.2
 
 # Wochenüberblick
-Die internationale Politik und Sicherheitslage bestimmte die Woche mit einem israelischen Angriff in Gaza und diplomatischen Verwicklungen um Russland. Parallel blieben Cyberangriffe und die Regulierung von Zukunftstechnologien zentrale Themen. Wirtschaftlich sorgten Rekorde bei KI-Startups und Bitcoin-Investments für Aufsehen.
+Die internationale Sicherheits- und Konfliktlage dominierte die Woche mit einer Eskalation im Gazastreifen und weiteren Angriffen im Nahen Osten. Parallel blieben Cyberangriffe auf kritische Infrastrukturen wie die EU-Kommission und die Deutsche Bahn ein drängendes Thema. Wirtschaftlich sorgten die verschärften US-Exportkontrollen für KI-Chips, massive Investitionen in die KI-Branche und Turbulenzen an den Rohstoffmärkten für Schlagzeilen.
 
 ## ⭐ Wichtigste Themen
 - Bei einem israelischen Angriff in Gaza-Stadt sind nach Berichten zahlreiche Menschen ums Leben gekommen.
-- Tesla kündigte einen milliardenschweren Ausbau seiner Gigafactory in Grünheide für die Produktion von Robotaxis ab 2029 an.
-- Ein Cyberangriff legte Personalsysteme der EU-Kommission tagelang lahm, wobei das KI-Tool Artex missbraucht wurde.
+- Ein Cyberangriff legte Personalsysteme der EU-Kommission tagelang lahm, während ein Bericht bis zu tausend tägliche Angriffe auf die Infrastruktur der Deutsche Bahn meldete.
 - Die Vereinigten Staaten verschärften ihre Exportkontrollen für Hochleistungs-KI-Chips.
-- Die Europäische Union plant einen neuen Finanzhilfepaket für die Ukraine in Höhe von 45 Milliarden Euro.
-- Das KI-Startup Anthropic feierte einen Rekord-Börsengang.
-- Dänemark wies einen russischen Diplomaten aufgrund eines Mordkomplott-Verdachts aus.
+- Das KI-Startup Anthropic feierte einen Rekord-Börsengang und Tesla kündigte einen milliardenschweren Ausbau seiner deutschen Gigafactory für die Produktion von Robotaxis an.
+- Die Verhandlungen auf der Weltklimakonferenz COP31 in der Türkei wurden verlängert, ein Scheitern ist nicht ausgeschlossen.
+- Mexikanische Behörden nahmen einen gesuchten Drogenboss fest.
+- Die Europäische Union plant einen neuen Kredit für die Ukraine in Höhe von 45 Milliarden Euro.
 
 ## Entwicklungen & Trends
-Die Bedrohung durch Cyberangriffe zeigte sich erneut sowohl bei der EU-Kommission als auch bei der Deutschen Bahn, die mit hunderten täglichen Attacken konfrontiert ist. Auf der Weltklimakonferenz COP31 in Antalya zeichnete sich trotz Verlängerung ein mögliches Scheitern der Verhandlungen ab. Im Technologiebereich setzten sich zwei gegenläufige Trends fort: Während die USA den Export von KI-Chips weiter einschränkten, feierten KI-Firmen wie Anthropic massive finanzielle Erfolge.
+Die Bedrohung durch Cyberangriffe zeigte sich in mehreren, schwerwiegenden Vorfällen auf internationaler und nationaler Ebene. Die wirtschaftlichen Verwerfungen zwischen den USA und China im Technologiebereich vertieften sich durch die neuen Exportbeschränkungen, während gleichzeitig die KI-Branche mit Rekordinvestitionen boomte. Der Konflikt im Nahen Osten weitete sich mit Angriffen auf Ziele in Bahrain und einem Vorfall in der Ostsee weiter aus.
 
 ## Ausblick
-Die Verhandlungen auf der Weltklimakonferenz COP31 bleiben kritisch, ein Abschluss oder endgültiges Scheitern steht bevor. Die angekündigte massive Steuer auf amerikanische Rechenzentren im Ausland durch US-Präsident Trump könnte die Tech-Branche weiter unter Druck setzen.
+Die verlängerte Weltklimakonferenz steht vor einem möglichen Scheitern, und die angespannte Sicherheitslage im Nahen Osten sowie die anhaltenden Cyberbedrohungen werden die Agenda der kommenden Tage prägen.

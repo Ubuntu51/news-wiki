@@ -6,40 +6,40 @@ title: "Wochenausblick Kalenderwoche 48 / 2026"
 
 # Wochenausblick – Kalenderwoche 48 / 2026
 
-> **Stand:** 21.11.2026, 18:04 Uhr · **Modell:** deepseek-v3.2
+> **Stand:** 22.11.2026, 07:04 Uhr · **Modell:** deepseek-v3.2
 > ⚠️ **KI-Prognose:** Automatisch von einer KI auf Basis der Wochenzusammenfassung erstellt. Keine Garantie – nur mögliche Entwicklungen, keine Tatsachenbehauptungen.
 
-### 1. Kritische Phase auf der COP31-Klimakonferenz
-- **Kategorie:** Klima
+### 1. Eskalation der Gewalt im Gazastreifen
+- **Kategorie:** Sicherheit / Internationale Konflikte
 - **Horizont:** kurzfristig (bis 1 Woche)
 - **Eintrittswahrscheinlichkeit:** hoch (ca. 80 %) ▓▓▓▓▓▓▓▓░░
-- **Begründung:** Die Zusammenfassung für KW 47 stellt fest, dass sich auf der COP31 in Antalya trotz Verlängerung ein mögliches Scheitern der Verhandlungen abzeichnet. Der Ausblick betont, dass ein Abschluss oder endgültiges Scheitern bevorsteht.
-- **Woran erkennen:** In der kommenden Woche wäre zu beobachten, ob die Konferenz zu einem konkreten Abschlussdokument führt oder ob die Verhandlungen ohne wesentliche Einigung für gescheitert erklärt werden.
+- **Begründung:** Die Wochenzusammenfassung beschreibt eine Eskalation im Gazastreifen mit einem israelischen Angriff mit zahlreichen Todesopfern und eine weitere Ausweitung des Konflikts im Nahen Osten. Dieser Trend der Eskalation wird als prägend für die kommende Agenda genannt.
+- **Woran erkennen:** Weitere Meldungen über militärische Angriffe, Gegenschläge oder eine Zunahme der Kampfhandlungen im Gazastreifen und der umliegenden Region in den nächsten Tagen.
 
-### 2. Zunehmende diplomatische Spannungen mit Russland in Europa
-- **Kategorie:** Politik / Sicherheit
+### 2. Verstärkte Fokussierung auf Cybersicherheit bei kritischen Infrastrukturen
+- **Kategorie:** Sicherheit / Cyber
 - **Horizont:** mittelfristig (2-4 Wochen)
-- **Eintrittswahrscheinlichkeit:** mittel (ca. 60 %) ▓▓▓▓▓▓░░░░
-- **Begründung:** Dänemark wies in KW 47 einen russischen Diplomaten aufgrund eines Mordkomplott-Verdachts aus. Dies folgt einem Muster diplomatischer Verwicklungen um Russland, das als eines der wichtigsten Themen der Woche genannt wird.
-- **Woran erkennen:** Es wäre in den kommenden Wochen zu beobachten, ob weitere EU- oder NATO-Staaten ähnliche Maßnahmen gegen russisches diplomatisches Personal ergreifen oder die Angelegenheit auf multinationaler Ebene thematisieren.
+- **Eintrittswahrscheinlichkeit:** hoch (ca. 85 %) ▓▓▓▓▓▓▓▓░░
+- **Begründung:** Mehrere schwerwiegende Cyberangriffe (EU-Kommission, Deutsche Bahn) wurden als drängendes Thema hervorgehoben. Die hohe Frequenz von Angriffen und ihre erfolgreiche Durchführung deuten auf eine anhaltend hohe Bedrohungslage hin, die zu Reaktionen führen wird.
+- **Woran erkennen:** Ankündigungen von zusätzlichen Sicherheitsmaßnahmen, erhöhten Investitionen in IT-Sicherheit oder politischen Initiativen auf EU- oder nationaler Ebene (z.B. Deutschland) in den kommenden Wochen.
 
-### 3. Erhöhte Aufmerksamkeit für Cybersicherheit in EU-Institutionen
-- **Kategorie:** Sicherheit / KI
-- **Horizont:** kurzfristig (bis 1 Woche)
-- **Eintristwahrscheinlichkeit:** hoch (ca. 75 %)
-- **Begründung:** Der Cyberangriff auf Personalsysteme der EU-Kommission, bei dem das KI-Tool Artex missbraucht wurde, legte Systeme tagelang lahm. Dies wird als zentrales Thema der Woche und Teil eines anhaltenden Trends genannt.
-- **Woran erkennen:** In KW 48 wären mögliche erste offizielle Stellungnahmen der EU-Kommission zu Konsequenzen, vertieften Untersuchungen oder neuen Sicherheitsmaßnahmen als Reaktion auf den konkreten Vorfall zu erwarten.
-
-### 4. Fortgesetzte regulatorische Unsicherheit für die Tech-Branche
-- **Kategorie:** Wirtschaft / KI
+### 3. Fortgesetzte wirtschaftliche Verwerfungen im KI-Technologiesektor
+- **Kategorie:** Wirtschaft / Technologie
 - **Horizont:** mittelfristig (2-4 Wochen)
 - **Eintrittswahrscheinlichkeit:** mittel (ca. 65 %) ▓▓▓▓▓▓░░░░
-- **Begründung:** Zwei gegenläufige Trends wurden in KW 47 deutlich: Die USA verschärften ihre Exportkontrollen für KI-Chips, und Präsident Trump kündigte eine massive Steuer auf amerikanische Rechenzentren im Ausland an. Dies wird im Ausblick als weiterer Druckfaktor genannt.
-- **Woran erkennen:** In den kommenden Wochen könnte sich zeigen, ob andere Staaten oder Wirtschaftsblöcke (wie die EU) auf die amerikanischen Maßnahmen reagieren oder ob erste konkretere Planungen zur Umsetzung der angekündigten Steuer bekannt werden.
+- **Begründung:** Die verschärften US-Exportkontrollen für KI-Chips vertiefen die wirtschaftlichen Verwerfungen zwischen den USA und China. Parallel boomt die Branche mit Rekordinvestitionen (z.B. Anthropic). Dieser Gegensatz aus Restriktion und Boom könnte zu weiteren Marktveränderungen führen.
+- **Woran erkennen:** Reaktionen chinesischer Unternehmen oder der Regierung auf die Exportbeschränkungen, weitere große Investitionsankündigungen in KI-Unternehmen außerhalb der US-Kontrollen oder Lieferengpässe für bestimmte Technologien.
 
-### 5. Fokus auf die Umsetzung des EU-Ukraine-Hilfspakets
-- **Kategorie:** Politik / Wirtschaft
+### 4. Kritische Phase bei der Weltklimakonferenz COP31
+- **Kategorie:** Klima / Internationale Politik
+- **Horizont:** kurzfristig (bis 1 Woche)
+- **Eintrittswahrscheinlichkeit:** hoch (ca. 75 %) ▓▓▓▓▓▓▓▓░░
+- **Begründung:** Die Verhandlungen auf der COP31 wurden verlängert, und ein Scheitern wird explizit als nicht ausgeschlossen genannt. Der Ausblick stellt die Konferenz vor einem möglichen Scheitern dar.
+- **Woran erkennen:** Meldungen über einen Durchbruch in den Verhandlungen mit einem konkreten Abschlussdokument oder, im Gegenteil, über einen gescheiterten Gipfel mit vertagten oder stark verwässerten Beschlüssen in den kommenden Tagen.
+
+### 5. Vorbereitungen für ein neues EU-Finanzpaket für die Ukraine
+- **Kategorie:** Politik / Internationale Beziehungen
 - **Horizont:** mittelfristig (2-4 Wochen)
-- **Eintrittswahrscheinlichkeit:** hoch (ca. 70 %) ▓▓▓▓▓▓▓░░░
-- **Begründung:** Die EU plant ein neues Finanzhilfepaket für die Ukraine in Höhe von 45 Milliarden Euro. Da internationale Politik ein bestimmendes Thema der Woche war, wird die Umsetzung dieses konkreten Vorhabens priorisiert werden.
-- **Woran erkennen:** In den kommenden Wochen wären Fortschritte im legislativen Prozess der EU zur Verabschiedung des Pakets oder erste Details zu dessen Verteilung und Konditionalitäten zu beobachten.
+- **Eintrittswahrscheinlichkeit:** mittel (ca. 60 %) ▓▓▓▓▓▓░░░░
+- **Begründung:** Die Europäische Union plant konkret einen neuen Kredit für die Ukraine in Höhe von 45 Milliarden Euro. Solche Pläne durchlaufen üblicherweise politische und administrative Prozesse.
+- **Woran erkennen:** Konkrete Schritte wie die Vorlage eines offiziellen Vorschlags durch die EU-Kommission, die Aufnahme von Verhandlungen zwischen den Mitgliedstaaten oder Debatten im Europäischen Parlament zu diesem Finanzpaket.
