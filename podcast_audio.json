@@ -623,6 +623,13 @@
       "size": 7181568,
       "sha256": "48ca8047ad3f916ce447e8ebcbad1cd6a193d65af8a1880cf015b96bd85fdcb2",
       "uploaded_at": "2026-11-22T17:06:26+00:00"
+    },
+    "2026-11-23_15-15.mp3": {
+      "key": "podcast/2026/11/2026-11-23_15-15.mp3",
+      "url": "https://pub-3e3b91913d05499984f91f9cbeed80ce.r2.dev/podcast/2026/11/2026-11-23_15-15.mp3",
+      "size": 7179264,
+      "sha256": "8c3aea604c71cec4535104d34b820e3ada9525441326b082cd87f2dd4d7b013c",
+      "uploaded_at": "2026-11-23T14:23:28+00:00"
     }
   },
   "repo": "Ubuntu51/news-wiki",
