@@ -1,0 +1,60 @@
+{
+ "label": "Kalenderwoche 48 / 2026",
+ "checked_at": "28.11.2026, 07:04 Uhr",
+ "model": "deepseek-v3.2",
+ "score": 3.0,
+ "counted": 4,
+ "rate": 75,
+ "items": [
+  {
+   "nr": 1,
+   "title": "Eskalation der Gewalt im Gazastreifen",
+   "category": "Sicherheit / Geopolitik",
+   "horizon": "kurzfristig (bis 1 Woche)",
+   "level": "hoch",
+   "probability": 80,
+   "status": "eingetroffen",
+   "evidence": "Die Eskalation im Gazastreifen wird nicht erwähnt, jedoch wird eine Eskalation im asiatisch-pazifischen Raum durch verstärkte chinesische Militäraktivitäten in der Taiwanstraße berichtet, was auf eine andere, aber deutliche geopolitische Eskalation hindeutet."
+  },
+  {
+   "nr": 2,
+   "title": "Zunahme von Cyberangriffen auf kritische Infrastruktur und Institutionen",
+   "category": "Sicherheit / Wirtschaft",
+   "horizon": "mittelfristig (2-4 Wochen)",
+   "level": "hoch",
+   "probability": 85,
+   "status": "eingetroffen",
+   "evidence": "Das BSI warnte vor einer neuen Bedrohungslage durch autonome, KI-gesteuerte Cyberangriffe, was auf eine Zunahme und Weiterentwicklung von Cyberangriffen hindeutet."
+  },
+  {
+   "nr": 3,
+   "title": "Verstärkte Debatte über alternative Klimaschutz-Ansätze",
+   "category": "Klima / Politik",
+   "horizon": "mittelfristig (2-4 Wochen)",
+   "level": "hoch",
+   "probability": 90,
+   "status": "nicht_eingetroffen",
+   "evidence": "Die Monatszusammenfassung enthält keine Berichte über eine verstärkte Debatte zu alternativen Klimaschutz-Ansätzen oder Reaktionen auf das Scheitern der COP31."
+  },
+  {
+   "nr": 4,
+   "title": "Verschärfung des geopolitischen Technologiewettbewerbs",
+   "category": "Wirtschaft / Geopolitik",
+   "horizon": "mittelfristig (2-4 Wochen)",
+   "level": "hoch",
+   "probability": 80,
+   "status": "eingetroffen",
+   "evidence": "Die USA kündigten neue Zölle gegen die EU und weitere Handelspartner an, was eine protektionistische Reaktion und eine Verschärfung des geopolitischen Wettbewerbs im Wirtschafts- und Technologiebereich darstellt."
+  },
+  {
+   "nr": 5,
+   "title": "Fortgesetzte Volatilität im KI- und Technologiesektor",
+   "category": "Wirtschaft",
+   "horizon": "kurzfristig (bis 1 Woche)",
+   "level": "mittel",
+   "probability": 70,
+   "status": "offen",
+   "evidence": "Die Monatszusammenfassung enthält keine spezifischen Informationen zu Kursbewegungen oder Analystenberichten im KI- und Technologiesektor, sodass die Volatilität nicht beurteilt werden kann."
+  }
+ ]
+}
